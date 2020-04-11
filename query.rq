@@ -1,0 +1,6 @@
+SELECT DISTINCT ?ship ?shipLabel WHERE {
+  ?ship wdt:P31/wdt:P279* wd:Q11446.
+  ?ship rdfs:label ?shipName
+  # FILTER CONTAINS(?shipName, "Doesn't exist")
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
