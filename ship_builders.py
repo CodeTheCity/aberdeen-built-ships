@@ -7,8 +7,12 @@ with open("ships.json") as f:
 
 ship_builders = {}
 for s in built_ships_tbl:
+    builder = ""
     if s.has_key('Shipbuilder'):
         builder = s['Shipbuilder']
+    elif s.has_key('Builder'):
+        builder = s['Builder']
+    if builder:
         if builder in ship_builders:
             ship_builders[builder] += 1
         else:
