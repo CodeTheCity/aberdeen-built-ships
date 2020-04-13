@@ -1,0 +1,3617 @@
+name: ABBEYDALE
+wikidata: https://wikidata.org/wiki/Q84710758
+http://www.aberdeenships.com/single.asp?index=99759 "99759" : "Q84710758"
+name: ABEL TASMAN
+wikidata: https://wikidata.org/wiki/Q20723138
+http://www.aberdeenships.com/single.asp?index=101577 "101577" : "Q20723138"
+name: ABERDEEN
+wikidata: https://wikidata.org/wiki/Q52507806
+http://www.aberdeenships.com/single.asp?index=100851 "100851" : "Q52507806"
+http://www.aberdeenships.com/single.asp?index=182651 "182651" : "Q52507806"
+name: ABERDEEN
+wikidata: https://wikidata.org/wiki/Q83641687
+http://www.aberdeenships.com/single.asp?index=100851 "100851" : "Q83641687"
+http://www.aberdeenships.com/single.asp?index=182651 "182651" : "Q83641687"
+name: ABERDEEN
+wikidata: https://wikidata.org/wiki/Q83648792
+http://www.aberdeenships.com/single.asp?index=100851 "100851" : "Q83648792"
+http://www.aberdeenships.com/single.asp?index=182651 "182651" : "Q83648792"
+name: ABERDEENSHIRE
+wikidata: https://wikidata.org/wiki/Q84727578
+http://www.aberdeenships.com/single.asp?index=100825 "100825" : "Q84727578"
+name: ACORN
+wikidata: https://wikidata.org/wiki/Q24027335
+http://www.aberdeenships.com/single.asp?index=122869 "122869" : "Q24027335"
+name: ACTIVE
+wikidata: https://wikidata.org/wiki/Q24027049
+http://www.aberdeenships.com/single.asp?index=108152 "108152" : "Q24027049"
+http://www.aberdeenships.com/single.asp?index=182654 "182654" : "Q24027049"
+http://www.aberdeenships.com/single.asp?index=182655 "182655" : "Q24027049"
+name: ACTIVE
+wikidata: https://wikidata.org/wiki/Q3755897
+http://www.aberdeenships.com/single.asp?index=108152 "108152" : "Q3755897"
+http://www.aberdeenships.com/single.asp?index=182654 "182654" : "Q3755897"
+http://www.aberdeenships.com/single.asp?index=182655 "182655" : "Q3755897"
+name: ACTIVE
+wikidata: https://wikidata.org/wiki/Q42886794
+http://www.aberdeenships.com/single.asp?index=108152 "108152" : "Q42886794"
+http://www.aberdeenships.com/single.asp?index=182654 "182654" : "Q42886794"
+http://www.aberdeenships.com/single.asp?index=182655 "182655" : "Q42886794"
+name: ACTIVE
+wikidata: https://wikidata.org/wiki/Q4677482
+http://www.aberdeenships.com/single.asp?index=108152 "108152" : "Q4677482"
+http://www.aberdeenships.com/single.asp?index=182654 "182654" : "Q4677482"
+http://www.aberdeenships.com/single.asp?index=182655 "182655" : "Q4677482"
+name: ACTIVE
+wikidata: https://wikidata.org/wiki/Q4677483
+http://www.aberdeenships.com/single.asp?index=108152 "108152" : "Q4677483"
+http://www.aberdeenships.com/single.asp?index=182654 "182654" : "Q4677483"
+http://www.aberdeenships.com/single.asp?index=182655 "182655" : "Q4677483"
+name: ACTIVE
+wikidata: https://wikidata.org/wiki/Q4677487
+http://www.aberdeenships.com/single.asp?index=108152 "108152" : "Q4677487"
+http://www.aberdeenships.com/single.asp?index=182654 "182654" : "Q4677487"
+http://www.aberdeenships.com/single.asp?index=182655 "182655" : "Q4677487"
+name: ACTIVE
+wikidata: https://wikidata.org/wiki/Q48740233
+http://www.aberdeenships.com/single.asp?index=108152 "108152" : "Q48740233"
+http://www.aberdeenships.com/single.asp?index=182654 "182654" : "Q48740233"
+http://www.aberdeenships.com/single.asp?index=182655 "182655" : "Q48740233"
+name: ADAMANT
+wikidata: https://wikidata.org/wiki/Q42886748
+http://www.aberdeenships.com/single.asp?index=135655 "135655" : "Q42886748"
+name: ADA
+wikidata: https://wikidata.org/wiki/Q4678218
+http://www.aberdeenships.com/single.asp?index=100166 "100166" : "Q4678218"
+name: ADA
+wikidata: https://wikidata.org/wiki/Q84710567
+http://www.aberdeenships.com/single.asp?index=100166 "100166" : "Q84710567"
+name: ADELAIDE
+wikidata: https://wikidata.org/wiki/Q24027006
+http://www.aberdeenships.com/single.asp?index=100880 "100880" : "Q24027006"
+http://www.aberdeenships.com/single.asp?index=101799 "101799" : "Q24027006"
+name: ADELAIDE
+wikidata: https://wikidata.org/wiki/Q4681657
+http://www.aberdeenships.com/single.asp?index=100880 "100880" : "Q4681657"
+http://www.aberdeenships.com/single.asp?index=101799 "101799" : "Q4681657"
+name: ADELAIDE
+wikidata: https://wikidata.org/wiki/Q4681659
+http://www.aberdeenships.com/single.asp?index=100880 "100880" : "Q4681659"
+http://www.aberdeenships.com/single.asp?index=101799 "101799" : "Q4681659"
+name: ADELAIDE
+wikidata: https://wikidata.org/wiki/Q4681661
+http://www.aberdeenships.com/single.asp?index=100880 "100880" : "Q4681661"
+http://www.aberdeenships.com/single.asp?index=101799 "101799" : "Q4681661"
+name: ADMIRAL
+wikidata: https://wikidata.org/wiki/Q52322924
+http://www.aberdeenships.com/single.asp?index=99350 "99350" : "Q52322924"
+http://www.aberdeenships.com/single.asp?index=100163 "100163" : "Q52322924"
+name: ADMIRAL
+wikidata: https://wikidata.org/wiki/Q83627522
+http://www.aberdeenships.com/single.asp?index=99350 "99350" : "Q83627522"
+http://www.aberdeenships.com/single.asp?index=100163 "100163" : "Q83627522"
+name: ADMIRAL
+wikidata: https://wikidata.org/wiki/Q85987342
+http://www.aberdeenships.com/single.asp?index=99350 "99350" : "Q85987342"
+http://www.aberdeenships.com/single.asp?index=100163 "100163" : "Q85987342"
+name: ADVENTURE
+wikidata: https://wikidata.org/wiki/Q2323226
+http://www.aberdeenships.com/single.asp?index=99980 "99980" : "Q2323226"
+http://www.aberdeenships.com/single.asp?index=101109 "101109" : "Q2323226"
+http://www.aberdeenships.com/single.asp?index=110966 "110966" : "Q2323226"
+http://www.aberdeenships.com/single.asp?index=136440 "136440" : "Q2323226"
+name: ADVENTURE
+wikidata: https://wikidata.org/wiki/Q4686474
+http://www.aberdeenships.com/single.asp?index=99980 "99980" : "Q4686474"
+http://www.aberdeenships.com/single.asp?index=101109 "101109" : "Q4686474"
+http://www.aberdeenships.com/single.asp?index=110966 "110966" : "Q4686474"
+http://www.aberdeenships.com/single.asp?index=136440 "136440" : "Q4686474"
+name: ADVENTURE
+wikidata: https://wikidata.org/wiki/Q4686487
+http://www.aberdeenships.com/single.asp?index=99980 "99980" : "Q4686487"
+http://www.aberdeenships.com/single.asp?index=101109 "101109" : "Q4686487"
+http://www.aberdeenships.com/single.asp?index=110966 "110966" : "Q4686487"
+http://www.aberdeenships.com/single.asp?index=136440 "136440" : "Q4686487"
+name: ADVENTURE
+wikidata: https://wikidata.org/wiki/Q55808082
+http://www.aberdeenships.com/single.asp?index=99980 "99980" : "Q55808082"
+http://www.aberdeenships.com/single.asp?index=101109 "101109" : "Q55808082"
+http://www.aberdeenships.com/single.asp?index=110966 "110966" : "Q55808082"
+http://www.aberdeenships.com/single.asp?index=136440 "136440" : "Q55808082"
+name: AGENORIA
+wikidata: https://wikidata.org/wiki/Q23936292
+http://www.aberdeenships.com/single.asp?index=100757 "100757" : "Q23936292"
+name: AGENORIA
+wikidata: https://wikidata.org/wiki/Q24027465
+http://www.aberdeenships.com/single.asp?index=100757 "100757" : "Q24027465"
+name: AGNES BLAIKIE
+wikidata: https://wikidata.org/wiki/Q4033567
+http://www.aberdeenships.com/single.asp?index=99336 "99336" : "Q4033567"
+name: AGNES
+wikidata: https://wikidata.org/wiki/Q4692990
+http://www.aberdeenships.com/single.asp?index=99502 "99502" : "Q4692990"
+http://www.aberdeenships.com/single.asp?index=99557 "99557" : "Q4692990"
+http://www.aberdeenships.com/single.asp?index=99944 "99944" : "Q4692990"
+http://www.aberdeenships.com/single.asp?index=100279 "100279" : "Q4692990"
+name: AGNES
+wikidata: https://wikidata.org/wiki/Q4692992
+http://www.aberdeenships.com/single.asp?index=99502 "99502" : "Q4692992"
+http://www.aberdeenships.com/single.asp?index=99557 "99557" : "Q4692992"
+http://www.aberdeenships.com/single.asp?index=99944 "99944" : "Q4692992"
+http://www.aberdeenships.com/single.asp?index=100279 "100279" : "Q4692992"
+name: AGNES
+wikidata: https://wikidata.org/wiki/Q4692993
+http://www.aberdeenships.com/single.asp?index=99502 "99502" : "Q4692993"
+http://www.aberdeenships.com/single.asp?index=99557 "99557" : "Q4692993"
+http://www.aberdeenships.com/single.asp?index=99944 "99944" : "Q4692993"
+http://www.aberdeenships.com/single.asp?index=100279 "100279" : "Q4692993"
+name: AGNES
+wikidata: https://wikidata.org/wiki/Q4692994
+http://www.aberdeenships.com/single.asp?index=99502 "99502" : "Q4692994"
+http://www.aberdeenships.com/single.asp?index=99557 "99557" : "Q4692994"
+http://www.aberdeenships.com/single.asp?index=99944 "99944" : "Q4692994"
+http://www.aberdeenships.com/single.asp?index=100279 "100279" : "Q4692994"
+name: AGNES
+wikidata: https://wikidata.org/wiki/Q4692996
+http://www.aberdeenships.com/single.asp?index=99502 "99502" : "Q4692996"
+http://www.aberdeenships.com/single.asp?index=99557 "99557" : "Q4692996"
+http://www.aberdeenships.com/single.asp?index=99944 "99944" : "Q4692996"
+http://www.aberdeenships.com/single.asp?index=100279 "100279" : "Q4692996"
+name: AGNES
+wikidata: https://wikidata.org/wiki/Q4692999
+http://www.aberdeenships.com/single.asp?index=99502 "99502" : "Q4692999"
+http://www.aberdeenships.com/single.asp?index=99557 "99557" : "Q4692999"
+http://www.aberdeenships.com/single.asp?index=99944 "99944" : "Q4692999"
+http://www.aberdeenships.com/single.asp?index=100279 "100279" : "Q4692999"
+name: AID
+wikidata: https://wikidata.org/wiki/Q43913612
+http://www.aberdeenships.com/single.asp?index=100771 "100771" : "Q43913612"
+http://www.aberdeenships.com/single.asp?index=152158 "152158" : "Q43913612"
+http://www.aberdeenships.com/single.asp?index=152177 "152177" : "Q43913612"
+http://www.aberdeenships.com/single.asp?index=152197 "152197" : "Q43913612"
+name: ALBATROSS
+wikidata: https://wikidata.org/wiki/Q24027334
+http://www.aberdeenships.com/single.asp?index=99315 "99315" : "Q24027334"
+http://www.aberdeenships.com/single.asp?index=100338 "100338" : "Q24027334"
+name: ALBATROSS
+wikidata: https://wikidata.org/wiki/Q630511
+http://www.aberdeenships.com/single.asp?index=99315 "99315" : "Q630511"
+http://www.aberdeenships.com/single.asp?index=100338 "100338" : "Q630511"
+name: ALBATROSS
+wikidata: https://wikidata.org/wiki/Q84710534
+http://www.aberdeenships.com/single.asp?index=99315 "99315" : "Q84710534"
+http://www.aberdeenships.com/single.asp?index=100338 "100338" : "Q84710534"
+name: ALBATROSS
+wikidata: https://wikidata.org/wiki/Q84712089
+http://www.aberdeenships.com/single.asp?index=99315 "99315" : "Q84712089"
+http://www.aberdeenships.com/single.asp?index=100338 "100338" : "Q84712089"
+name: ALBATROSS
+wikidata: https://wikidata.org/wiki/Q86723410
+http://www.aberdeenships.com/single.asp?index=99315 "99315" : "Q86723410"
+http://www.aberdeenships.com/single.asp?index=100338 "100338" : "Q86723410"
+name: ALBION
+wikidata: https://wikidata.org/wiki/Q24027162
+http://www.aberdeenships.com/single.asp?index=99965 "99965" : "Q24027162"
+http://www.aberdeenships.com/single.asp?index=116048 "116048" : "Q24027162"
+http://www.aberdeenships.com/single.asp?index=152154 "152154" : "Q24027162"
+http://www.aberdeenships.com/single.asp?index=160219 "160219" : "Q24027162"
+name: ALBION
+wikidata: https://wikidata.org/wiki/Q42886722
+http://www.aberdeenships.com/single.asp?index=99965 "99965" : "Q42886722"
+http://www.aberdeenships.com/single.asp?index=116048 "116048" : "Q42886722"
+http://www.aberdeenships.com/single.asp?index=152154 "152154" : "Q42886722"
+http://www.aberdeenships.com/single.asp?index=160219 "160219" : "Q42886722"
+name: ALBION
+wikidata: https://wikidata.org/wiki/Q42886723
+http://www.aberdeenships.com/single.asp?index=99965 "99965" : "Q42886723"
+http://www.aberdeenships.com/single.asp?index=116048 "116048" : "Q42886723"
+http://www.aberdeenships.com/single.asp?index=152154 "152154" : "Q42886723"
+http://www.aberdeenships.com/single.asp?index=160219 "160219" : "Q42886723"
+name: ALBION
+wikidata: https://wikidata.org/wiki/Q42886725
+http://www.aberdeenships.com/single.asp?index=99965 "99965" : "Q42886725"
+http://www.aberdeenships.com/single.asp?index=116048 "116048" : "Q42886725"
+http://www.aberdeenships.com/single.asp?index=152154 "152154" : "Q42886725"
+http://www.aberdeenships.com/single.asp?index=160219 "160219" : "Q42886725"
+name: ALBION
+wikidata: https://wikidata.org/wiki/Q42886726
+http://www.aberdeenships.com/single.asp?index=99965 "99965" : "Q42886726"
+http://www.aberdeenships.com/single.asp?index=116048 "116048" : "Q42886726"
+http://www.aberdeenships.com/single.asp?index=152154 "152154" : "Q42886726"
+http://www.aberdeenships.com/single.asp?index=160219 "160219" : "Q42886726"
+name: ALBION
+wikidata: https://wikidata.org/wiki/Q42896511
+http://www.aberdeenships.com/single.asp?index=99965 "99965" : "Q42896511"
+http://www.aberdeenships.com/single.asp?index=116048 "116048" : "Q42896511"
+http://www.aberdeenships.com/single.asp?index=152154 "152154" : "Q42896511"
+http://www.aberdeenships.com/single.asp?index=160219 "160219" : "Q42896511"
+name: ALBION
+wikidata: https://wikidata.org/wiki/Q4712494
+http://www.aberdeenships.com/single.asp?index=99965 "99965" : "Q4712494"
+http://www.aberdeenships.com/single.asp?index=116048 "116048" : "Q4712494"
+http://www.aberdeenships.com/single.asp?index=152154 "152154" : "Q4712494"
+http://www.aberdeenships.com/single.asp?index=160219 "160219" : "Q4712494"
+name: ALBION
+wikidata: https://wikidata.org/wiki/Q4712495
+http://www.aberdeenships.com/single.asp?index=99965 "99965" : "Q4712495"
+http://www.aberdeenships.com/single.asp?index=116048 "116048" : "Q4712495"
+http://www.aberdeenships.com/single.asp?index=152154 "152154" : "Q4712495"
+http://www.aberdeenships.com/single.asp?index=160219 "160219" : "Q4712495"
+name: ALBUERA
+wikidata: https://wikidata.org/wiki/Q83448360
+http://www.aberdeenships.com/single.asp?index=100692 "100692" : "Q83448360"
+name: ALDERNEY
+wikidata: https://wikidata.org/wiki/Q28457814
+http://www.aberdeenships.com/single.asp?index=101695 "101695" : "Q28457814"
+name: ALERT
+wikidata: https://wikidata.org/wiki/Q22954034
+http://www.aberdeenships.com/single.asp?index=99999 "99999" : "Q22954034"
+http://www.aberdeenships.com/single.asp?index=100353 "100353" : "Q22954034"
+http://www.aberdeenships.com/single.asp?index=100735 "100735" : "Q22954034"
+http://www.aberdeenships.com/single.asp?index=152195 "152195" : "Q22954034"
+http://www.aberdeenships.com/single.asp?index=182656 "182656" : "Q22954034"
+name: ALERT
+wikidata: https://wikidata.org/wiki/Q24026964
+http://www.aberdeenships.com/single.asp?index=99999 "99999" : "Q24026964"
+http://www.aberdeenships.com/single.asp?index=100353 "100353" : "Q24026964"
+http://www.aberdeenships.com/single.asp?index=100735 "100735" : "Q24026964"
+http://www.aberdeenships.com/single.asp?index=152195 "152195" : "Q24026964"
+http://www.aberdeenships.com/single.asp?index=182656 "182656" : "Q24026964"
+name: ALERT
+wikidata: https://wikidata.org/wiki/Q24027290
+http://www.aberdeenships.com/single.asp?index=99999 "99999" : "Q24027290"
+http://www.aberdeenships.com/single.asp?index=100353 "100353" : "Q24027290"
+http://www.aberdeenships.com/single.asp?index=100735 "100735" : "Q24027290"
+http://www.aberdeenships.com/single.asp?index=152195 "152195" : "Q24027290"
+http://www.aberdeenships.com/single.asp?index=182656 "182656" : "Q24027290"
+name: ALERT
+wikidata: https://wikidata.org/wiki/Q27868061
+http://www.aberdeenships.com/single.asp?index=99999 "99999" : "Q27868061"
+http://www.aberdeenships.com/single.asp?index=100353 "100353" : "Q27868061"
+http://www.aberdeenships.com/single.asp?index=100735 "100735" : "Q27868061"
+http://www.aberdeenships.com/single.asp?index=152195 "152195" : "Q27868061"
+http://www.aberdeenships.com/single.asp?index=182656 "182656" : "Q27868061"
+name: ALERT
+wikidata: https://wikidata.org/wiki/Q52375999
+http://www.aberdeenships.com/single.asp?index=99999 "99999" : "Q52375999"
+http://www.aberdeenships.com/single.asp?index=100353 "100353" : "Q52375999"
+http://www.aberdeenships.com/single.asp?index=100735 "100735" : "Q52375999"
+http://www.aberdeenships.com/single.asp?index=152195 "152195" : "Q52375999"
+http://www.aberdeenships.com/single.asp?index=182656 "182656" : "Q52375999"
+name: ALEXANDER
+wikidata: https://wikidata.org/wiki/Q21469564
+http://www.aberdeenships.com/single.asp?index=99430 "99430" : "Q21469564"
+http://www.aberdeenships.com/single.asp?index=99492 "99492" : "Q21469564"
+http://www.aberdeenships.com/single.asp?index=113006 "113006" : "Q21469564"
+http://www.aberdeenships.com/single.asp?index=113007 "113007" : "Q21469564"
+http://www.aberdeenships.com/single.asp?index=130502 "130502" : "Q21469564"
+http://www.aberdeenships.com/single.asp?index=152938 "152938" : "Q21469564"
+name: ALEXANDER
+wikidata: https://wikidata.org/wiki/Q2641661
+http://www.aberdeenships.com/single.asp?index=99430 "99430" : "Q2641661"
+http://www.aberdeenships.com/single.asp?index=99492 "99492" : "Q2641661"
+http://www.aberdeenships.com/single.asp?index=113006 "113006" : "Q2641661"
+http://www.aberdeenships.com/single.asp?index=113007 "113007" : "Q2641661"
+http://www.aberdeenships.com/single.asp?index=130502 "130502" : "Q2641661"
+http://www.aberdeenships.com/single.asp?index=152938 "152938" : "Q2641661"
+name: ALEXANDER
+wikidata: https://wikidata.org/wiki/Q30598154
+http://www.aberdeenships.com/single.asp?index=99430 "99430" : "Q30598154"
+http://www.aberdeenships.com/single.asp?index=99492 "99492" : "Q30598154"
+http://www.aberdeenships.com/single.asp?index=113006 "113006" : "Q30598154"
+http://www.aberdeenships.com/single.asp?index=113007 "113007" : "Q30598154"
+http://www.aberdeenships.com/single.asp?index=130502 "130502" : "Q30598154"
+http://www.aberdeenships.com/single.asp?index=152938 "152938" : "Q30598154"
+name: ALEXANDER
+wikidata: https://wikidata.org/wiki/Q4718129
+http://www.aberdeenships.com/single.asp?index=99430 "99430" : "Q4718129"
+http://www.aberdeenships.com/single.asp?index=99492 "99492" : "Q4718129"
+http://www.aberdeenships.com/single.asp?index=113006 "113006" : "Q4718129"
+http://www.aberdeenships.com/single.asp?index=113007 "113007" : "Q4718129"
+http://www.aberdeenships.com/single.asp?index=130502 "130502" : "Q4718129"
+http://www.aberdeenships.com/single.asp?index=152938 "152938" : "Q4718129"
+name: ALEXANDER
+wikidata: https://wikidata.org/wiki/Q4718130
+http://www.aberdeenships.com/single.asp?index=99430 "99430" : "Q4718130"
+http://www.aberdeenships.com/single.asp?index=99492 "99492" : "Q4718130"
+http://www.aberdeenships.com/single.asp?index=113006 "113006" : "Q4718130"
+http://www.aberdeenships.com/single.asp?index=113007 "113007" : "Q4718130"
+http://www.aberdeenships.com/single.asp?index=130502 "130502" : "Q4718130"
+http://www.aberdeenships.com/single.asp?index=152938 "152938" : "Q4718130"
+name: ALEXANDER
+wikidata: https://wikidata.org/wiki/Q4718133
+http://www.aberdeenships.com/single.asp?index=99430 "99430" : "Q4718133"
+http://www.aberdeenships.com/single.asp?index=99492 "99492" : "Q4718133"
+http://www.aberdeenships.com/single.asp?index=113006 "113006" : "Q4718133"
+http://www.aberdeenships.com/single.asp?index=113007 "113007" : "Q4718133"
+http://www.aberdeenships.com/single.asp?index=130502 "130502" : "Q4718133"
+http://www.aberdeenships.com/single.asp?index=152938 "152938" : "Q4718133"
+name: ALEXANDER
+wikidata: https://wikidata.org/wiki/Q4718134
+http://www.aberdeenships.com/single.asp?index=99430 "99430" : "Q4718134"
+http://www.aberdeenships.com/single.asp?index=99492 "99492" : "Q4718134"
+http://www.aberdeenships.com/single.asp?index=113006 "113006" : "Q4718134"
+http://www.aberdeenships.com/single.asp?index=113007 "113007" : "Q4718134"
+http://www.aberdeenships.com/single.asp?index=130502 "130502" : "Q4718134"
+http://www.aberdeenships.com/single.asp?index=152938 "152938" : "Q4718134"
+name: ALEXANDER
+wikidata: https://wikidata.org/wiki/Q4718159
+http://www.aberdeenships.com/single.asp?index=99430 "99430" : "Q4718159"
+http://www.aberdeenships.com/single.asp?index=99492 "99492" : "Q4718159"
+http://www.aberdeenships.com/single.asp?index=113006 "113006" : "Q4718159"
+http://www.aberdeenships.com/single.asp?index=113007 "113007" : "Q4718159"
+http://www.aberdeenships.com/single.asp?index=130502 "130502" : "Q4718159"
+http://www.aberdeenships.com/single.asp?index=152938 "152938" : "Q4718159"
+name: ALEXANDRA
+wikidata: https://wikidata.org/wiki/Q86723233
+http://www.aberdeenships.com/single.asp?index=99742 "99742" : "Q86723233"
+http://www.aberdeenships.com/single.asp?index=152975 "152975" : "Q86723233"
+name: ALFRED
+wikidata: https://wikidata.org/wiki/Q42886752
+http://www.aberdeenships.com/single.asp?index=108151 "108151" : "Q42886752"
+http://www.aberdeenships.com/single.asp?index=136245 "136245" : "Q42886752"
+name: ALFRED
+wikidata: https://wikidata.org/wiki/Q42886753
+http://www.aberdeenships.com/single.asp?index=108151 "108151" : "Q42886753"
+http://www.aberdeenships.com/single.asp?index=136245 "136245" : "Q42886753"
+name: ALLISON
+wikidata: https://wikidata.org/wiki/Q59211884
+http://www.aberdeenships.com/single.asp?index=152183 "152183" : "Q59211884"
+name: ALMA
+wikidata: https://wikidata.org/wiki/Q2156353
+http://www.aberdeenships.com/single.asp?index=99565 "99565" : "Q2156353"
+name: ALNWICK CASTLE
+wikidata: https://wikidata.org/wiki/Q43259684
+http://www.aberdeenships.com/single.asp?index=100054 "100054" : "Q43259684"
+name: ALPHA
+wikidata: https://wikidata.org/wiki/Q28457964
+http://www.aberdeenships.com/single.asp?index=99743 "99743" : "Q28457964"
+http://www.aberdeenships.com/single.asp?index=152225 "152225" : "Q28457964"
+name: ALPHA
+wikidata: https://wikidata.org/wiki/Q85979024
+http://www.aberdeenships.com/single.asp?index=99743 "99743" : "Q85979024"
+http://www.aberdeenships.com/single.asp?index=152225 "152225" : "Q85979024"
+name: AMBASSADOR
+wikidata: https://wikidata.org/wiki/Q4741051
+http://www.aberdeenships.com/single.asp?index=100297 "100297" : "Q4741051"
+name: AMBASSADOR
+wikidata: https://wikidata.org/wiki/Q84712710
+http://www.aberdeenships.com/single.asp?index=100297 "100297" : "Q84712710"
+name: AMELIA
+wikidata: https://wikidata.org/wiki/Q42886739
+http://www.aberdeenships.com/single.asp?index=100081 "100081" : "Q42886739"
+http://www.aberdeenships.com/single.asp?index=152184 "152184" : "Q42886739"
+name: AMELIA
+wikidata: https://wikidata.org/wiki/Q42896505
+http://www.aberdeenships.com/single.asp?index=100081 "100081" : "Q42896505"
+http://www.aberdeenships.com/single.asp?index=152184 "152184" : "Q42896505"
+name: AMELIA
+wikidata: https://wikidata.org/wiki/Q461424
+http://www.aberdeenships.com/single.asp?index=100081 "100081" : "Q461424"
+http://www.aberdeenships.com/single.asp?index=152184 "152184" : "Q461424"
+name: AMETHYST
+wikidata: https://wikidata.org/wiki/Q85974807
+http://www.aberdeenships.com/single.asp?index=134243 "134243" : "Q85974807"
+name: ANN
+wikidata: https://wikidata.org/wiki/Q21540476
+http://www.aberdeenships.com/single.asp?index=99487 "99487" : "Q21540476"
+http://www.aberdeenships.com/single.asp?index=100750 "100750" : "Q21540476"
+http://www.aberdeenships.com/single.asp?index=100782 "100782" : "Q21540476"
+http://www.aberdeenships.com/single.asp?index=136737 "136737" : "Q21540476"
+http://www.aberdeenships.com/single.asp?index=152957 "152957" : "Q21540476"
+http://www.aberdeenships.com/single.asp?index=182658 "182658" : "Q21540476"
+name: ANN
+wikidata: https://wikidata.org/wiki/Q24026967
+http://www.aberdeenships.com/single.asp?index=99487 "99487" : "Q24026967"
+http://www.aberdeenships.com/single.asp?index=100750 "100750" : "Q24026967"
+http://www.aberdeenships.com/single.asp?index=100782 "100782" : "Q24026967"
+http://www.aberdeenships.com/single.asp?index=136737 "136737" : "Q24026967"
+http://www.aberdeenships.com/single.asp?index=152957 "152957" : "Q24026967"
+http://www.aberdeenships.com/single.asp?index=182658 "182658" : "Q24026967"
+name: ANN
+wikidata: https://wikidata.org/wiki/Q24027071
+http://www.aberdeenships.com/single.asp?index=99487 "99487" : "Q24027071"
+http://www.aberdeenships.com/single.asp?index=100750 "100750" : "Q24027071"
+http://www.aberdeenships.com/single.asp?index=100782 "100782" : "Q24027071"
+http://www.aberdeenships.com/single.asp?index=136737 "136737" : "Q24027071"
+http://www.aberdeenships.com/single.asp?index=152957 "152957" : "Q24027071"
+http://www.aberdeenships.com/single.asp?index=182658 "182658" : "Q24027071"
+name: ANN
+wikidata: https://wikidata.org/wiki/Q43259694
+http://www.aberdeenships.com/single.asp?index=99487 "99487" : "Q43259694"
+http://www.aberdeenships.com/single.asp?index=100750 "100750" : "Q43259694"
+http://www.aberdeenships.com/single.asp?index=100782 "100782" : "Q43259694"
+http://www.aberdeenships.com/single.asp?index=136737 "136737" : "Q43259694"
+http://www.aberdeenships.com/single.asp?index=152957 "152957" : "Q43259694"
+http://www.aberdeenships.com/single.asp?index=182658 "182658" : "Q43259694"
+name: ANN
+wikidata: https://wikidata.org/wiki/Q86083808
+http://www.aberdeenships.com/single.asp?index=99487 "99487" : "Q86083808"
+http://www.aberdeenships.com/single.asp?index=100750 "100750" : "Q86083808"
+http://www.aberdeenships.com/single.asp?index=100782 "100782" : "Q86083808"
+http://www.aberdeenships.com/single.asp?index=136737 "136737" : "Q86083808"
+http://www.aberdeenships.com/single.asp?index=152957 "152957" : "Q86083808"
+http://www.aberdeenships.com/single.asp?index=182658 "182658" : "Q86083808"
+name: ARABELLA
+wikidata: https://wikidata.org/wiki/Q623697
+http://www.aberdeenships.com/single.asp?index=100052 "100052" : "Q623697"
+name: ARAB
+wikidata: https://wikidata.org/wiki/Q84728317
+http://www.aberdeenships.com/single.asp?index=119320 "119320" : "Q84728317"
+name: ARCHIMEDES
+wikidata: https://wikidata.org/wiki/Q52289831
+http://www.aberdeenships.com/single.asp?index=100867 "100867" : "Q52289831"
+name: ARDENT
+wikidata: https://wikidata.org/wiki/Q27868042
+http://www.aberdeenships.com/single.asp?index=121857 "121857" : "Q27868042"
+name: ARIEL
+wikidata: https://wikidata.org/wiki/Q4790386
+http://www.aberdeenships.com/single.asp?index=99443 "99443" : "Q4790386"
+http://www.aberdeenships.com/single.asp?index=99540 "99540" : "Q4790386"
+http://www.aberdeenships.com/single.asp?index=100706 "100706" : "Q4790386"
+name: ARIEL
+wikidata: https://wikidata.org/wiki/Q658502
+http://www.aberdeenships.com/single.asp?index=99443 "99443" : "Q658502"
+http://www.aberdeenships.com/single.asp?index=99540 "99540" : "Q658502"
+http://www.aberdeenships.com/single.asp?index=100706 "100706" : "Q658502"
+name: ASIA
+wikidata: https://wikidata.org/wiki/Q20036690
+http://www.aberdeenships.com/single.asp?index=99945 "99945" : "Q20036690"
+name: ASIA
+wikidata: https://wikidata.org/wiki/Q21999972
+http://www.aberdeenships.com/single.asp?index=99945 "99945" : "Q21999972"
+name: ASIA
+wikidata: https://wikidata.org/wiki/Q47462524
+http://www.aberdeenships.com/single.asp?index=99945 "99945" : "Q47462524"
+name: ASIA
+wikidata: https://wikidata.org/wiki/Q4806329
+http://www.aberdeenships.com/single.asp?index=99945 "99945" : "Q4806329"
+name: ASIA
+wikidata: https://wikidata.org/wiki/Q4806330
+http://www.aberdeenships.com/single.asp?index=99945 "99945" : "Q4806330"
+name: ATLANTIC
+wikidata: https://wikidata.org/wiki/Q24027268
+http://www.aberdeenships.com/single.asp?index=100765 "100765" : "Q24027268"
+name: ATLANTIC
+wikidata: https://wikidata.org/wiki/Q4816258
+http://www.aberdeenships.com/single.asp?index=100765 "100765" : "Q4816258"
+name: ATLANTIC
+wikidata: https://wikidata.org/wiki/Q52353441
+http://www.aberdeenships.com/single.asp?index=100765 "100765" : "Q52353441"
+name: ATLANTIC
+wikidata: https://wikidata.org/wiki/Q756258
+http://www.aberdeenships.com/single.asp?index=100765 "100765" : "Q756258"
+name: ATLANTIC
+wikidata: https://wikidata.org/wiki/Q84710526
+http://www.aberdeenships.com/single.asp?index=100765 "100765" : "Q84710526"
+name: ATLAS
+wikidata: https://wikidata.org/wiki/Q29704426
+http://www.aberdeenships.com/single.asp?index=132014 "132014" : "Q29704426"
+http://www.aberdeenships.com/single.asp?index=136739 "136739" : "Q29704426"
+http://www.aberdeenships.com/single.asp?index=152940 "152940" : "Q29704426"
+name: ATLAS
+wikidata: https://wikidata.org/wiki/Q4816766
+http://www.aberdeenships.com/single.asp?index=132014 "132014" : "Q4816766"
+http://www.aberdeenships.com/single.asp?index=136739 "136739" : "Q4816766"
+http://www.aberdeenships.com/single.asp?index=152940 "152940" : "Q4816766"
+name: ATLAS
+wikidata: https://wikidata.org/wiki/Q4816769
+http://www.aberdeenships.com/single.asp?index=132014 "132014" : "Q4816769"
+http://www.aberdeenships.com/single.asp?index=136739 "136739" : "Q4816769"
+http://www.aberdeenships.com/single.asp?index=152940 "152940" : "Q4816769"
+name: ATLAS
+wikidata: https://wikidata.org/wiki/Q52316199
+http://www.aberdeenships.com/single.asp?index=132014 "132014" : "Q52316199"
+http://www.aberdeenships.com/single.asp?index=136739 "136739" : "Q52316199"
+http://www.aberdeenships.com/single.asp?index=152940 "152940" : "Q52316199"
+name: ATLAS
+wikidata: https://wikidata.org/wiki/Q83628475
+http://www.aberdeenships.com/single.asp?index=132014 "132014" : "Q83628475"
+http://www.aberdeenships.com/single.asp?index=136739 "136739" : "Q83628475"
+http://www.aberdeenships.com/single.asp?index=152940 "152940" : "Q83628475"
+name: ATLAS
+wikidata: https://wikidata.org/wiki/Q84252950
+http://www.aberdeenships.com/single.asp?index=132014 "132014" : "Q84252950"
+http://www.aberdeenships.com/single.asp?index=136739 "136739" : "Q84252950"
+http://www.aberdeenships.com/single.asp?index=152940 "152940" : "Q84252950"
+name: ATLAS
+wikidata: https://wikidata.org/wiki/Q84253377
+http://www.aberdeenships.com/single.asp?index=132014 "132014" : "Q84253377"
+http://www.aberdeenships.com/single.asp?index=136739 "136739" : "Q84253377"
+http://www.aberdeenships.com/single.asp?index=152940 "152940" : "Q84253377"
+name: ATLAS
+wikidata: https://wikidata.org/wiki/Q84709989
+http://www.aberdeenships.com/single.asp?index=132014 "132014" : "Q84709989"
+http://www.aberdeenships.com/single.asp?index=136739 "136739" : "Q84709989"
+http://www.aberdeenships.com/single.asp?index=152940 "152940" : "Q84709989"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q16529963
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q16529963"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q24027306
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q24027306"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q33036406
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q33036406"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q52336955
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q52336955"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q52343865
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q52343865"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q52351148
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q52351148"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q53740637
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q53740637"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q84709755
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q84709755"
+name: AURORA
+wikidata: https://wikidata.org/wiki/Q84727667
+http://www.aberdeenships.com/single.asp?index=124214 "124214" : "Q84727667"
+name: AUSTRAL
+wikidata: https://wikidata.org/wiki/Q4823375
+http://www.aberdeenships.com/single.asp?index=99556 "99556" : "Q4823375"
+name: AUSTRAL
+wikidata: https://wikidata.org/wiki/Q83650221
+http://www.aberdeenships.com/single.asp?index=99556 "99556" : "Q83650221"
+name: AVONWOOD
+wikidata: https://wikidata.org/wiki/Q84728281
+http://www.aberdeenships.com/single.asp?index=101506 "101506" : "Q84728281"
+name: AZALEA
+wikidata: https://wikidata.org/wiki/Q84259991
+http://www.aberdeenships.com/single.asp?index=101665 "101665" : "Q84259991"
+name: BALLARAT
+wikidata: https://wikidata.org/wiki/Q805143
+http://www.aberdeenships.com/single.asp?index=99548 "99548" : "Q805143"
+name: BALLARAT
+wikidata: https://wikidata.org/wiki/Q84728099
+http://www.aberdeenships.com/single.asp?index=99548 "99548" : "Q84728099"
+name: BALMORAL
+wikidata: https://wikidata.org/wiki/Q805481
+http://www.aberdeenships.com/single.asp?index=100884 "100884" : "Q805481"
+name: BANGARTH
+wikidata: https://wikidata.org/wiki/Q84710810
+http://www.aberdeenships.com/single.asp?index=100658 "100658" : "Q84710810"
+name: BARBARA
+wikidata: https://wikidata.org/wiki/Q84710193
+http://www.aberdeenships.com/single.asp?index=99939 "99939" : "Q84710193"
+http://www.aberdeenships.com/single.asp?index=100752 "100752" : "Q84710193"
+name: BARBARA ROBB
+wikidata: https://wikidata.org/wiki/Q84728305
+http://www.aberdeenships.com/single.asp?index=101450 "101450" : "Q84728305"
+name: BEN ASDALE
+wikidata: https://wikidata.org/wiki/Q4885242
+http://www.aberdeenships.com/single.asp?index=101234 "101234" : "Q4885242"
+name: BEN BREAC
+wikidata: https://wikidata.org/wiki/Q84727927
+http://www.aberdeenships.com/single.asp?index=101314 "101314" : "Q84727927"
+name: BEN NEVIS
+wikidata: https://wikidata.org/wiki/Q84254798
+http://www.aberdeenships.com/single.asp?index=100876 "100876" : "Q84254798"
+name: BEN WYVIS
+wikidata: https://wikidata.org/wiki/Q84253974
+http://www.aberdeenships.com/single.asp?index=101039 "101039" : "Q84253974"
+name: BESS
+wikidata: https://wikidata.org/wiki/Q83640030
+http://www.aberdeenships.com/single.asp?index=150277 "150277" : "Q83640030"
+name: BETSY
+wikidata: https://wikidata.org/wiki/Q42886787
+http://www.aberdeenships.com/single.asp?index=100721 "100721" : "Q42886787"
+http://www.aberdeenships.com/single.asp?index=100747 "100747" : "Q42886787"
+http://www.aberdeenships.com/single.asp?index=110965 "110965" : "Q42886787"
+name: BONAVISTA
+wikidata: https://wikidata.org/wiki/Q28458009
+http://www.aberdeenships.com/single.asp?index=101569 "101569" : "Q28458009"
+name: BONAVISTA
+wikidata: https://wikidata.org/wiki/Q89197507
+http://www.aberdeenships.com/single.asp?index=101569 "101569" : "Q89197507"
+name: BONITA
+wikidata: https://wikidata.org/wiki/Q57559511
+http://www.aberdeenships.com/single.asp?index=100086 "100086" : "Q57559511"
+name: BONITA
+wikidata: https://wikidata.org/wiki/Q83627929
+http://www.aberdeenships.com/single.asp?index=100086 "100086" : "Q83627929"
+name: BONITA
+wikidata: https://wikidata.org/wiki/Q84939486
+http://www.aberdeenships.com/single.asp?index=100086 "100086" : "Q84939486"
+name: BRAEMAR
+wikidata: https://wikidata.org/wiki/Q84728198
+http://www.aberdeenships.com/single.asp?index=99082 "99082" : "Q84728198"
+http://www.aberdeenships.com/single.asp?index=99669 "99669" : "Q84728198"
+http://www.aberdeenships.com/single.asp?index=100756 "100756" : "Q84728198"
+http://www.aberdeenships.com/single.asp?index=100871 "100871" : "Q84728198"
+name: BRILLIANT
+wikidata: https://wikidata.org/wiki/Q2925557
+http://www.aberdeenships.com/single.asp?index=99544 "99544" : "Q2925557"
+http://www.aberdeenships.com/single.asp?index=99607 "99607" : "Q2925557"
+http://www.aberdeenships.com/single.asp?index=99928 "99928" : "Q2925557"
+http://www.aberdeenships.com/single.asp?index=152182 "152182" : "Q2925557"
+name: BRILLIANT
+wikidata: https://wikidata.org/wiki/Q81462523
+http://www.aberdeenships.com/single.asp?index=99544 "99544" : "Q81462523"
+http://www.aberdeenships.com/single.asp?index=99607 "99607" : "Q81462523"
+http://www.aberdeenships.com/single.asp?index=99928 "99928" : "Q81462523"
+http://www.aberdeenships.com/single.asp?index=152182 "152182" : "Q81462523"
+name: BRITANNIA
+wikidata: https://wikidata.org/wiki/Q24027138
+http://www.aberdeenships.com/single.asp?index=99926 "99926" : "Q24027138"
+http://www.aberdeenships.com/single.asp?index=129842 "129842" : "Q24027138"
+http://www.aberdeenships.com/single.asp?index=182663 "182663" : "Q24027138"
+name: BRITANNIA
+wikidata: https://wikidata.org/wiki/Q28136897
+http://www.aberdeenships.com/single.asp?index=99926 "99926" : "Q28136897"
+http://www.aberdeenships.com/single.asp?index=129842 "129842" : "Q28136897"
+http://www.aberdeenships.com/single.asp?index=182663 "182663" : "Q28136897"
+name: BRITANNIA
+wikidata: https://wikidata.org/wiki/Q28136898
+http://www.aberdeenships.com/single.asp?index=99926 "99926" : "Q28136898"
+http://www.aberdeenships.com/single.asp?index=129842 "129842" : "Q28136898"
+http://www.aberdeenships.com/single.asp?index=182663 "182663" : "Q28136898"
+name: BRITANNIA
+wikidata: https://wikidata.org/wiki/Q28457872
+http://www.aberdeenships.com/single.asp?index=99926 "99926" : "Q28457872"
+http://www.aberdeenships.com/single.asp?index=129842 "129842" : "Q28457872"
+http://www.aberdeenships.com/single.asp?index=182663 "182663" : "Q28457872"
+name: BRITANNIA
+wikidata: https://wikidata.org/wiki/Q30601435
+http://www.aberdeenships.com/single.asp?index=99926 "99926" : "Q30601435"
+http://www.aberdeenships.com/single.asp?index=129842 "129842" : "Q30601435"
+http://www.aberdeenships.com/single.asp?index=182663 "182663" : "Q30601435"
+name: BRITANNIA
+wikidata: https://wikidata.org/wiki/Q4801940
+http://www.aberdeenships.com/single.asp?index=99926 "99926" : "Q4801940"
+http://www.aberdeenships.com/single.asp?index=129842 "129842" : "Q4801940"
+http://www.aberdeenships.com/single.asp?index=182663 "182663" : "Q4801940"
+name: BRITANNIA
+wikidata: https://wikidata.org/wiki/Q4969270
+http://www.aberdeenships.com/single.asp?index=99926 "99926" : "Q4969270"
+http://www.aberdeenships.com/single.asp?index=129842 "129842" : "Q4969270"
+http://www.aberdeenships.com/single.asp?index=182663 "182663" : "Q4969270"
+name: CALDARE
+wikidata: https://wikidata.org/wiki/Q84711658
+http://www.aberdeenships.com/single.asp?index=99091 "99091" : "Q84711658"
+name: CALEDONIA
+wikidata: https://wikidata.org/wiki/Q12305045
+http://www.aberdeenships.com/single.asp?index=101006 "101006" : "Q12305045"
+http://www.aberdeenships.com/single.asp?index=101119 "101119" : "Q12305045"
+name: CALEDONIA
+wikidata: https://wikidata.org/wiki/Q20642173
+http://www.aberdeenships.com/single.asp?index=101006 "101006" : "Q20642173"
+http://www.aberdeenships.com/single.asp?index=101119 "101119" : "Q20642173"
+name: CALEDONIA
+wikidata: https://wikidata.org/wiki/Q5019368
+http://www.aberdeenships.com/single.asp?index=101006 "101006" : "Q5019368"
+http://www.aberdeenships.com/single.asp?index=101119 "101119" : "Q5019368"
+name: CALEDONIAN
+wikidata: https://wikidata.org/wiki/Q42886778
+http://www.aberdeenships.com/single.asp?index=99962 "99962" : "Q42886778"
+name: CALEDONIAN
+wikidata: https://wikidata.org/wiki/Q42896523
+http://www.aberdeenships.com/single.asp?index=99962 "99962" : "Q42896523"
+name: CALYPSO
+wikidata: https://wikidata.org/wiki/Q52375214
+http://www.aberdeenships.com/single.asp?index=99685 "99685" : "Q52375214"
+http://www.aberdeenships.com/single.asp?index=100204 "100204" : "Q52375214"
+name: CALYPSO
+wikidata: https://wikidata.org/wiki/Q83631117
+http://www.aberdeenships.com/single.asp?index=99685 "99685" : "Q83631117"
+http://www.aberdeenships.com/single.asp?index=100204 "100204" : "Q83631117"
+name: CALYPSO
+wikidata: https://wikidata.org/wiki/Q84709613
+http://www.aberdeenships.com/single.asp?index=99685 "99685" : "Q84709613"
+http://www.aberdeenships.com/single.asp?index=100204 "100204" : "Q84709613"
+name: CAMBRIA
+wikidata: https://wikidata.org/wiki/Q24027147
+http://www.aberdeenships.com/single.asp?index=152200 "152200" : "Q24027147"
+name: CASTLE FORBES
+wikidata: https://wikidata.org/wiki/Q20870314
+http://www.aberdeenships.com/single.asp?index=110967 "110967" : "Q20870314"
+name: CATHERINE
+wikidata: https://wikidata.org/wiki/Q24027053
+http://www.aberdeenships.com/single.asp?index=99504 "99504" : "Q24027053"
+http://www.aberdeenships.com/single.asp?index=100001 "100001" : "Q24027053"
+http://www.aberdeenships.com/single.asp?index=113490 "113490" : "Q24027053"
+name: CATHERINE
+wikidata: https://wikidata.org/wiki/Q24027336
+http://www.aberdeenships.com/single.asp?index=99504 "99504" : "Q24027336"
+http://www.aberdeenships.com/single.asp?index=100001 "100001" : "Q24027336"
+http://www.aberdeenships.com/single.asp?index=113490 "113490" : "Q24027336"
+name: CATHERINE
+wikidata: https://wikidata.org/wiki/Q24027396
+http://www.aberdeenships.com/single.asp?index=99504 "99504" : "Q24027396"
+http://www.aberdeenships.com/single.asp?index=100001 "100001" : "Q24027396"
+http://www.aberdeenships.com/single.asp?index=113490 "113490" : "Q24027396"
+name: CATHERINE
+wikidata: https://wikidata.org/wiki/Q5052510
+http://www.aberdeenships.com/single.asp?index=99504 "99504" : "Q5052510"
+http://www.aberdeenships.com/single.asp?index=100001 "100001" : "Q5052510"
+http://www.aberdeenships.com/single.asp?index=113490 "113490" : "Q5052510"
+name: CATHERINE
+wikidata: https://wikidata.org/wiki/Q86723245
+http://www.aberdeenships.com/single.asp?index=99504 "99504" : "Q86723245"
+http://www.aberdeenships.com/single.asp?index=100001 "100001" : "Q86723245"
+http://www.aberdeenships.com/single.asp?index=113490 "113490" : "Q86723245"
+name: CENTAUR
+wikidata: https://wikidata.org/wiki/Q5058998
+http://www.aberdeenships.com/single.asp?index=118535 "118535" : "Q5058998"
+name: CENTURY
+wikidata: https://wikidata.org/wiki/Q84710595
+http://www.aberdeenships.com/single.asp?index=101571 "101571" : "Q84710595"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q24026978
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q24026978"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q24026978"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q24026978"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q24026978"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q24026978"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q24026978"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q24027266
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q24027266"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q24027266"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q24027266"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q24027266"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q24027266"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q24027266"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q42886762
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q42886762"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q42886762"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q42886762"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q42886762"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q42886762"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q42886762"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q65075171
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q65075171"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q65075171"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q65075171"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q65075171"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q65075171"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q65075171"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q65075172
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q65075172"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q65075172"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q65075172"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q65075172"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q65075172"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q65075172"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q65075233
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q65075233"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q65075233"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q65075233"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q65075233"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q65075233"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q65075233"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q65075662
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q65075662"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q65075662"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q65075662"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q65075662"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q65075662"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q65075662"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q65082574
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q65082574"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q65082574"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q65082574"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q65082574"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q65082574"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q65082574"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q83639122
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q83639122"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q83639122"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q83639122"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q83639122"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q83639122"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q83639122"
+name: CERES
+wikidata: https://wikidata.org/wiki/Q86723268
+http://www.aberdeenships.com/single.asp?index=99519 "99519" : "Q86723268"
+http://www.aberdeenships.com/single.asp?index=100005 "100005" : "Q86723268"
+http://www.aberdeenships.com/single.asp?index=100264 "100264" : "Q86723268"
+http://www.aberdeenships.com/single.asp?index=111116 "111116" : "Q86723268"
+http://www.aberdeenships.com/single.asp?index=152983 "152983" : "Q86723268"
+http://www.aberdeenships.com/single.asp?index=182668 "182668" : "Q86723268"
+name: CHALLENGE
+wikidata: https://wikidata.org/wiki/Q84228528
+http://www.aberdeenships.com/single.asp?index=100551 "100551" : "Q84228528"
+name: CHALLENGER
+wikidata: https://wikidata.org/wiki/Q29741648
+http://www.aberdeenships.com/single.asp?index=101003 "101003" : "Q29741648"
+name: CHALLENGER
+wikidata: https://wikidata.org/wiki/Q5068940
+http://www.aberdeenships.com/single.asp?index=101003 "101003" : "Q5068940"
+name: CHALLENGER
+wikidata: https://wikidata.org/wiki/Q5068943
+http://www.aberdeenships.com/single.asp?index=101003 "101003" : "Q5068943"
+name: CHAMPION
+wikidata: https://wikidata.org/wiki/Q24027422
+http://www.aberdeenships.com/single.asp?index=99431 "99431" : "Q24027422"
+http://www.aberdeenships.com/single.asp?index=101000 "101000" : "Q24027422"
+name: CHAMPION
+wikidata: https://wikidata.org/wiki/Q29711325
+http://www.aberdeenships.com/single.asp?index=99431 "99431" : "Q29711325"
+http://www.aberdeenships.com/single.asp?index=101000 "101000" : "Q29711325"
+name: CHANCELLOR
+wikidata: https://wikidata.org/wiki/Q5070768
+http://www.aberdeenships.com/single.asp?index=100306 "100306" : "Q5070768"
+http://www.aberdeenships.com/single.asp?index=101095 "101095" : "Q5070768"
+name: CHARLOTTE
+wikidata: https://wikidata.org/wiki/Q1067087
+http://www.aberdeenships.com/single.asp?index=100713 "100713" : "Q1067087"
+http://www.aberdeenships.com/single.asp?index=182664 "182664" : "Q1067087"
+name: CHARLOTTE
+wikidata: https://wikidata.org/wiki/Q24027295
+http://www.aberdeenships.com/single.asp?index=100713 "100713" : "Q24027295"
+http://www.aberdeenships.com/single.asp?index=182664 "182664" : "Q24027295"
+name: CHARLOTTE
+wikidata: https://wikidata.org/wiki/Q42886759
+http://www.aberdeenships.com/single.asp?index=100713 "100713" : "Q42886759"
+http://www.aberdeenships.com/single.asp?index=182664 "182664" : "Q42886759"
+name: CHARLOTTE
+wikidata: https://wikidata.org/wiki/Q5085811
+http://www.aberdeenships.com/single.asp?index=100713 "100713" : "Q5085811"
+http://www.aberdeenships.com/single.asp?index=182664 "182664" : "Q5085811"
+name: CHARLOTTE
+wikidata: https://wikidata.org/wiki/Q5085813
+http://www.aberdeenships.com/single.asp?index=100713 "100713" : "Q5085813"
+http://www.aberdeenships.com/single.asp?index=182664 "182664" : "Q5085813"
+name: CHARLOTTE
+wikidata: https://wikidata.org/wiki/Q52329217
+http://www.aberdeenships.com/single.asp?index=100713 "100713" : "Q52329217"
+http://www.aberdeenships.com/single.asp?index=182664 "182664" : "Q52329217"
+name: CHARLOTTE
+wikidata: https://wikidata.org/wiki/Q84265057
+http://www.aberdeenships.com/single.asp?index=100713 "100713" : "Q84265057"
+http://www.aberdeenships.com/single.asp?index=182664 "182664" : "Q84265057"
+name: CHESTNUT
+wikidata: https://wikidata.org/wiki/Q52379613
+http://www.aberdeenships.com/single.asp?index=100417 "100417" : "Q52379613"
+name: CHRISTINA
+wikidata: https://wikidata.org/wiki/Q72410412
+http://www.aberdeenships.com/single.asp?index=99512 "99512" : "Q72410412"
+name: CHRISTINA
+wikidata: https://wikidata.org/wiki/Q72412873
+http://www.aberdeenships.com/single.asp?index=99512 "99512" : "Q72412873"
+name: CIMBA
+wikidata: https://wikidata.org/wiki/Q5120110
+http://www.aberdeenships.com/single.asp?index=99419 "99419" : "Q5120110"
+name: CLEOPATRA
+wikidata: https://wikidata.org/wiki/Q16038871
+http://www.aberdeenships.com/single.asp?index=100741 "100741" : "Q16038871"
+http://www.aberdeenships.com/single.asp?index=182594 "182594" : "Q16038871"
+name: CLEOPATRA
+wikidata: https://wikidata.org/wiki/Q20036739
+http://www.aberdeenships.com/single.asp?index=100741 "100741" : "Q20036739"
+http://www.aberdeenships.com/single.asp?index=182594 "182594" : "Q20036739"
+name: CLEOPATRA
+wikidata: https://wikidata.org/wiki/Q84709420
+http://www.aberdeenships.com/single.asp?index=100741 "100741" : "Q84709420"
+http://www.aberdeenships.com/single.asp?index=182594 "182594" : "Q84709420"
+name: CLIO
+wikidata: https://wikidata.org/wiki/Q5134311
+http://www.aberdeenships.com/single.asp?index=152224 "152224" : "Q5134311"
+name: CLOUD
+wikidata: https://wikidata.org/wiki/Q52379667
+http://www.aberdeenships.com/single.asp?index=99892 "99892" : "Q52379667"
+name: CLUPEA
+wikidata: https://wikidata.org/wiki/Q1103380
+http://www.aberdeenships.com/single.asp?index=101654 "101654" : "Q1103380"
+http://www.aberdeenships.com/single.asp?index=152961 "152961" : "Q1103380"
+name: CLUPEA
+wikidata: https://wikidata.org/wiki/Q1103388
+http://www.aberdeenships.com/single.asp?index=101654 "101654" : "Q1103388"
+http://www.aberdeenships.com/single.asp?index=152961 "152961" : "Q1103388"
+name: COLUMBIA
+wikidata: https://wikidata.org/wiki/Q16958911
+http://www.aberdeenships.com/single.asp?index=99455 "99455" : "Q16958911"
+http://www.aberdeenships.com/single.asp?index=101061 "101061" : "Q16958911"
+name: COLUMBIA
+wikidata: https://wikidata.org/wiki/Q2451749
+http://www.aberdeenships.com/single.asp?index=99455 "99455" : "Q2451749"
+http://www.aberdeenships.com/single.asp?index=101061 "101061" : "Q2451749"
+name: COLUMBIA
+wikidata: https://wikidata.org/wiki/Q48798816
+http://www.aberdeenships.com/single.asp?index=99455 "99455" : "Q48798816"
+http://www.aberdeenships.com/single.asp?index=101061 "101061" : "Q48798816"
+name: COLUMBIA
+wikidata: https://wikidata.org/wiki/Q5149599
+http://www.aberdeenships.com/single.asp?index=99455 "99455" : "Q5149599"
+http://www.aberdeenships.com/single.asp?index=101061 "101061" : "Q5149599"
+name: COLUMBIA
+wikidata: https://wikidata.org/wiki/Q5149601
+http://www.aberdeenships.com/single.asp?index=99455 "99455" : "Q5149601"
+http://www.aberdeenships.com/single.asp?index=101061 "101061" : "Q5149601"
+name: COLUMBIA
+wikidata: https://wikidata.org/wiki/Q5149604
+http://www.aberdeenships.com/single.asp?index=99455 "99455" : "Q5149604"
+http://www.aberdeenships.com/single.asp?index=101061 "101061" : "Q5149604"
+name: COLUMBIA
+wikidata: https://wikidata.org/wiki/Q84710385
+http://www.aberdeenships.com/single.asp?index=99455 "99455" : "Q84710385"
+http://www.aberdeenships.com/single.asp?index=101061 "101061" : "Q84710385"
+name: COLUMBIA
+wikidata: https://wikidata.org/wiki/Q84727580
+http://www.aberdeenships.com/single.asp?index=99455 "99455" : "Q84727580"
+http://www.aberdeenships.com/single.asp?index=101061 "101061" : "Q84727580"
+name: COMET
+wikidata: https://wikidata.org/wiki/Q24027479
+http://www.aberdeenships.com/single.asp?index=136803 "136803" : "Q24027479"
+name: COMET
+wikidata: https://wikidata.org/wiki/Q30611775
+http://www.aberdeenships.com/single.asp?index=136803 "136803" : "Q30611775"
+name: COMET
+wikidata: https://wikidata.org/wiki/Q5151582
+http://www.aberdeenships.com/single.asp?index=136803 "136803" : "Q5151582"
+name: COMET
+wikidata: https://wikidata.org/wiki/Q5151594
+http://www.aberdeenships.com/single.asp?index=136803 "136803" : "Q5151594"
+name: COMET
+wikidata: https://wikidata.org/wiki/Q84710262
+http://www.aberdeenships.com/single.asp?index=136803 "136803" : "Q84710262"
+name: COMMERCE
+wikidata: https://wikidata.org/wiki/Q5152408
+http://www.aberdeenships.com/single.asp?index=100007 "100007" : "Q5152408"
+name: COMMERCIAL
+wikidata: https://wikidata.org/wiki/Q84710420
+http://www.aberdeenships.com/single.asp?index=152206 "152206" : "Q84710420"
+name: COMMODORE
+wikidata: https://wikidata.org/wiki/Q52339273
+http://www.aberdeenships.com/single.asp?index=99704 "99704" : "Q52339273"
+http://www.aberdeenships.com/single.asp?index=99998 "99998" : "Q52339273"
+http://www.aberdeenships.com/single.asp?index=119841 "119841" : "Q52339273"
+name: CONCORD
+wikidata: https://wikidata.org/wiki/Q17510848
+http://www.aberdeenships.com/single.asp?index=99497 "99497" : "Q17510848"
+http://www.aberdeenships.com/single.asp?index=112256 "112256" : "Q17510848"
+name: CONCORD
+wikidata: https://wikidata.org/wiki/Q52341233
+http://www.aberdeenships.com/single.asp?index=99497 "99497" : "Q52341233"
+http://www.aberdeenships.com/single.asp?index=112256 "112256" : "Q52341233"
+name: CONFIDENCE
+wikidata: https://wikidata.org/wiki/Q24027272
+http://www.aberdeenships.com/single.asp?index=99457 "99457" : "Q24027272"
+name: CONFIDENCE
+wikidata: https://wikidata.org/wiki/Q27868066
+http://www.aberdeenships.com/single.asp?index=99457 "99457" : "Q27868066"
+name: CONFIDENCE
+wikidata: https://wikidata.org/wiki/Q52353994
+http://www.aberdeenships.com/single.asp?index=99457 "99457" : "Q52353994"
+name: CONTENDER
+wikidata: https://wikidata.org/wiki/Q52346915
+http://www.aberdeenships.com/single.asp?index=101448 "101448" : "Q52346915"
+name: CONTEST
+wikidata: https://wikidata.org/wiki/Q5165145
+http://www.aberdeenships.com/single.asp?index=100552 "100552" : "Q5165145"
+http://www.aberdeenships.com/single.asp?index=100560 "100560" : "Q5165145"
+name: CONTEST
+wikidata: https://wikidata.org/wiki/Q55844785
+http://www.aberdeenships.com/single.asp?index=100552 "100552" : "Q55844785"
+http://www.aberdeenships.com/single.asp?index=100560 "100560" : "Q55844785"
+name: COPENHAGEN
+wikidata: https://wikidata.org/wiki/Q1130987
+http://www.aberdeenships.com/single.asp?index=99284 "99284" : "Q1130987"
+name: COPENHAGEN
+wikidata: https://wikidata.org/wiki/Q84262125
+http://www.aberdeenships.com/single.asp?index=99284 "99284" : "Q84262125"
+name: COURIER
+wikidata: https://wikidata.org/wiki/Q24027418
+http://www.aberdeenships.com/single.asp?index=100691 "100691" : "Q24027418"
+name: CROMARTY FIRTH
+wikidata: https://wikidata.org/wiki/Q84711711
+http://www.aberdeenships.com/single.asp?index=99121 "99121" : "Q84711711"
+name: CRUSADER
+wikidata: https://wikidata.org/wiki/Q24027356
+http://www.aberdeenships.com/single.asp?index=100025 "100025" : "Q24027356"
+name: CRUSADER
+wikidata: https://wikidata.org/wiki/Q5190155
+http://www.aberdeenships.com/single.asp?index=100025 "100025" : "Q5190155"
+name: CRUSADER
+wikidata: https://wikidata.org/wiki/Q52344251
+http://www.aberdeenships.com/single.asp?index=100025 "100025" : "Q52344251"
+name: CRYSTAL
+wikidata: https://wikidata.org/wiki/Q5191109
+http://www.aberdeenships.com/single.asp?index=100734 "100734" : "Q5191109"
+name: CURLEW
+wikidata: https://wikidata.org/wiki/Q5194825
+http://www.aberdeenships.com/single.asp?index=100083 "100083" : "Q5194825"
+name: CYGNET
+wikidata: https://wikidata.org/wiki/Q24027427
+http://www.aberdeenships.com/single.asp?index=100837 "100837" : "Q24027427"
+name: DAEDALUS
+wikidata: https://wikidata.org/wiki/Q3077590
+http://www.aberdeenships.com/single.asp?index=136269 "136269" : "Q3077590"
+name: DAISY
+wikidata: https://wikidata.org/wiki/Q55739613
+http://www.aberdeenships.com/single.asp?index=99828 "99828" : "Q55739613"
+name: DAISY
+wikidata: https://wikidata.org/wiki/Q86723344
+http://www.aberdeenships.com/single.asp?index=99828 "99828" : "Q86723344"
+name: DANESTON
+wikidata: https://wikidata.org/wiki/Q84727876
+http://www.aberdeenships.com/single.asp?index=99870 "99870" : "Q84727876"
+name: DAPHNE
+wikidata: https://wikidata.org/wiki/Q5221589
+http://www.aberdeenships.com/single.asp?index=152226 "152226" : "Q5221589"
+name: DAPHNE
+wikidata: https://wikidata.org/wiki/Q52354966
+http://www.aberdeenships.com/single.asp?index=152226 "152226" : "Q52354966"
+name: DART
+wikidata: https://wikidata.org/wiki/Q20639015
+http://www.aberdeenships.com/single.asp?index=100067 "100067" : "Q20639015"
+name: DART
+wikidata: https://wikidata.org/wiki/Q24027021
+http://www.aberdeenships.com/single.asp?index=100067 "100067" : "Q24027021"
+name: DART
+wikidata: https://wikidata.org/wiki/Q47462503
+http://www.aberdeenships.com/single.asp?index=100067 "100067" : "Q47462503"
+name: DART
+wikidata: https://wikidata.org/wiki/Q5225557
+http://www.aberdeenships.com/single.asp?index=100067 "100067" : "Q5225557"
+name: DART
+wikidata: https://wikidata.org/wiki/Q5225560
+http://www.aberdeenships.com/single.asp?index=100067 "100067" : "Q5225560"
+name: DAUNTLESS
+wikidata: https://wikidata.org/wiki/Q5228059
+http://www.aberdeenships.com/single.asp?index=100831 "100831" : "Q5228059"
+name: DEESIDE
+wikidata: https://wikidata.org/wiki/Q86084385
+http://www.aberdeenships.com/single.asp?index=99290 "99290" : "Q86084385"
+http://www.aberdeenships.com/single.asp?index=100233 "100233" : "Q86084385"
+http://www.aberdeenships.com/single.asp?index=100308 "100308" : "Q86084385"
+http://www.aberdeenships.com/single.asp?index=150344 "150344" : "Q86084385"
+name: DEFIANCE
+wikidata: https://wikidata.org/wiki/Q5251530
+http://www.aberdeenships.com/single.asp?index=99316 "99316" : "Q5251530"
+http://www.aberdeenships.com/single.asp?index=101798 "101798" : "Q5251530"
+name: DIADEM
+wikidata: https://wikidata.org/wiki/Q30603351
+http://www.aberdeenships.com/single.asp?index=99452 "99452" : "Q30603351"
+http://www.aberdeenships.com/single.asp?index=152188 "152188" : "Q30603351"
+name: DIAMOND
+wikidata: https://wikidata.org/wiki/Q28457982
+http://www.aberdeenships.com/single.asp?index=152186 "152186" : "Q28457982"
+http://www.aberdeenships.com/single.asp?index=152196 "152196" : "Q28457982"
+name: DIAMOND
+wikidata: https://wikidata.org/wiki/Q42886821
+http://www.aberdeenships.com/single.asp?index=152186 "152186" : "Q42886821"
+http://www.aberdeenships.com/single.asp?index=152196 "152196" : "Q42886821"
+name: DIAMOND
+wikidata: https://wikidata.org/wiki/Q5270727
+http://www.aberdeenships.com/single.asp?index=152186 "152186" : "Q5270727"
+http://www.aberdeenships.com/single.asp?index=152196 "152196" : "Q5270727"
+name: DIAMOND
+wikidata: https://wikidata.org/wiki/Q84709557
+http://www.aberdeenships.com/single.asp?index=152186 "152186" : "Q84709557"
+http://www.aberdeenships.com/single.asp?index=152196 "152196" : "Q84709557"
+name: DIANA
+wikidata: https://wikidata.org/wiki/Q27868088
+http://www.aberdeenships.com/single.asp?index=182669 "182669" : "Q27868088"
+name: DIANA
+wikidata: https://wikidata.org/wiki/Q30608397
+http://www.aberdeenships.com/single.asp?index=182669 "182669" : "Q30608397"
+name: DIANA
+wikidata: https://wikidata.org/wiki/Q42886819
+http://www.aberdeenships.com/single.asp?index=182669 "182669" : "Q42886819"
+name: DIANA
+wikidata: https://wikidata.org/wiki/Q5271065
+http://www.aberdeenships.com/single.asp?index=182669 "182669" : "Q5271065"
+name: DIANA
+wikidata: https://wikidata.org/wiki/Q55764124
+http://www.aberdeenships.com/single.asp?index=182669 "182669" : "Q55764124"
+name: DILIGENCE
+wikidata: https://wikidata.org/wiki/Q24026972
+http://www.aberdeenships.com/single.asp?index=99724 "99724" : "Q24026972"
+http://www.aberdeenships.com/single.asp?index=110891 "110891" : "Q24026972"
+http://www.aberdeenships.com/single.asp?index=152153 "152153" : "Q24026972"
+http://www.aberdeenships.com/single.asp?index=182670 "182670" : "Q24026972"
+name: DISCOVERY
+wikidata: https://wikidata.org/wiki/Q389965
+http://www.aberdeenships.com/single.asp?index=101614 "101614" : "Q389965"
+name: DISPATCH
+wikidata: https://wikidata.org/wiki/Q18149393
+http://www.aberdeenships.com/single.asp?index=100270 "100270" : "Q18149393"
+http://www.aberdeenships.com/single.asp?index=100815 "100815" : "Q18149393"
+name: DORIS
+wikidata: https://wikidata.org/wiki/Q24027442
+http://www.aberdeenships.com/single.asp?index=99768 "99768" : "Q24027442"
+name: DORIS
+wikidata: https://wikidata.org/wiki/Q5297885
+http://www.aberdeenships.com/single.asp?index=99768 "99768" : "Q5297885"
+name: DORIS
+wikidata: https://wikidata.org/wiki/Q58423495
+http://www.aberdeenships.com/single.asp?index=99768 "99768" : "Q58423495"
+name: DORIS
+wikidata: https://wikidata.org/wiki/Q83646203
+http://www.aberdeenships.com/single.asp?index=99768 "99768" : "Q83646203"
+name: DOROTHY
+wikidata: https://wikidata.org/wiki/Q42886815
+http://www.aberdeenships.com/single.asp?index=100120 "100120" : "Q42886815"
+name: DOUGLAS
+wikidata: https://wikidata.org/wiki/Q62962724
+http://www.aberdeenships.com/single.asp?index=100165 "100165" : "Q62962724"
+http://www.aberdeenships.com/single.asp?index=100860 "100860" : "Q62962724"
+http://www.aberdeenships.com/single.asp?index=100900 "100900" : "Q62962724"
+http://www.aberdeenships.com/single.asp?index=112956 "112956" : "Q62962724"
+name: DOUGLAS
+wikidata: https://wikidata.org/wiki/Q84710718
+http://www.aberdeenships.com/single.asp?index=100165 "100165" : "Q84710718"
+http://www.aberdeenships.com/single.asp?index=100860 "100860" : "Q84710718"
+http://www.aberdeenships.com/single.asp?index=100900 "100900" : "Q84710718"
+http://www.aberdeenships.com/single.asp?index=112956 "112956" : "Q84710718"
+name: DRACO
+wikidata: https://wikidata.org/wiki/Q84728120
+http://www.aberdeenships.com/single.asp?index=99610 "99610" : "Q84728120"
+http://www.aberdeenships.com/single.asp?index=101418 "101418" : "Q84728120"
+name: DREADNOUGHT
+wikidata: https://wikidata.org/wiki/Q24027188
+http://www.aberdeenships.com/single.asp?index=101143 "101143" : "Q24027188"
+name: DREADNOUGHT
+wikidata: https://wikidata.org/wiki/Q24027371
+http://www.aberdeenships.com/single.asp?index=101143 "101143" : "Q24027371"
+name: EAGLE
+wikidata: https://wikidata.org/wiki/Q24027098
+http://www.aberdeenships.com/single.asp?index=100761 "100761" : "Q24027098"
+http://www.aberdeenships.com/single.asp?index=135656 "135656" : "Q24027098"
+name: EAGLE
+wikidata: https://wikidata.org/wiki/Q2684827
+http://www.aberdeenships.com/single.asp?index=100761 "100761" : "Q2684827"
+http://www.aberdeenships.com/single.asp?index=135656 "135656" : "Q2684827"
+name: EAGLE
+wikidata: https://wikidata.org/wiki/Q52323257
+http://www.aberdeenships.com/single.asp?index=100761 "100761" : "Q52323257"
+http://www.aberdeenships.com/single.asp?index=135656 "135656" : "Q52323257"
+name: EAGLE
+wikidata: https://wikidata.org/wiki/Q52326216
+http://www.aberdeenships.com/single.asp?index=100761 "100761" : "Q52326216"
+http://www.aberdeenships.com/single.asp?index=135656 "135656" : "Q52326216"
+name: EAGLE
+wikidata: https://wikidata.org/wiki/Q5324999
+http://www.aberdeenships.com/single.asp?index=100761 "100761" : "Q5324999"
+http://www.aberdeenships.com/single.asp?index=135656 "135656" : "Q5324999"
+name: EARL GREY
+wikidata: https://wikidata.org/wiki/Q20127866
+http://www.aberdeenships.com/single.asp?index=100699 "100699" : "Q20127866"
+name: EARL OF ZETLAND
+wikidata: https://wikidata.org/wiki/Q52295387
+http://www.aberdeenships.com/single.asp?index=101481 "101481" : "Q52295387"
+name: ECLIPSE
+wikidata: https://wikidata.org/wiki/Q16551212
+http://www.aberdeenships.com/single.asp?index=100171 "100171" : "Q16551212"
+http://www.aberdeenships.com/single.asp?index=119613 "119613" : "Q16551212"
+name: ECLIPSE
+wikidata: https://wikidata.org/wiki/Q5632255
+http://www.aberdeenships.com/single.asp?index=100171 "100171" : "Q5632255"
+http://www.aberdeenships.com/single.asp?index=119613 "119613" : "Q5632255"
+name: ECLIPSE
+wikidata: https://wikidata.org/wiki/Q778649
+http://www.aberdeenships.com/single.asp?index=100171 "100171" : "Q778649"
+http://www.aberdeenships.com/single.asp?index=119613 "119613" : "Q778649"
+name: ECLIPSE
+wikidata: https://wikidata.org/wiki/Q84709461
+http://www.aberdeenships.com/single.asp?index=100171 "100171" : "Q84709461"
+http://www.aberdeenships.com/single.asp?index=119613 "119613" : "Q84709461"
+name: EDENWOOD
+wikidata: https://wikidata.org/wiki/Q84712510
+http://www.aberdeenships.com/single.asp?index=101503 "101503" : "Q84712510"
+name: EDENWOOD
+wikidata: https://wikidata.org/wiki/Q84727844
+http://www.aberdeenships.com/single.asp?index=101503 "101503" : "Q84727844"
+name: EDWARD
+wikidata: https://wikidata.org/wiki/Q20870335
+http://www.aberdeenships.com/single.asp?index=152152 "152152" : "Q20870335"
+name: ELISE
+wikidata: https://wikidata.org/wiki/Q1895242
+http://www.aberdeenships.com/single.asp?index=99769 "99769" : "Q1895242"
+name: ELISE
+wikidata: https://wikidata.org/wiki/Q52376131
+http://www.aberdeenships.com/single.asp?index=99769 "99769" : "Q52376131"
+name: ELISSA
+wikidata: https://wikidata.org/wiki/Q1143837
+http://www.aberdeenships.com/single.asp?index=100215 "100215" : "Q1143837"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q20870340
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q20870340"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q20870340"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q20870340"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q20870340"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q20894543
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q20894543"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q20894543"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q20894543"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q20894543"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q20894544
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q20894544"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q20894544"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q20894544"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q20894544"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q20894569
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q20894569"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q20894569"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q20894569"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q20894569"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q20894570
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q20894570"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q20894570"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q20894570"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q20894570"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q20894571
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q20894571"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q20894571"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q20894571"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q20894571"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q24027313
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q24027313"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q24027313"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q24027313"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q24027313"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q42298206
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q42298206"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q42298206"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q42298206"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q42298206"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q42886833
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q42886833"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q42886833"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q42886833"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q42886833"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q42896553
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q42896553"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q42896553"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q42896553"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q42896553"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q5362244
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q5362244"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q5362244"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q5362244"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q5362244"
+name: ELIZABETH
+wikidata: https://wikidata.org/wiki/Q55743794
+http://www.aberdeenships.com/single.asp?index=99518 "99518" : "Q55743794"
+http://www.aberdeenships.com/single.asp?index=100029 "100029" : "Q55743794"
+http://www.aberdeenships.com/single.asp?index=100194 "100194" : "Q55743794"
+http://www.aberdeenships.com/single.asp?index=100715 "100715" : "Q55743794"
+name: ELIZA
+wikidata: https://wikidata.org/wiki/Q20870339
+http://www.aberdeenships.com/single.asp?index=99496 "99496" : "Q20870339"
+http://www.aberdeenships.com/single.asp?index=112582 "112582" : "Q20870339"
+name: ELIZA
+wikidata: https://wikidata.org/wiki/Q20894567
+http://www.aberdeenships.com/single.asp?index=99496 "99496" : "Q20894567"
+http://www.aberdeenships.com/single.asp?index=112582 "112582" : "Q20894567"
+name: ELIZA
+wikidata: https://wikidata.org/wiki/Q20894568
+http://www.aberdeenships.com/single.asp?index=99496 "99496" : "Q20894568"
+http://www.aberdeenships.com/single.asp?index=112582 "112582" : "Q20894568"
+name: ELIZA
+wikidata: https://wikidata.org/wiki/Q22001016
+http://www.aberdeenships.com/single.asp?index=99496 "99496" : "Q22001016"
+http://www.aberdeenships.com/single.asp?index=112582 "112582" : "Q22001016"
+name: ELIZA
+wikidata: https://wikidata.org/wiki/Q42886735
+http://www.aberdeenships.com/single.asp?index=99496 "99496" : "Q42886735"
+http://www.aberdeenships.com/single.asp?index=112582 "112582" : "Q42886735"
+name: ELIZA
+wikidata: https://wikidata.org/wiki/Q5362077
+http://www.aberdeenships.com/single.asp?index=99496 "99496" : "Q5362077"
+http://www.aberdeenships.com/single.asp?index=112582 "112582" : "Q5362077"
+name: ELIZA
+wikidata: https://wikidata.org/wiki/Q5362085
+http://www.aberdeenships.com/single.asp?index=99496 "99496" : "Q5362085"
+http://www.aberdeenships.com/single.asp?index=112582 "112582" : "Q5362085"
+name: ELIZA
+wikidata: https://wikidata.org/wiki/Q85977952
+http://www.aberdeenships.com/single.asp?index=99496 "99496" : "Q85977952"
+http://www.aberdeenships.com/single.asp?index=112582 "112582" : "Q85977952"
+name: ELLA
+wikidata: https://wikidata.org/wiki/Q24026937
+http://www.aberdeenships.com/single.asp?index=99629 "99629" : "Q24026937"
+http://www.aberdeenships.com/single.asp?index=100322 "100322" : "Q24026937"
+name: ELLA
+wikidata: https://wikidata.org/wiki/Q24027429
+http://www.aberdeenships.com/single.asp?index=99629 "99629" : "Q24027429"
+http://www.aberdeenships.com/single.asp?index=100322 "100322" : "Q24027429"
+name: ELLA
+wikidata: https://wikidata.org/wiki/Q84266157
+http://www.aberdeenships.com/single.asp?index=99629 "99629" : "Q84266157"
+http://www.aberdeenships.com/single.asp?index=100322 "100322" : "Q84266157"
+name: ELVIRA
+wikidata: https://wikidata.org/wiki/Q52349273
+http://www.aberdeenships.com/single.asp?index=100228 "100228" : "Q52349273"
+name: EMERALD
+wikidata: https://wikidata.org/wiki/Q83652448
+http://www.aberdeenships.com/single.asp?index=100850 "100850" : "Q83652448"
+name: EMERALD
+wikidata: https://wikidata.org/wiki/Q84709785
+http://www.aberdeenships.com/single.asp?index=100850 "100850" : "Q84709785"
+name: ENDEAVOUR
+wikidata: https://wikidata.org/wiki/Q508018
+http://www.aberdeenships.com/single.asp?index=137029 "137029" : "Q508018"
+name: ENDEAVOUR
+wikidata: https://wikidata.org/wiki/Q52321459
+http://www.aberdeenships.com/single.asp?index=137029 "137029" : "Q52321459"
+name: ENERGY
+wikidata: https://wikidata.org/wiki/Q24026971
+http://www.aberdeenships.com/single.asp?index=100603 "100603" : "Q24026971"
+name: ENTERPRISE
+wikidata: https://wikidata.org/wiki/Q17005231
+http://www.aberdeenships.com/single.asp?index=100105 "100105" : "Q17005231"
+http://www.aberdeenships.com/single.asp?index=101140 "101140" : "Q17005231"
+name: ENTERPRISE
+wikidata: https://wikidata.org/wiki/Q24027068
+http://www.aberdeenships.com/single.asp?index=100105 "100105" : "Q24027068"
+http://www.aberdeenships.com/single.asp?index=101140 "101140" : "Q24027068"
+name: ENTERPRISE
+wikidata: https://wikidata.org/wiki/Q5380272
+http://www.aberdeenships.com/single.asp?index=100105 "100105" : "Q5380272"
+http://www.aberdeenships.com/single.asp?index=101140 "101140" : "Q5380272"
+name: ENTERPRISE
+wikidata: https://wikidata.org/wiki/Q5380273
+http://www.aberdeenships.com/single.asp?index=100105 "100105" : "Q5380273"
+http://www.aberdeenships.com/single.asp?index=101140 "101140" : "Q5380273"
+name: ENTERPRISE
+wikidata: https://wikidata.org/wiki/Q5380274
+http://www.aberdeenships.com/single.asp?index=100105 "100105" : "Q5380274"
+http://www.aberdeenships.com/single.asp?index=101140 "101140" : "Q5380274"
+name: ENTERPRISE
+wikidata: https://wikidata.org/wiki/Q5380275
+http://www.aberdeenships.com/single.asp?index=100105 "100105" : "Q5380275"
+http://www.aberdeenships.com/single.asp?index=101140 "101140" : "Q5380275"
+name: ENTERPRIZE
+wikidata: https://wikidata.org/wiki/Q3055065
+http://www.aberdeenships.com/single.asp?index=100786 "100786" : "Q3055065"
+http://www.aberdeenships.com/single.asp?index=182676 "182676" : "Q3055065"
+name: ERATO
+wikidata: https://wikidata.org/wiki/Q84262213
+http://www.aberdeenships.com/single.asp?index=99914 "99914" : "Q84262213"
+name: ERATO
+wikidata: https://wikidata.org/wiki/Q86062060
+http://www.aberdeenships.com/single.asp?index=99914 "99914" : "Q86062060"
+name: ERNA
+wikidata: https://wikidata.org/wiki/Q84728358
+http://www.aberdeenships.com/single.asp?index=99871 "99871" : "Q84728358"
+name: ESMERALDA
+wikidata: https://wikidata.org/wiki/Q1367936
+http://www.aberdeenships.com/single.asp?index=100869 "100869" : "Q1367936"
+name: ESMERALDA
+wikidata: https://wikidata.org/wiki/Q3269005
+http://www.aberdeenships.com/single.asp?index=100869 "100869" : "Q3269005"
+name: ESTHER
+wikidata: https://wikidata.org/wiki/Q30599108
+http://www.aberdeenships.com/single.asp?index=99831 "99831" : "Q30599108"
+name: EUROPA
+wikidata: https://wikidata.org/wiki/Q1272879
+http://www.aberdeenships.com/single.asp?index=99985 "99985" : "Q1272879"
+name: EUROPA
+wikidata: https://wikidata.org/wiki/Q5412020
+http://www.aberdeenships.com/single.asp?index=99985 "99985" : "Q5412020"
+name: EVA
+wikidata: https://wikidata.org/wiki/Q18149931
+http://www.aberdeenships.com/single.asp?index=100266 "100266" : "Q18149931"
+name: EVA
+wikidata: https://wikidata.org/wiki/Q55813248
+http://www.aberdeenships.com/single.asp?index=100266 "100266" : "Q55813248"
+name: EVA
+wikidata: https://wikidata.org/wiki/Q84253167
+http://www.aberdeenships.com/single.asp?index=100266 "100266" : "Q84253167"
+name: EXCELLENT
+wikidata: https://wikidata.org/wiki/Q24026963
+http://www.aberdeenships.com/single.asp?index=110174 "110174" : "Q24026963"
+name: EXPERIMENT
+wikidata: https://wikidata.org/wiki/Q42886773
+http://www.aberdeenships.com/single.asp?index=182677 "182677" : "Q42886773"
+name: EXPERIMENT
+wikidata: https://wikidata.org/wiki/Q42886774
+http://www.aberdeenships.com/single.asp?index=182677 "182677" : "Q42886774"
+name: EXPERIMENT
+wikidata: https://wikidata.org/wiki/Q42896520
+http://www.aberdeenships.com/single.asp?index=182677 "182677" : "Q42896520"
+name: EXPERIMENT
+wikidata: https://wikidata.org/wiki/Q5421076
+http://www.aberdeenships.com/single.asp?index=182677 "182677" : "Q5421076"
+name: EXPERIMENT
+wikidata: https://wikidata.org/wiki/Q5421079
+http://www.aberdeenships.com/single.asp?index=182677 "182677" : "Q5421079"
+name: EXPLORER
+wikidata: https://wikidata.org/wiki/Q18705700
+http://www.aberdeenships.com/single.asp?index=100665 "100665" : "Q18705700"
+name: EXPLORER
+wikidata: https://wikidata.org/wiki/Q83646083
+http://www.aberdeenships.com/single.asp?index=100665 "100665" : "Q83646083"
+name: EXPLORER
+wikidata: https://wikidata.org/wiki/Q86084763
+http://www.aberdeenships.com/single.asp?index=100665 "100665" : "Q86084763"
+name: EXPRESS
+wikidata: https://wikidata.org/wiki/Q24027066
+http://www.aberdeenships.com/single.asp?index=99516 "99516" : "Q24027066"
+name: EXPRESS
+wikidata: https://wikidata.org/wiki/Q52326718
+http://www.aberdeenships.com/single.asp?index=99516 "99516" : "Q52326718"
+name: FAIRTRY
+wikidata: https://wikidata.org/wiki/Q1393393
+http://www.aberdeenships.com/single.asp?index=99213 "99213" : "Q1393393"
+name: FAIRY
+wikidata: https://wikidata.org/wiki/Q24027352
+http://www.aberdeenships.com/single.asp?index=100051 "100051" : "Q24027352"
+name: FAIRY
+wikidata: https://wikidata.org/wiki/Q5430938
+http://www.aberdeenships.com/single.asp?index=100051 "100051" : "Q5430938"
+name: FALCON
+wikidata: https://wikidata.org/wiki/Q52316840
+http://www.aberdeenships.com/single.asp?index=99489 "99489" : "Q52316840"
+http://www.aberdeenships.com/single.asp?index=100010 "100010" : "Q52316840"
+http://www.aberdeenships.com/single.asp?index=100795 "100795" : "Q52316840"
+name: FALCON
+wikidata: https://wikidata.org/wiki/Q52343741
+http://www.aberdeenships.com/single.asp?index=99489 "99489" : "Q52343741"
+http://www.aberdeenships.com/single.asp?index=100010 "100010" : "Q52343741"
+http://www.aberdeenships.com/single.asp?index=100795 "100795" : "Q52343741"
+name: FALMOUTH
+wikidata: https://wikidata.org/wiki/Q84260548
+http://www.aberdeenships.com/single.asp?index=99797 "99797" : "Q84260548"
+name: FAME
+wikidata: https://wikidata.org/wiki/Q40781157
+http://www.aberdeenships.com/single.asp?index=99328 "99328" : "Q40781157"
+http://www.aberdeenships.com/single.asp?index=137183 "137183" : "Q40781157"
+http://www.aberdeenships.com/single.asp?index=182679 "182679" : "Q40781157"
+name: FAME
+wikidata: https://wikidata.org/wiki/Q42886775
+http://www.aberdeenships.com/single.asp?index=99328 "99328" : "Q42886775"
+http://www.aberdeenships.com/single.asp?index=137183 "137183" : "Q42886775"
+http://www.aberdeenships.com/single.asp?index=182679 "182679" : "Q42886775"
+name: FAME
+wikidata: https://wikidata.org/wiki/Q42886777
+http://www.aberdeenships.com/single.asp?index=99328 "99328" : "Q42886777"
+http://www.aberdeenships.com/single.asp?index=137183 "137183" : "Q42886777"
+http://www.aberdeenships.com/single.asp?index=182679 "182679" : "Q42886777"
+name: FAME
+wikidata: https://wikidata.org/wiki/Q42886781
+http://www.aberdeenships.com/single.asp?index=99328 "99328" : "Q42886781"
+http://www.aberdeenships.com/single.asp?index=137183 "137183" : "Q42886781"
+http://www.aberdeenships.com/single.asp?index=182679 "182679" : "Q42886781"
+name: FANCY
+wikidata: https://wikidata.org/wiki/Q5433675
+http://www.aberdeenships.com/single.asp?index=136598 "136598" : "Q5433675"
+name: FANNY
+wikidata: https://wikidata.org/wiki/Q20870348
+http://www.aberdeenships.com/single.asp?index=99722 "99722" : "Q20870348"
+http://www.aberdeenships.com/single.asp?index=137792 "137792" : "Q20870348"
+name: FANNY
+wikidata: https://wikidata.org/wiki/Q20870350
+http://www.aberdeenships.com/single.asp?index=99722 "99722" : "Q20870350"
+http://www.aberdeenships.com/single.asp?index=137792 "137792" : "Q20870350"
+name: FANNY
+wikidata: https://wikidata.org/wiki/Q5434000
+http://www.aberdeenships.com/single.asp?index=99722 "99722" : "Q5434000"
+http://www.aberdeenships.com/single.asp?index=137792 "137792" : "Q5434000"
+name: FAVOURITE
+wikidata: https://wikidata.org/wiki/Q24027100
+http://www.aberdeenships.com/single.asp?index=99529 "99529" : "Q24027100"
+http://www.aberdeenships.com/single.asp?index=100711 "100711" : "Q24027100"
+http://www.aberdeenships.com/single.asp?index=100745 "100745" : "Q24027100"
+http://www.aberdeenships.com/single.asp?index=152190 "152190" : "Q24027100"
+name: FAVOURITE
+wikidata: https://wikidata.org/wiki/Q24027159
+http://www.aberdeenships.com/single.asp?index=99529 "99529" : "Q24027159"
+http://www.aberdeenships.com/single.asp?index=100711 "100711" : "Q24027159"
+http://www.aberdeenships.com/single.asp?index=100745 "100745" : "Q24027159"
+http://www.aberdeenships.com/single.asp?index=152190 "152190" : "Q24027159"
+name: FAVOURITE
+wikidata: https://wikidata.org/wiki/Q55763846
+http://www.aberdeenships.com/single.asp?index=99529 "99529" : "Q55763846"
+http://www.aberdeenships.com/single.asp?index=100711 "100711" : "Q55763846"
+http://www.aberdeenships.com/single.asp?index=100745 "100745" : "Q55763846"
+http://www.aberdeenships.com/single.asp?index=152190 "152190" : "Q55763846"
+name: FIREFLY
+wikidata: https://wikidata.org/wiki/Q24027498
+http://www.aberdeenships.com/single.asp?index=101772 "101772" : "Q24027498"
+name: FLORA
+wikidata: https://wikidata.org/wiki/Q84252575
+http://www.aberdeenships.com/single.asp?index=100037 "100037" : "Q84252575"
+http://www.aberdeenships.com/single.asp?index=100710 "100710" : "Q84252575"
+http://www.aberdeenships.com/single.asp?index=110885 "110885" : "Q84252575"
+name: FLORA
+wikidata: https://wikidata.org/wiki/Q86723493
+http://www.aberdeenships.com/single.asp?index=100037 "100037" : "Q86723493"
+http://www.aberdeenships.com/single.asp?index=100710 "100710" : "Q86723493"
+http://www.aberdeenships.com/single.asp?index=110885 "110885" : "Q86723493"
+name: FLORENCE
+wikidata: https://wikidata.org/wiki/Q5460540
+http://www.aberdeenships.com/single.asp?index=100760 "100760" : "Q5460540"
+name: FLORENCE
+wikidata: https://wikidata.org/wiki/Q64029199
+http://www.aberdeenships.com/single.asp?index=100760 "100760" : "Q64029199"
+name: FLYING SPUR
+wikidata: https://wikidata.org/wiki/Q5463518
+http://www.aberdeenships.com/single.asp?index=100140 "100140" : "Q5463518"
+name: FOREMOST 45
+wikidata: https://wikidata.org/wiki/Q84712363
+http://www.aberdeenships.com/single.asp?index=100525 "100525" : "Q84712363"
+name: FORTH
+wikidata: https://wikidata.org/wiki/Q20870356
+http://www.aberdeenships.com/single.asp?index=100830 "100830" : "Q20870356"
+name: FORTH
+wikidata: https://wikidata.org/wiki/Q20870358
+http://www.aberdeenships.com/single.asp?index=100830 "100830" : "Q20870358"
+name: FORTITUDE
+wikidata: https://wikidata.org/wiki/Q5472679
+http://www.aberdeenships.com/single.asp?index=100015 "100015" : "Q5472679"
+name: FORTUNA
+wikidata: https://wikidata.org/wiki/Q5472782
+http://www.aberdeenships.com/single.asp?index=99523 "99523" : "Q5472782"
+http://www.aberdeenships.com/single.asp?index=182682 "182682" : "Q5472782"
+name: FORTUNA
+wikidata: https://wikidata.org/wiki/Q81655168
+http://www.aberdeenships.com/single.asp?index=99523 "99523" : "Q81655168"
+http://www.aberdeenships.com/single.asp?index=182682 "182682" : "Q81655168"
+name: FORTUNA
+wikidata: https://wikidata.org/wiki/Q84258629
+http://www.aberdeenships.com/single.asp?index=99523 "99523" : "Q84258629"
+http://www.aberdeenships.com/single.asp?index=182682 "182682" : "Q84258629"
+name: FORTUNE
+wikidata: https://wikidata.org/wiki/Q5472850
+http://www.aberdeenships.com/single.asp?index=112095 "112095" : "Q5472850"
+name: FORTUNE
+wikidata: https://wikidata.org/wiki/Q8564843
+http://www.aberdeenships.com/single.asp?index=112095 "112095" : "Q8564843"
+name: FOX
+wikidata: https://wikidata.org/wiki/Q5476571
+http://www.aberdeenships.com/single.asp?index=100119 "100119" : "Q5476571"
+http://www.aberdeenships.com/single.asp?index=112096 "112096" : "Q5476571"
+http://www.aberdeenships.com/single.asp?index=112949 "112949" : "Q5476571"
+name: FREESIA
+wikidata: https://wikidata.org/wiki/Q84255095
+http://www.aberdeenships.com/single.asp?index=101443 "101443" : "Q84255095"
+name: FREYA
+wikidata: https://wikidata.org/wiki/Q83626632
+http://www.aberdeenships.com/single.asp?index=101091 "101091" : "Q83626632"
+name: FREYA
+wikidata: https://wikidata.org/wiki/Q84266080
+http://www.aberdeenships.com/single.asp?index=101091 "101091" : "Q84266080"
+name: FRIENDSHIP
+wikidata: https://wikidata.org/wiki/Q1464588
+http://www.aberdeenships.com/single.asp?index=112257 "112257" : "Q1464588"
+name: FRIENDSHIP
+wikidata: https://wikidata.org/wiki/Q24027073
+http://www.aberdeenships.com/single.asp?index=112257 "112257" : "Q24027073"
+name: FRIENDSHIP
+wikidata: https://wikidata.org/wiki/Q5504368
+http://www.aberdeenships.com/single.asp?index=112257 "112257" : "Q5504368"
+name: FRIENDSHIP
+wikidata: https://wikidata.org/wiki/Q85988592
+http://www.aberdeenships.com/single.asp?index=112257 "112257" : "Q85988592"
+name: FRIENDS
+wikidata: https://wikidata.org/wiki/Q24027004
+http://www.aberdeenships.com/single.asp?index=100702 "100702" : "Q24027004"
+http://www.aberdeenships.com/single.asp?index=100836 "100836" : "Q24027004"
+http://www.aberdeenships.com/single.asp?index=137030 "137030" : "Q24027004"
+http://www.aberdeenships.com/single.asp?index=137428 "137428" : "Q24027004"
+name: FRIENDS
+wikidata: https://wikidata.org/wiki/Q5504144
+http://www.aberdeenships.com/single.asp?index=100702 "100702" : "Q5504144"
+http://www.aberdeenships.com/single.asp?index=100836 "100836" : "Q5504144"
+http://www.aberdeenships.com/single.asp?index=137030 "137030" : "Q5504144"
+http://www.aberdeenships.com/single.asp?index=137428 "137428" : "Q5504144"
+name: GASCOGNE
+wikidata: https://wikidata.org/wiki/Q16635854
+http://www.aberdeenships.com/single.asp?index=99177 "99177" : "Q16635854"
+name: GASCOGNE
+wikidata: https://wikidata.org/wiki/Q52326466
+http://www.aberdeenships.com/single.asp?index=99177 "99177" : "Q52326466"
+name: GAZELLE
+wikidata: https://wikidata.org/wiki/Q52325937
+http://www.aberdeenships.com/single.asp?index=100021 "100021" : "Q52325937"
+http://www.aberdeenships.com/single.asp?index=106351 "106351" : "Q52325937"
+name: GAZELLE
+wikidata: https://wikidata.org/wiki/Q5529063
+http://www.aberdeenships.com/single.asp?index=100021 "100021" : "Q5529063"
+http://www.aberdeenships.com/single.asp?index=106351 "106351" : "Q5529063"
+name: GEM
+wikidata: https://wikidata.org/wiki/Q55764079
+http://www.aberdeenships.com/single.asp?index=100018 "100018" : "Q55764079"
+http://www.aberdeenships.com/single.asp?index=116009 "116009" : "Q55764079"
+name: GEM
+wikidata: https://wikidata.org/wiki/Q86085555
+http://www.aberdeenships.com/single.asp?index=100018 "100018" : "Q86085555"
+http://www.aberdeenships.com/single.asp?index=116009 "116009" : "Q86085555"
+name: GERDA
+wikidata: https://wikidata.org/wiki/Q84254398
+http://www.aberdeenships.com/single.asp?index=99727 "99727" : "Q84254398"
+name: GLADIATOR
+wikidata: https://wikidata.org/wiki/Q84254613
+http://www.aberdeenships.com/single.asp?index=99365 "99365" : "Q84254613"
+name: GLADIATOR
+wikidata: https://wikidata.org/wiki/Q84261164
+http://www.aberdeenships.com/single.asp?index=99365 "99365" : "Q84261164"
+name: GLADIATOR
+wikidata: https://wikidata.org/wiki/Q85974149
+http://www.aberdeenships.com/single.asp?index=99365 "99365" : "Q85974149"
+name: GLENAVON
+wikidata: https://wikidata.org/wiki/Q21469600
+http://www.aberdeenships.com/single.asp?index=99405 "99405" : "Q21469600"
+name: GLENELG
+wikidata: https://wikidata.org/wiki/Q84710546
+http://www.aberdeenships.com/single.asp?index=101742 "101742" : "Q84710546"
+name: GLEN TANAR
+wikidata: https://wikidata.org/wiki/Q84711638
+http://www.aberdeenships.com/single.asp?index=100240 "100240" : "Q84711638"
+http://www.aberdeenships.com/single.asp?index=101182 "101182" : "Q84711638"
+name: GLENTANNER
+wikidata: https://wikidata.org/wiki/Q16839307
+http://www.aberdeenships.com/single.asp?index=112254 "112254" : "Q16839307"
+http://www.aberdeenships.com/single.asp?index=141867 "141867" : "Q16839307"
+name: GLORIA
+wikidata: https://wikidata.org/wiki/Q84225955
+http://www.aberdeenships.com/single.asp?index=101133 "101133" : "Q84225955"
+name: GLORIA
+wikidata: https://wikidata.org/wiki/Q84710696
+http://www.aberdeenships.com/single.asp?index=101133 "101133" : "Q84710696"
+name: GLORY
+wikidata: https://wikidata.org/wiki/Q52324531
+http://www.aberdeenships.com/single.asp?index=100776 "100776" : "Q52324531"
+name: GLORY
+wikidata: https://wikidata.org/wiki/Q84265508
+http://www.aberdeenships.com/single.asp?index=100776 "100776" : "Q84265508"
+name: GOLDEN FLEECE
+wikidata: https://wikidata.org/wiki/Q5579398
+http://www.aberdeenships.com/single.asp?index=99377 "99377" : "Q5579398"
+name: GOOLWA
+wikidata: https://wikidata.org/wiki/Q30603076
+http://www.aberdeenships.com/single.asp?index=100158 "100158" : "Q30603076"
+name: GOSFORTH
+wikidata: https://wikidata.org/wiki/Q17110319
+http://www.aberdeenships.com/single.asp?index=101610 "101610" : "Q17110319"
+name: GRATEFUL
+wikidata: https://wikidata.org/wiki/Q84255547
+http://www.aberdeenships.com/single.asp?index=99731 "99731" : "Q84255547"
+name: GRETA
+wikidata: https://wikidata.org/wiki/Q84261094
+http://www.aberdeenships.com/single.asp?index=99697 "99697" : "Q84261094"
+http://www.aberdeenships.com/single.asp?index=99749 "99749" : "Q84261094"
+name: GRETA
+wikidata: https://wikidata.org/wiki/Q84710716
+http://www.aberdeenships.com/single.asp?index=99697 "99697" : "Q84710716"
+http://www.aberdeenships.com/single.asp?index=99749 "99749" : "Q84710716"
+name: HALCYON
+wikidata: https://wikidata.org/wiki/Q84711562
+http://www.aberdeenships.com/single.asp?index=117807 "117807" : "Q84711562"
+name: HALCYON
+wikidata: https://wikidata.org/wiki/Q85978778
+http://www.aberdeenships.com/single.asp?index=117807 "117807" : "Q85978778"
+name: HALLER
+wikidata: https://wikidata.org/wiki/Q84727717
+http://www.aberdeenships.com/single.asp?index=99631 "99631" : "Q84727717"
+name: HALO
+wikidata: https://wikidata.org/wiki/Q60968970
+http://www.aberdeenships.com/single.asp?index=100463 "100463" : "Q60968970"
+name: HANNIBAL
+wikidata: https://wikidata.org/wiki/Q5649149
+http://www.aberdeenships.com/single.asp?index=100101 "100101" : "Q5649149"
+name: HARLE
+wikidata: https://wikidata.org/wiki/Q84709902
+http://www.aberdeenships.com/single.asp?index=99858 "99858" : "Q84709902"
+name: HARMONY
+wikidata: https://wikidata.org/wiki/Q42886844
+http://www.aberdeenships.com/single.asp?index=99959 "99959" : "Q42886844"
+http://www.aberdeenships.com/single.asp?index=99984 "99984" : "Q42886844"
+http://www.aberdeenships.com/single.asp?index=100011 "100011" : "Q42886844"
+http://www.aberdeenships.com/single.asp?index=140144 "140144" : "Q42886844"
+http://www.aberdeenships.com/single.asp?index=152164 "152164" : "Q42886844"
+name: HARMONY
+wikidata: https://wikidata.org/wiki/Q84254909
+http://www.aberdeenships.com/single.asp?index=99959 "99959" : "Q84254909"
+http://www.aberdeenships.com/single.asp?index=99984 "99984" : "Q84254909"
+http://www.aberdeenships.com/single.asp?index=100011 "100011" : "Q84254909"
+http://www.aberdeenships.com/single.asp?index=140144 "140144" : "Q84254909"
+http://www.aberdeenships.com/single.asp?index=152164 "152164" : "Q84254909"
+name: HEATHER BELL
+wikidata: https://wikidata.org/wiki/Q24027208
+http://www.aberdeenships.com/single.asp?index=99366 "99366" : "Q24027208"
+http://www.aberdeenships.com/single.asp?index=99554 "99554" : "Q24027208"
+name: HECTOR
+wikidata: https://wikidata.org/wiki/Q5696565
+http://www.aberdeenships.com/single.asp?index=152958 "152958" : "Q5696565"
+name: HECTOR
+wikidata: https://wikidata.org/wiki/Q5696566
+http://www.aberdeenships.com/single.asp?index=152958 "152958" : "Q5696566"
+name: HECTOR
+wikidata: https://wikidata.org/wiki/Q59211891
+http://www.aberdeenships.com/single.asp?index=152958 "152958" : "Q59211891"
+name: HENRY
+wikidata: https://wikidata.org/wiki/Q21012190
+http://www.aberdeenships.com/single.asp?index=100818 "100818" : "Q21012190"
+name: HENRY
+wikidata: https://wikidata.org/wiki/Q23581757
+http://www.aberdeenships.com/single.asp?index=100818 "100818" : "Q23581757"
+name: HERALD
+wikidata: https://wikidata.org/wiki/Q24027040
+http://www.aberdeenships.com/single.asp?index=100828 "100828" : "Q24027040"
+http://www.aberdeenships.com/single.asp?index=152959 "152959" : "Q24027040"
+name: HERALD
+wikidata: https://wikidata.org/wiki/Q30597377
+http://www.aberdeenships.com/single.asp?index=100828 "100828" : "Q30597377"
+http://www.aberdeenships.com/single.asp?index=152959 "152959" : "Q30597377"
+name: HERCULES
+wikidata: https://wikidata.org/wiki/Q10522326
+http://www.aberdeenships.com/single.asp?index=110963 "110963" : "Q10522326"
+name: HERCULES
+wikidata: https://wikidata.org/wiki/Q29653944
+http://www.aberdeenships.com/single.asp?index=110963 "110963" : "Q29653944"
+name: HERCULES
+wikidata: https://wikidata.org/wiki/Q52295217
+http://www.aberdeenships.com/single.asp?index=110963 "110963" : "Q52295217"
+name: HERCULES
+wikidata: https://wikidata.org/wiki/Q5736409
+http://www.aberdeenships.com/single.asp?index=110963 "110963" : "Q5736409"
+name: HERCULES
+wikidata: https://wikidata.org/wiki/Q5736411
+http://www.aberdeenships.com/single.asp?index=110963 "110963" : "Q5736411"
+name: HERO
+wikidata: https://wikidata.org/wiki/Q24027470
+http://www.aberdeenships.com/single.asp?index=99449 "99449" : "Q24027470"
+http://www.aberdeenships.com/single.asp?index=99530 "99530" : "Q24027470"
+http://www.aberdeenships.com/single.asp?index=100063 "100063" : "Q24027470"
+http://www.aberdeenships.com/single.asp?index=101543 "101543" : "Q24027470"
+http://www.aberdeenships.com/single.asp?index=110820 "110820" : "Q24027470"
+http://www.aberdeenships.com/single.asp?index=118963 "118963" : "Q24027470"
+name: HERO
+wikidata: https://wikidata.org/wiki/Q5742619
+http://www.aberdeenships.com/single.asp?index=99449 "99449" : "Q5742619"
+http://www.aberdeenships.com/single.asp?index=99530 "99530" : "Q5742619"
+http://www.aberdeenships.com/single.asp?index=100063 "100063" : "Q5742619"
+http://www.aberdeenships.com/single.asp?index=101543 "101543" : "Q5742619"
+http://www.aberdeenships.com/single.asp?index=110820 "110820" : "Q5742619"
+http://www.aberdeenships.com/single.asp?index=118963 "118963" : "Q5742619"
+name: HESPERUS
+wikidata: https://wikidata.org/wiki/Q30602693
+http://www.aberdeenships.com/single.asp?index=101761 "101761" : "Q30602693"
+name: HIBERNIA
+wikidata: https://wikidata.org/wiki/Q28220227
+http://www.aberdeenships.com/single.asp?index=117483 "117483" : "Q28220227"
+name: HIBERNIA
+wikidata: https://wikidata.org/wiki/Q28429897
+http://www.aberdeenships.com/single.asp?index=117483 "117483" : "Q28429897"
+name: HIND
+wikidata: https://wikidata.org/wiki/Q24027302
+http://www.aberdeenships.com/single.asp?index=101810 "101810" : "Q24027302"
+name: HIND
+wikidata: https://wikidata.org/wiki/Q42886848
+http://www.aberdeenships.com/single.asp?index=101810 "101810" : "Q42886848"
+name: HOLLAND III
+wikidata: https://wikidata.org/wiki/Q5880984
+http://www.aberdeenships.com/single.asp?index=99646 "99646" : "Q5880984"
+name: HOPE
+wikidata: https://wikidata.org/wiki/Q24026988
+http://www.aberdeenships.com/single.asp?index=100061 "100061" : "Q24026988"
+http://www.aberdeenships.com/single.asp?index=100193 "100193" : "Q24026988"
+http://www.aberdeenships.com/single.asp?index=100339 "100339" : "Q24026988"
+http://www.aberdeenships.com/single.asp?index=113003 "113003" : "Q24026988"
+http://www.aberdeenships.com/single.asp?index=119325 "119325" : "Q24026988"
+name: HOPE
+wikidata: https://wikidata.org/wiki/Q24027069
+http://www.aberdeenships.com/single.asp?index=100061 "100061" : "Q24027069"
+http://www.aberdeenships.com/single.asp?index=100193 "100193" : "Q24027069"
+http://www.aberdeenships.com/single.asp?index=100339 "100339" : "Q24027069"
+http://www.aberdeenships.com/single.asp?index=113003 "113003" : "Q24027069"
+http://www.aberdeenships.com/single.asp?index=119325 "119325" : "Q24027069"
+name: HOPE
+wikidata: https://wikidata.org/wiki/Q24027378
+http://www.aberdeenships.com/single.asp?index=100061 "100061" : "Q24027378"
+http://www.aberdeenships.com/single.asp?index=100193 "100193" : "Q24027378"
+http://www.aberdeenships.com/single.asp?index=100339 "100339" : "Q24027378"
+http://www.aberdeenships.com/single.asp?index=113003 "113003" : "Q24027378"
+http://www.aberdeenships.com/single.asp?index=119325 "119325" : "Q24027378"
+name: HOPE
+wikidata: https://wikidata.org/wiki/Q42886851
+http://www.aberdeenships.com/single.asp?index=100061 "100061" : "Q42886851"
+http://www.aberdeenships.com/single.asp?index=100193 "100193" : "Q42886851"
+http://www.aberdeenships.com/single.asp?index=100339 "100339" : "Q42886851"
+http://www.aberdeenships.com/single.asp?index=113003 "113003" : "Q42886851"
+http://www.aberdeenships.com/single.asp?index=119325 "119325" : "Q42886851"
+name: HOPE
+wikidata: https://wikidata.org/wiki/Q42886852
+http://www.aberdeenships.com/single.asp?index=100061 "100061" : "Q42886852"
+http://www.aberdeenships.com/single.asp?index=100193 "100193" : "Q42886852"
+http://www.aberdeenships.com/single.asp?index=100339 "100339" : "Q42886852"
+http://www.aberdeenships.com/single.asp?index=113003 "113003" : "Q42886852"
+http://www.aberdeenships.com/single.asp?index=119325 "119325" : "Q42886852"
+name: HOPE
+wikidata: https://wikidata.org/wiki/Q5378650
+http://www.aberdeenships.com/single.asp?index=100061 "100061" : "Q5378650"
+http://www.aberdeenships.com/single.asp?index=100193 "100193" : "Q5378650"
+http://www.aberdeenships.com/single.asp?index=100339 "100339" : "Q5378650"
+http://www.aberdeenships.com/single.asp?index=113003 "113003" : "Q5378650"
+http://www.aberdeenships.com/single.asp?index=119325 "119325" : "Q5378650"
+name: HOPE
+wikidata: https://wikidata.org/wiki/Q5899053
+http://www.aberdeenships.com/single.asp?index=100061 "100061" : "Q5899053"
+http://www.aberdeenships.com/single.asp?index=100193 "100193" : "Q5899053"
+http://www.aberdeenships.com/single.asp?index=100339 "100339" : "Q5899053"
+http://www.aberdeenships.com/single.asp?index=113003 "113003" : "Q5899053"
+http://www.aberdeenships.com/single.asp?index=119325 "119325" : "Q5899053"
+name: HOPE
+wikidata: https://wikidata.org/wiki/Q5899122
+http://www.aberdeenships.com/single.asp?index=100061 "100061" : "Q5899122"
+http://www.aberdeenships.com/single.asp?index=100193 "100193" : "Q5899122"
+http://www.aberdeenships.com/single.asp?index=100339 "100339" : "Q5899122"
+http://www.aberdeenships.com/single.asp?index=113003 "113003" : "Q5899122"
+http://www.aberdeenships.com/single.asp?index=119325 "119325" : "Q5899122"
+name: HORIZON
+wikidata: https://wikidata.org/wiki/Q84260481
+http://www.aberdeenships.com/single.asp?index=100460 "100460" : "Q84260481"
+name: HYDRA
+wikidata: https://wikidata.org/wiki/Q1986115
+http://www.aberdeenships.com/single.asp?index=101544 "101544" : "Q1986115"
+name: HYDRA
+wikidata: https://wikidata.org/wiki/Q67678088
+http://www.aberdeenships.com/single.asp?index=101544 "101544" : "Q67678088"
+name: ICICLE
+wikidata: https://wikidata.org/wiki/Q5986460
+http://www.aberdeenships.com/single.asp?index=100467 "100467" : "Q5986460"
+name: IDA
+wikidata: https://wikidata.org/wiki/Q27868038
+http://www.aberdeenships.com/single.asp?index=100235 "100235" : "Q27868038"
+name: IDA
+wikidata: https://wikidata.org/wiki/Q83638452
+http://www.aberdeenships.com/single.asp?index=100235 "100235" : "Q83638452"
+name: INCHGARTH
+wikidata: https://wikidata.org/wiki/Q84711631
+http://www.aberdeenships.com/single.asp?index=100447 "100447" : "Q84711631"
+name: INCONSTANT
+wikidata: https://wikidata.org/wiki/Q6015224
+http://www.aberdeenships.com/single.asp?index=100810 "100810" : "Q6015224"
+name: INDIAN
+wikidata: https://wikidata.org/wiki/Q6019761
+http://www.aberdeenships.com/single.asp?index=101806 "101806" : "Q6019761"
+name: INDUSTRY
+wikidata: https://wikidata.org/wiki/Q24026957
+http://www.aberdeenships.com/single.asp?index=100754 "100754" : "Q24026957"
+http://www.aberdeenships.com/single.asp?index=101141 "101141" : "Q24026957"
+http://www.aberdeenships.com/single.asp?index=112094 "112094" : "Q24026957"
+name: INDUSTRY
+wikidata: https://wikidata.org/wiki/Q24027211
+http://www.aberdeenships.com/single.asp?index=100754 "100754" : "Q24027211"
+http://www.aberdeenships.com/single.asp?index=101141 "101141" : "Q24027211"
+http://www.aberdeenships.com/single.asp?index=112094 "112094" : "Q24027211"
+name: INISHTRAHULL
+wikidata: https://wikidata.org/wiki/Q6034062
+http://www.aberdeenships.com/single.asp?index=99114 "99114" : "Q6034062"
+name: INVERCAULD
+wikidata: https://wikidata.org/wiki/Q6060032
+http://www.aberdeenships.com/single.asp?index=100740 "100740" : "Q6060032"
+http://www.aberdeenships.com/single.asp?index=110961 "110961" : "Q6060032"
+name: IRIS
+wikidata: https://wikidata.org/wiki/Q47005020
+http://www.aberdeenships.com/single.asp?index=100035 "100035" : "Q47005020"
+http://www.aberdeenships.com/single.asp?index=101029 "101029" : "Q47005020"
+http://www.aberdeenships.com/single.asp?index=101634 "101634" : "Q47005020"
+name: IRIS
+wikidata: https://wikidata.org/wiki/Q6070116
+http://www.aberdeenships.com/single.asp?index=100035 "100035" : "Q6070116"
+http://www.aberdeenships.com/single.asp?index=101029 "101029" : "Q6070116"
+http://www.aberdeenships.com/single.asp?index=101634 "101634" : "Q6070116"
+name: IRIS
+wikidata: https://wikidata.org/wiki/Q84228794
+http://www.aberdeenships.com/single.asp?index=100035 "100035" : "Q84228794"
+http://www.aberdeenships.com/single.asp?index=101029 "101029" : "Q84228794"
+http://www.aberdeenships.com/single.asp?index=101634 "101634" : "Q84228794"
+name: IRIS
+wikidata: https://wikidata.org/wiki/Q85984413
+http://www.aberdeenships.com/single.asp?index=100035 "100035" : "Q85984413"
+http://www.aberdeenships.com/single.asp?index=101029 "101029" : "Q85984413"
+http://www.aberdeenships.com/single.asp?index=101634 "101634" : "Q85984413"
+name: ISABELLA
+wikidata: https://wikidata.org/wiki/Q16848663
+http://www.aberdeenships.com/single.asp?index=99493 "99493" : "Q16848663"
+http://www.aberdeenships.com/single.asp?index=99503 "99503" : "Q16848663"
+http://www.aberdeenships.com/single.asp?index=100827 "100827" : "Q16848663"
+http://www.aberdeenships.com/single.asp?index=112255 "112255" : "Q16848663"
+http://www.aberdeenships.com/single.asp?index=137033 "137033" : "Q16848663"
+http://www.aberdeenships.com/single.asp?index=182686 "182686" : "Q16848663"
+name: ISABELLA
+wikidata: https://wikidata.org/wiki/Q22570157
+http://www.aberdeenships.com/single.asp?index=99493 "99493" : "Q22570157"
+http://www.aberdeenships.com/single.asp?index=99503 "99503" : "Q22570157"
+http://www.aberdeenships.com/single.asp?index=100827 "100827" : "Q22570157"
+http://www.aberdeenships.com/single.asp?index=112255 "112255" : "Q22570157"
+http://www.aberdeenships.com/single.asp?index=137033 "137033" : "Q22570157"
+http://www.aberdeenships.com/single.asp?index=182686 "182686" : "Q22570157"
+name: ISABELLA
+wikidata: https://wikidata.org/wiki/Q22570158
+http://www.aberdeenships.com/single.asp?index=99493 "99493" : "Q22570158"
+http://www.aberdeenships.com/single.asp?index=99503 "99503" : "Q22570158"
+http://www.aberdeenships.com/single.asp?index=100827 "100827" : "Q22570158"
+http://www.aberdeenships.com/single.asp?index=112255 "112255" : "Q22570158"
+http://www.aberdeenships.com/single.asp?index=137033 "137033" : "Q22570158"
+http://www.aberdeenships.com/single.asp?index=182686 "182686" : "Q22570158"
+name: ISABELLA
+wikidata: https://wikidata.org/wiki/Q22570159
+http://www.aberdeenships.com/single.asp?index=99493 "99493" : "Q22570159"
+http://www.aberdeenships.com/single.asp?index=99503 "99503" : "Q22570159"
+http://www.aberdeenships.com/single.asp?index=100827 "100827" : "Q22570159"
+http://www.aberdeenships.com/single.asp?index=112255 "112255" : "Q22570159"
+http://www.aberdeenships.com/single.asp?index=137033 "137033" : "Q22570159"
+http://www.aberdeenships.com/single.asp?index=182686 "182686" : "Q22570159"
+name: ISABELLA
+wikidata: https://wikidata.org/wiki/Q24027333
+http://www.aberdeenships.com/single.asp?index=99493 "99493" : "Q24027333"
+http://www.aberdeenships.com/single.asp?index=99503 "99503" : "Q24027333"
+http://www.aberdeenships.com/single.asp?index=100827 "100827" : "Q24027333"
+http://www.aberdeenships.com/single.asp?index=112255 "112255" : "Q24027333"
+http://www.aberdeenships.com/single.asp?index=137033 "137033" : "Q24027333"
+http://www.aberdeenships.com/single.asp?index=182686 "182686" : "Q24027333"
+name: ISABELLA
+wikidata: https://wikidata.org/wiki/Q6077914
+http://www.aberdeenships.com/single.asp?index=99493 "99493" : "Q6077914"
+http://www.aberdeenships.com/single.asp?index=99503 "99503" : "Q6077914"
+http://www.aberdeenships.com/single.asp?index=100827 "100827" : "Q6077914"
+http://www.aberdeenships.com/single.asp?index=112255 "112255" : "Q6077914"
+http://www.aberdeenships.com/single.asp?index=137033 "137033" : "Q6077914"
+http://www.aberdeenships.com/single.asp?index=182686 "182686" : "Q6077914"
+name: ISLANDER
+wikidata: https://wikidata.org/wiki/Q6083640
+http://www.aberdeenships.com/single.asp?index=101732 "101732" : "Q6083640"
+name: ISLANDER
+wikidata: https://wikidata.org/wiki/Q6083642
+http://www.aberdeenships.com/single.asp?index=101732 "101732" : "Q6083642"
+name: JACK
+wikidata: https://wikidata.org/wiki/Q84228741
+http://www.aberdeenships.com/single.asp?index=112097 "112097" : "Q84228741"
+name: JAMES
+wikidata: https://wikidata.org/wiki/Q17151898
+http://www.aberdeenships.com/single.asp?index=99954 "99954" : "Q17151898"
+http://www.aberdeenships.com/single.asp?index=100744 "100744" : "Q17151898"
+name: JAMES
+wikidata: https://wikidata.org/wiki/Q24027277
+http://www.aberdeenships.com/single.asp?index=99954 "99954" : "Q24027277"
+http://www.aberdeenships.com/single.asp?index=100744 "100744" : "Q24027277"
+name: JAMES
+wikidata: https://wikidata.org/wiki/Q55743601
+http://www.aberdeenships.com/single.asp?index=99954 "99954" : "Q55743601"
+http://www.aberdeenships.com/single.asp?index=100744 "100744" : "Q55743601"
+name: JANE
+wikidata: https://wikidata.org/wiki/Q23930837
+http://www.aberdeenships.com/single.asp?index=100677 "100677" : "Q23930837"
+http://www.aberdeenships.com/single.asp?index=100833 "100833" : "Q23930837"
+http://www.aberdeenships.com/single.asp?index=182683 "182683" : "Q23930837"
+name: JANE
+wikidata: https://wikidata.org/wiki/Q24026946
+http://www.aberdeenships.com/single.asp?index=100677 "100677" : "Q24026946"
+http://www.aberdeenships.com/single.asp?index=100833 "100833" : "Q24026946"
+http://www.aberdeenships.com/single.asp?index=182683 "182683" : "Q24026946"
+name: JANE
+wikidata: https://wikidata.org/wiki/Q24027019
+http://www.aberdeenships.com/single.asp?index=100677 "100677" : "Q24027019"
+http://www.aberdeenships.com/single.asp?index=100833 "100833" : "Q24027019"
+http://www.aberdeenships.com/single.asp?index=182683 "182683" : "Q24027019"
+name: JANE
+wikidata: https://wikidata.org/wiki/Q24027235
+http://www.aberdeenships.com/single.asp?index=100677 "100677" : "Q24027235"
+http://www.aberdeenships.com/single.asp?index=100833 "100833" : "Q24027235"
+http://www.aberdeenships.com/single.asp?index=182683 "182683" : "Q24027235"
+name: JANE
+wikidata: https://wikidata.org/wiki/Q24027392
+http://www.aberdeenships.com/single.asp?index=100677 "100677" : "Q24027392"
+http://www.aberdeenships.com/single.asp?index=100833 "100833" : "Q24027392"
+http://www.aberdeenships.com/single.asp?index=182683 "182683" : "Q24027392"
+name: JANE
+wikidata: https://wikidata.org/wiki/Q24027397
+http://www.aberdeenships.com/single.asp?index=100677 "100677" : "Q24027397"
+http://www.aberdeenships.com/single.asp?index=100833 "100833" : "Q24027397"
+http://www.aberdeenships.com/single.asp?index=182683 "182683" : "Q24027397"
+name: JANET
+wikidata: https://wikidata.org/wiki/Q55770151
+http://www.aberdeenships.com/single.asp?index=99324 "99324" : "Q55770151"
+http://www.aberdeenships.com/single.asp?index=99398 "99398" : "Q55770151"
+http://www.aberdeenships.com/single.asp?index=99461 "99461" : "Q55770151"
+name: JANET
+wikidata: https://wikidata.org/wiki/Q83640910
+http://www.aberdeenships.com/single.asp?index=99324 "99324" : "Q83640910"
+http://www.aberdeenships.com/single.asp?index=99398 "99398" : "Q83640910"
+http://www.aberdeenships.com/single.asp?index=99461 "99461" : "Q83640910"
+name: JASON
+wikidata: https://wikidata.org/wiki/Q1506223
+http://www.aberdeenships.com/single.asp?index=99381 "99381" : "Q1506223"
+http://www.aberdeenships.com/single.asp?index=152156 "152156" : "Q1506223"
+http://www.aberdeenships.com/single.asp?index=152162 "152162" : "Q1506223"
+name: JASON
+wikidata: https://wikidata.org/wiki/Q84265866
+http://www.aberdeenships.com/single.asp?index=99381 "99381" : "Q84265866"
+http://www.aberdeenships.com/single.asp?index=152156 "152156" : "Q84265866"
+http://www.aberdeenships.com/single.asp?index=152162 "152162" : "Q84265866"
+name: JERSEY
+wikidata: https://wikidata.org/wiki/Q85977728
+http://www.aberdeenships.com/single.asp?index=101683 "101683" : "Q85977728"
+name: JESSIE WETHERLY
+wikidata: https://wikidata.org/wiki/Q84727687
+http://www.aberdeenships.com/single.asp?index=101168 "101168" : "Q84727687"
+name: JOHANNA
+wikidata: https://wikidata.org/wiki/Q52311290
+http://www.aberdeenships.com/single.asp?index=137031 "137031" : "Q52311290"
+name: JOHN BARRY
+wikidata: https://wikidata.org/wiki/Q6220896
+http://www.aberdeenships.com/single.asp?index=101343 "101343" : "Q6220896"
+name: JOHN
+wikidata: https://wikidata.org/wiki/Q27868070
+http://www.aberdeenships.com/single.asp?index=112089 "112089" : "Q27868070"
+http://www.aberdeenships.com/single.asp?index=136697 "136697" : "Q27868070"
+http://www.aberdeenships.com/single.asp?index=136698 "136698" : "Q27868070"
+http://www.aberdeenships.com/single.asp?index=182685 "182685" : "Q27868070"
+name: JOHN
+wikidata: https://wikidata.org/wiki/Q83632245
+http://www.aberdeenships.com/single.asp?index=112089 "112089" : "Q83632245"
+http://www.aberdeenships.com/single.asp?index=136697 "136697" : "Q83632245"
+http://www.aberdeenships.com/single.asp?index=136698 "136698" : "Q83632245"
+http://www.aberdeenships.com/single.asp?index=182685 "182685" : "Q83632245"
+name: JOHN WILLIAMS
+wikidata: https://wikidata.org/wiki/Q11706063
+http://www.aberdeenships.com/single.asp?index=100164 "100164" : "Q11706063"
+name: JUNO
+wikidata: https://wikidata.org/wiki/Q59211880
+http://www.aberdeenships.com/single.asp?index=100099 "100099" : "Q59211880"
+http://www.aberdeenships.com/single.asp?index=112093 "112093" : "Q59211880"
+http://www.aberdeenships.com/single.asp?index=152169 "152169" : "Q59211880"
+http://www.aberdeenships.com/single.asp?index=182650 "182650" : "Q59211880"
+name: JUPITER
+wikidata: https://wikidata.org/wiki/Q52321425
+http://www.aberdeenships.com/single.asp?index=101781 "101781" : "Q52321425"
+http://www.aberdeenships.com/single.asp?index=112083 "112083" : "Q52321425"
+name: JUPITER
+wikidata: https://wikidata.org/wiki/Q52346241
+http://www.aberdeenships.com/single.asp?index=101781 "101781" : "Q52346241"
+http://www.aberdeenships.com/single.asp?index=112083 "112083" : "Q52346241"
+name: JUPITER
+wikidata: https://wikidata.org/wiki/Q52507574
+http://www.aberdeenships.com/single.asp?index=101781 "101781" : "Q52507574"
+http://www.aberdeenships.com/single.asp?index=112083 "112083" : "Q52507574"
+name: JUPITER
+wikidata: https://wikidata.org/wiki/Q52510496
+http://www.aberdeenships.com/single.asp?index=101781 "101781" : "Q52510496"
+http://www.aberdeenships.com/single.asp?index=112083 "112083" : "Q52510496"
+name: JUPITER
+wikidata: https://wikidata.org/wiki/Q6314577
+http://www.aberdeenships.com/single.asp?index=101781 "101781" : "Q6314577"
+http://www.aberdeenships.com/single.asp?index=112083 "112083" : "Q6314577"
+name: JURA
+wikidata: https://wikidata.org/wiki/Q52375597
+http://www.aberdeenships.com/single.asp?index=101673 "101673" : "Q52375597"
+name: KINI
+wikidata: https://wikidata.org/wiki/Q84711779
+http://www.aberdeenships.com/single.asp?index=99103 "99103" : "Q84711779"
+name: KITTY
+wikidata: https://wikidata.org/wiki/Q30598587
+http://www.aberdeenships.com/single.asp?index=100285 "100285" : "Q30598587"
+name: KITTY
+wikidata: https://wikidata.org/wiki/Q6418502
+http://www.aberdeenships.com/single.asp?index=100285 "100285" : "Q6418502"
+name: LAMMERMUIR
+wikidata: https://wikidata.org/wiki/Q6482093
+http://www.aberdeenships.com/single.asp?index=99198 "99198" : "Q6482093"
+name: LAMMERMUIR
+wikidata: https://wikidata.org/wiki/Q6482095
+http://www.aberdeenships.com/single.asp?index=99198 "99198" : "Q6482095"
+name: LAPWING
+wikidata: https://wikidata.org/wiki/Q22293759
+http://www.aberdeenships.com/single.asp?index=100281 "100281" : "Q22293759"
+name: LAPWING
+wikidata: https://wikidata.org/wiki/Q22293772
+http://www.aberdeenships.com/single.asp?index=100281 "100281" : "Q22293772"
+name: LAPWING
+wikidata: https://wikidata.org/wiki/Q22293780
+http://www.aberdeenships.com/single.asp?index=100281 "100281" : "Q22293780"
+name: LAPWING
+wikidata: https://wikidata.org/wiki/Q22293787
+http://www.aberdeenships.com/single.asp?index=100281 "100281" : "Q22293787"
+name: LATONA
+wikidata: https://wikidata.org/wiki/Q47005019
+http://www.aberdeenships.com/single.asp?index=100783 "100783" : "Q47005019"
+name: LAVENDER
+wikidata: https://wikidata.org/wiki/Q86062399
+http://www.aberdeenships.com/single.asp?index=100589 "100589" : "Q86062399"
+name: LEANDER
+wikidata: https://wikidata.org/wiki/Q24027181
+http://www.aberdeenships.com/single.asp?index=118846 "118846" : "Q24027181"
+name: LEANDER
+wikidata: https://wikidata.org/wiki/Q5972172
+http://www.aberdeenships.com/single.asp?index=118846 "118846" : "Q5972172"
+name: L'ESPOIR
+wikidata: https://wikidata.org/wiki/Q3203255
+http://www.aberdeenships.com/single.asp?index=182688 "182688" : "Q3203255"
+name: L'ESPOIR
+wikidata: https://wikidata.org/wiki/Q52314220
+http://www.aberdeenships.com/single.asp?index=182688 "182688" : "Q52314220"
+name: LETITIA
+wikidata: https://wikidata.org/wiki/Q24026974
+http://www.aberdeenships.com/single.asp?index=101606 "101606" : "Q24026974"
+name: LETITIA
+wikidata: https://wikidata.org/wiki/Q84712209
+http://www.aberdeenships.com/single.asp?index=101606 "101606" : "Q84712209"
+name: LIBERTY
+wikidata: https://wikidata.org/wiki/Q17508562
+http://www.aberdeenships.com/single.asp?index=101819 "101819" : "Q17508562"
+http://www.aberdeenships.com/single.asp?index=136270 "136270" : "Q17508562"
+http://www.aberdeenships.com/single.asp?index=182689 "182689" : "Q17508562"
+name: LIBERTY
+wikidata: https://wikidata.org/wiki/Q52354840
+http://www.aberdeenships.com/single.asp?index=101819 "101819" : "Q52354840"
+http://www.aberdeenships.com/single.asp?index=136270 "136270" : "Q52354840"
+http://www.aberdeenships.com/single.asp?index=182689 "182689" : "Q52354840"
+name: LIBERTY
+wikidata: https://wikidata.org/wiki/Q84727048
+http://www.aberdeenships.com/single.asp?index=101819 "101819" : "Q84727048"
+http://www.aberdeenships.com/single.asp?index=136270 "136270" : "Q84727048"
+http://www.aberdeenships.com/single.asp?index=182689 "182689" : "Q84727048"
+name: LIBERTY
+wikidata: https://wikidata.org/wiki/Q86060381
+http://www.aberdeenships.com/single.asp?index=101819 "101819" : "Q86060381"
+http://www.aberdeenships.com/single.asp?index=136270 "136270" : "Q86060381"
+http://www.aberdeenships.com/single.asp?index=182689 "182689" : "Q86060381"
+name: LIGHTNING
+wikidata: https://wikidata.org/wiki/Q6546417
+http://www.aberdeenships.com/single.asp?index=100048 "100048" : "Q6546417"
+name: LION
+wikidata: https://wikidata.org/wiki/Q5378653
+http://www.aberdeenships.com/single.asp?index=100693 "100693" : "Q5378653"
+http://www.aberdeenships.com/single.asp?index=150276 "150276" : "Q5378653"
+name: LION
+wikidata: https://wikidata.org/wiki/Q86084391
+http://www.aberdeenships.com/single.asp?index=100693 "100693" : "Q86084391"
+http://www.aberdeenships.com/single.asp?index=150276 "150276" : "Q86084391"
+name: LIVELY
+wikidata: https://wikidata.org/wiki/Q55739453
+http://www.aberdeenships.com/single.asp?index=99940 "99940" : "Q55739453"
+name: LIVERPOOL PACKET
+wikidata: https://wikidata.org/wiki/Q11680327
+http://www.aberdeenships.com/single.asp?index=100817 "100817" : "Q11680327"
+name: LOCH ARD
+wikidata: https://wikidata.org/wiki/Q6664871
+http://www.aberdeenships.com/single.asp?index=99100 "99100" : "Q6664871"
+http://www.aberdeenships.com/single.asp?index=99843 "99843" : "Q6664871"
+name: LOCH EARN
+wikidata: https://wikidata.org/wiki/Q84710751
+http://www.aberdeenships.com/single.asp?index=100340 "100340" : "Q84710751"
+name: LORD MELVILLE
+wikidata: https://wikidata.org/wiki/Q55621294
+http://www.aberdeenships.com/single.asp?index=182691 "182691" : "Q55621294"
+name: LORENA
+wikidata: https://wikidata.org/wiki/Q27868058
+http://www.aberdeenships.com/single.asp?index=101763 "101763" : "Q27868058"
+name: LOTUS
+wikidata: https://wikidata.org/wiki/Q28220408
+http://www.aberdeenships.com/single.asp?index=100855 "100855" : "Q28220408"
+name: LOTUS
+wikidata: https://wikidata.org/wiki/Q84228662
+http://www.aberdeenships.com/single.asp?index=100855 "100855" : "Q84228662"
+name: LOUISA
+wikidata: https://wikidata.org/wiki/Q6688482
+http://www.aberdeenships.com/single.asp?index=107617 "107617" : "Q6688482"
+http://www.aberdeenships.com/single.asp?index=152950 "152950" : "Q6688482"
+http://www.aberdeenships.com/single.asp?index=182692 "182692" : "Q6688482"
+name: LUNA
+wikidata: https://wikidata.org/wiki/Q6703505
+http://www.aberdeenships.com/single.asp?index=99356 "99356" : "Q6703505"
+name: LYDIA
+wikidata: https://wikidata.org/wiki/Q18153894
+http://www.aberdeenships.com/single.asp?index=99412 "99412" : "Q18153894"
+http://www.aberdeenships.com/single.asp?index=124011 "124011" : "Q18153894"
+http://www.aberdeenships.com/single.asp?index=136443 "136443" : "Q18153894"
+name: LYDIA
+wikidata: https://wikidata.org/wiki/Q24026986
+http://www.aberdeenships.com/single.asp?index=99412 "99412" : "Q24026986"
+http://www.aberdeenships.com/single.asp?index=124011 "124011" : "Q24026986"
+http://www.aberdeenships.com/single.asp?index=136443 "136443" : "Q24026986"
+name: LYNX
+wikidata: https://wikidata.org/wiki/Q3269612
+http://www.aberdeenships.com/single.asp?index=152217 "152217" : "Q3269612"
+name: MAGNOLIA
+wikidata: https://wikidata.org/wiki/Q86059923
+http://www.aberdeenships.com/single.asp?index=99644 "99644" : "Q86059923"
+name: MAJESTIC
+wikidata: https://wikidata.org/wiki/Q24027108
+http://www.aberdeenships.com/single.asp?index=100697 "100697" : "Q24027108"
+name: MAJESTIC
+wikidata: https://wikidata.org/wiki/Q6737679
+http://www.aberdeenships.com/single.asp?index=100697 "100697" : "Q6737679"
+name: MAJESTIC
+wikidata: https://wikidata.org/wiki/Q84709868
+http://www.aberdeenships.com/single.asp?index=100697 "100697" : "Q84709868"
+name: MALCOLM MILLER
+wikidata: https://wikidata.org/wiki/Q6742509
+http://www.aberdeenships.com/single.asp?index=101710 "101710" : "Q6742509"
+name: MALVINA
+wikidata: https://wikidata.org/wiki/Q24026973
+http://www.aberdeenships.com/single.asp?index=119655 "119655" : "Q24026973"
+http://www.aberdeenships.com/single.asp?index=126193 "126193" : "Q24026973"
+http://www.aberdeenships.com/single.asp?index=126987 "126987" : "Q24026973"
+name: MANCHESTER
+wikidata: https://wikidata.org/wiki/Q6747253
+http://www.aberdeenships.com/single.asp?index=152161 "152161" : "Q6747253"
+name: MARGARET
+wikidata: https://wikidata.org/wiki/Q6759126
+http://www.aberdeenships.com/single.asp?index=100681 "100681" : "Q6759126"
+http://www.aberdeenships.com/single.asp?index=152962 "152962" : "Q6759126"
+http://www.aberdeenships.com/single.asp?index=152963 "152963" : "Q6759126"
+http://www.aberdeenships.com/single.asp?index=152964 "152964" : "Q6759126"
+name: MARGARET
+wikidata: https://wikidata.org/wiki/Q84711386
+http://www.aberdeenships.com/single.asp?index=100681 "100681" : "Q84711386"
+http://www.aberdeenships.com/single.asp?index=152962 "152962" : "Q84711386"
+http://www.aberdeenships.com/single.asp?index=152963 "152963" : "Q84711386"
+http://www.aberdeenships.com/single.asp?index=152964 "152964" : "Q84711386"
+name: MARGUERITE
+wikidata: https://wikidata.org/wiki/Q6760764
+http://www.aberdeenships.com/single.asp?index=101287 "101287" : "Q6760764"
+http://www.aberdeenships.com/single.asp?index=101485 "101485" : "Q6760764"
+name: MARIEN
+wikidata: https://wikidata.org/wiki/Q84727663
+http://www.aberdeenships.com/single.asp?index=99723 "99723" : "Q84727663"
+name: MARINER
+wikidata: https://wikidata.org/wiki/Q30603222
+http://www.aberdeenships.com/single.asp?index=101811 "101811" : "Q30603222"
+name: MARINER
+wikidata: https://wikidata.org/wiki/Q60004538
+http://www.aberdeenships.com/single.asp?index=101811 "101811" : "Q60004538"
+name: MARINER
+wikidata: https://wikidata.org/wiki/Q85988335
+http://www.aberdeenships.com/single.asp?index=101811 "101811" : "Q85988335"
+name: MARINER
+wikidata: https://wikidata.org/wiki/Q86060871
+http://www.aberdeenships.com/single.asp?index=101811 "101811" : "Q86060871"
+name: MARION
+wikidata: https://wikidata.org/wiki/Q6765060
+http://www.aberdeenships.com/single.asp?index=100109 "100109" : "Q6765060"
+name: MARMION
+wikidata: https://wikidata.org/wiki/Q24027167
+http://www.aberdeenships.com/single.asp?index=99966 "99966" : "Q24027167"
+name: MARS
+wikidata: https://wikidata.org/wiki/Q31357
+http://www.aberdeenships.com/single.asp?index=99739 "99739" : "Q31357"
+http://www.aberdeenships.com/single.asp?index=129273 "129273" : "Q31357"
+name: MARS
+wikidata: https://wikidata.org/wiki/Q42352294
+http://www.aberdeenships.com/single.asp?index=99739 "99739" : "Q42352294"
+http://www.aberdeenships.com/single.asp?index=129273 "129273" : "Q42352294"
+name: MARS
+wikidata: https://wikidata.org/wiki/Q84710289
+http://www.aberdeenships.com/single.asp?index=99739 "99739" : "Q84710289"
+http://www.aberdeenships.com/single.asp?index=129273 "129273" : "Q84710289"
+name: MARTHA
+wikidata: https://wikidata.org/wiki/Q42886782
+http://www.aberdeenships.com/single.asp?index=182694 "182694" : "Q42886782"
+name: MARTHA
+wikidata: https://wikidata.org/wiki/Q42886784
+http://www.aberdeenships.com/single.asp?index=182694 "182694" : "Q42886784"
+name: MARTHA
+wikidata: https://wikidata.org/wiki/Q6774316
+http://www.aberdeenships.com/single.asp?index=182694 "182694" : "Q6774316"
+name: MARY ANN
+wikidata: https://wikidata.org/wiki/Q6778842
+http://www.aberdeenships.com/single.asp?index=100682 "100682" : "Q6778842"
+http://www.aberdeenships.com/single.asp?index=112583 "112583" : "Q6778842"
+http://www.aberdeenships.com/single.asp?index=112594 "112594" : "Q6778842"
+name: MARY
+wikidata: https://wikidata.org/wiki/Q24027291
+http://www.aberdeenships.com/single.asp?index=99520 "99520" : "Q24027291"
+http://www.aberdeenships.com/single.asp?index=99952 "99952" : "Q24027291"
+http://www.aberdeenships.com/single.asp?index=100135 "100135" : "Q24027291"
+http://www.aberdeenships.com/single.asp?index=100248 "100248" : "Q24027291"
+http://www.aberdeenships.com/single.asp?index=100742 "100742" : "Q24027291"
+http://www.aberdeenships.com/single.asp?index=112081 "112081" : "Q24027291"
+http://www.aberdeenships.com/single.asp?index=130487 "130487" : "Q24027291"
+http://www.aberdeenships.com/single.asp?index=136287 "136287" : "Q24027291"
+name: MARY
+wikidata: https://wikidata.org/wiki/Q52339252
+http://www.aberdeenships.com/single.asp?index=99520 "99520" : "Q52339252"
+http://www.aberdeenships.com/single.asp?index=99952 "99952" : "Q52339252"
+http://www.aberdeenships.com/single.asp?index=100135 "100135" : "Q52339252"
+http://www.aberdeenships.com/single.asp?index=100248 "100248" : "Q52339252"
+http://www.aberdeenships.com/single.asp?index=100742 "100742" : "Q52339252"
+http://www.aberdeenships.com/single.asp?index=112081 "112081" : "Q52339252"
+http://www.aberdeenships.com/single.asp?index=130487 "130487" : "Q52339252"
+http://www.aberdeenships.com/single.asp?index=136287 "136287" : "Q52339252"
+name: MARYS
+wikidata: https://wikidata.org/wiki/Q24027034
+http://www.aberdeenships.com/single.asp?index=99490 "99490" : "Q24027034"
+http://www.aberdeenships.com/single.asp?index=100743 "100743" : "Q24027034"
+name: MATCHLESS
+wikidata: https://wikidata.org/wiki/Q18357893
+http://www.aberdeenships.com/single.asp?index=100077 "100077" : "Q18357893"
+http://www.aberdeenships.com/single.asp?index=100770 "100770" : "Q18357893"
+name: MATILDA
+wikidata: https://wikidata.org/wiki/Q6787489
+http://www.aberdeenships.com/single.asp?index=99976 "99976" : "Q6787489"
+name: MAYFLOWER
+wikidata: https://wikidata.org/wiki/Q187093
+http://www.aberdeenships.com/single.asp?index=152971 "152971" : "Q187093"
+name: MAYFLOWER
+wikidata: https://wikidata.org/wiki/Q33189274
+http://www.aberdeenships.com/single.asp?index=152971 "152971" : "Q33189274"
+name: MAYFLOWER
+wikidata: https://wikidata.org/wiki/Q6797215
+http://www.aberdeenships.com/single.asp?index=152971 "152971" : "Q6797215"
+name: MEDEA
+wikidata: https://wikidata.org/wiki/Q3651673
+http://www.aberdeenships.com/single.asp?index=112080 "112080" : "Q3651673"
+name: MENTOR
+wikidata: https://wikidata.org/wiki/Q65241128
+http://www.aberdeenships.com/single.asp?index=182695 "182695" : "Q65241128"
+name: MERCURY
+wikidata: https://wikidata.org/wiki/Q52342606
+http://www.aberdeenships.com/single.asp?index=99437 "99437" : "Q52342606"
+http://www.aberdeenships.com/single.asp?index=99500 "99500" : "Q52342606"
+http://www.aberdeenships.com/single.asp?index=99597 "99597" : "Q52342606"
+http://www.aberdeenships.com/single.asp?index=100812 "100812" : "Q52342606"
+name: MERSEY
+wikidata: https://wikidata.org/wiki/Q6820538
+http://www.aberdeenships.com/single.asp?index=99673 "99673" : "Q6820538"
+name: MERSEY
+wikidata: https://wikidata.org/wiki/Q6820543
+http://www.aberdeenships.com/single.asp?index=99673 "99673" : "Q6820543"
+name: MESSENGER
+wikidata: https://wikidata.org/wiki/Q24027152
+http://www.aberdeenships.com/single.asp?index=99507 "99507" : "Q24027152"
+name: MESSENGER
+wikidata: https://wikidata.org/wiki/Q24027256
+http://www.aberdeenships.com/single.asp?index=99507 "99507" : "Q24027256"
+name: MESSENGER
+wikidata: https://wikidata.org/wiki/Q6821879
+http://www.aberdeenships.com/single.asp?index=99507 "99507" : "Q6821879"
+name: MIMOSA
+wikidata: https://wikidata.org/wiki/Q2839107
+http://www.aberdeenships.com/single.asp?index=100108 "100108" : "Q2839107"
+name: MINERVA
+wikidata: https://wikidata.org/wiki/Q1936617
+http://www.aberdeenships.com/single.asp?index=99924 "99924" : "Q1936617"
+http://www.aberdeenships.com/single.asp?index=100009 "100009" : "Q1936617"
+http://www.aberdeenships.com/single.asp?index=112079 "112079" : "Q1936617"
+http://www.aberdeenships.com/single.asp?index=128150 "128150" : "Q1936617"
+http://www.aberdeenships.com/single.asp?index=152948 "152948" : "Q1936617"
+name: MINERVA
+wikidata: https://wikidata.org/wiki/Q47462495
+http://www.aberdeenships.com/single.asp?index=99924 "99924" : "Q47462495"
+http://www.aberdeenships.com/single.asp?index=100009 "100009" : "Q47462495"
+http://www.aberdeenships.com/single.asp?index=112079 "112079" : "Q47462495"
+http://www.aberdeenships.com/single.asp?index=128150 "128150" : "Q47462495"
+http://www.aberdeenships.com/single.asp?index=152948 "152948" : "Q47462495"
+name: MINERVA
+wikidata: https://wikidata.org/wiki/Q6864476
+http://www.aberdeenships.com/single.asp?index=99924 "99924" : "Q6864476"
+http://www.aberdeenships.com/single.asp?index=100009 "100009" : "Q6864476"
+http://www.aberdeenships.com/single.asp?index=112079 "112079" : "Q6864476"
+http://www.aberdeenships.com/single.asp?index=128150 "128150" : "Q6864476"
+http://www.aberdeenships.com/single.asp?index=152948 "152948" : "Q6864476"
+name: MIZPAH
+wikidata: https://wikidata.org/wiki/Q6884719
+http://www.aberdeenships.com/single.asp?index=100272 "100272" : "Q6884719"
+name: MONARCH
+wikidata: https://wikidata.org/wiki/Q47462513
+http://www.aberdeenships.com/single.asp?index=99438 "99438" : "Q47462513"
+name: MORAY FIRTH
+wikidata: https://wikidata.org/wiki/Q84712242
+http://www.aberdeenships.com/single.asp?index=99088 "99088" : "Q84712242"
+http://www.aberdeenships.com/single.asp?index=99171 "99171" : "Q84712242"
+name: MORNING STAR
+wikidata: https://wikidata.org/wiki/Q11344885
+http://www.aberdeenships.com/single.asp?index=99676 "99676" : "Q11344885"
+http://www.aberdeenships.com/single.asp?index=99776 "99776" : "Q11344885"
+http://www.aberdeenships.com/single.asp?index=100275 "100275" : "Q11344885"
+name: MORNING STAR
+wikidata: https://wikidata.org/wiki/Q24027459
+http://www.aberdeenships.com/single.asp?index=99676 "99676" : "Q24027459"
+http://www.aberdeenships.com/single.asp?index=99776 "99776" : "Q24027459"
+http://www.aberdeenships.com/single.asp?index=100275 "100275" : "Q24027459"
+name: MORNING STAR
+wikidata: https://wikidata.org/wiki/Q52336202
+http://www.aberdeenships.com/single.asp?index=99676 "99676" : "Q52336202"
+http://www.aberdeenships.com/single.asp?index=99776 "99776" : "Q52336202"
+http://www.aberdeenships.com/single.asp?index=100275 "100275" : "Q52336202"
+name: MOUNTAIN MAID
+wikidata: https://wikidata.org/wiki/Q27868096
+http://www.aberdeenships.com/single.asp?index=100053 "100053" : "Q27868096"
+name: MOUNT EVEREST
+wikidata: https://wikidata.org/wiki/Q84260471
+http://www.aberdeenships.com/single.asp?index=99225 "99225" : "Q84260471"
+name: MOUNT ROYAL
+wikidata: https://wikidata.org/wiki/Q6923325
+http://www.aberdeenships.com/single.asp?index=99306 "99306" : "Q6923325"
+name: MYRTLE
+wikidata: https://wikidata.org/wiki/Q17512565
+http://www.aberdeenships.com/single.asp?index=113004 "113004" : "Q17512565"
+name: NAJA
+wikidata: https://wikidata.org/wiki/Q6719229
+http://www.aberdeenships.com/single.asp?index=100511 "100511" : "Q6719229"
+name: NANCY
+wikidata: https://wikidata.org/wiki/Q16931924
+http://www.aberdeenships.com/single.asp?index=152178 "152178" : "Q16931924"
+http://www.aberdeenships.com/single.asp?index=152179 "152179" : "Q16931924"
+name: NANCY
+wikidata: https://wikidata.org/wiki/Q20746264
+http://www.aberdeenships.com/single.asp?index=152178 "152178" : "Q20746264"
+http://www.aberdeenships.com/single.asp?index=152179 "152179" : "Q20746264"
+name: NANCY
+wikidata: https://wikidata.org/wiki/Q42886827
+http://www.aberdeenships.com/single.asp?index=152178 "152178" : "Q42886827"
+http://www.aberdeenships.com/single.asp?index=152179 "152179" : "Q42886827"
+name: NATAL
+wikidata: https://wikidata.org/wiki/Q84264527
+http://www.aberdeenships.com/single.asp?index=100211 "100211" : "Q84264527"
+name: NAUTILUS
+wikidata: https://wikidata.org/wiki/Q3873387
+http://www.aberdeenships.com/single.asp?index=99930 "99930" : "Q3873387"
+name: NAUTILUS
+wikidata: https://wikidata.org/wiki/Q52316655
+http://www.aberdeenships.com/single.asp?index=99930 "99930" : "Q52316655"
+name: NAUTILUS
+wikidata: https://wikidata.org/wiki/Q59223154
+http://www.aberdeenships.com/single.asp?index=99930 "99930" : "Q59223154"
+name: NAUTILUS
+wikidata: https://wikidata.org/wiki/Q6038869
+http://www.aberdeenships.com/single.asp?index=99930 "99930" : "Q6038869"
+name: NAUTILUS
+wikidata: https://wikidata.org/wiki/Q84711620
+http://www.aberdeenships.com/single.asp?index=99930 "99930" : "Q84711620"
+name: NELSON
+wikidata: https://wikidata.org/wiki/Q84264523
+http://www.aberdeenships.com/single.asp?index=152212 "152212" : "Q84264523"
+name: NELSON
+wikidata: https://wikidata.org/wiki/Q86085382
+http://www.aberdeenships.com/single.asp?index=152212 "152212" : "Q86085382"
+name: NEPTUNE
+wikidata: https://wikidata.org/wiki/Q1977850
+http://www.aberdeenships.com/single.asp?index=99346 "99346" : "Q1977850"
+http://www.aberdeenships.com/single.asp?index=110964 "110964" : "Q1977850"
+http://www.aberdeenships.com/single.asp?index=152955 "152955" : "Q1977850"
+name: NEPTUNE
+wikidata: https://wikidata.org/wiki/Q20746266
+http://www.aberdeenships.com/single.asp?index=99346 "99346" : "Q20746266"
+http://www.aberdeenships.com/single.asp?index=110964 "110964" : "Q20746266"
+http://www.aberdeenships.com/single.asp?index=152955 "152955" : "Q20746266"
+name: NEPTUNE
+wikidata: https://wikidata.org/wiki/Q20870408
+http://www.aberdeenships.com/single.asp?index=99346 "99346" : "Q20870408"
+http://www.aberdeenships.com/single.asp?index=110964 "110964" : "Q20870408"
+http://www.aberdeenships.com/single.asp?index=152955 "152955" : "Q20870408"
+name: NEPTUNE
+wikidata: https://wikidata.org/wiki/Q20870410
+http://www.aberdeenships.com/single.asp?index=99346 "99346" : "Q20870410"
+http://www.aberdeenships.com/single.asp?index=110964 "110964" : "Q20870410"
+http://www.aberdeenships.com/single.asp?index=152955 "152955" : "Q20870410"
+name: NEPTUNE
+wikidata: https://wikidata.org/wiki/Q3874721
+http://www.aberdeenships.com/single.asp?index=99346 "99346" : "Q3874721"
+http://www.aberdeenships.com/single.asp?index=110964 "110964" : "Q3874721"
+http://www.aberdeenships.com/single.asp?index=152955 "152955" : "Q3874721"
+name: NEPTUNE
+wikidata: https://wikidata.org/wiki/Q52380417
+http://www.aberdeenships.com/single.asp?index=99346 "99346" : "Q52380417"
+http://www.aberdeenships.com/single.asp?index=110964 "110964" : "Q52380417"
+http://www.aberdeenships.com/single.asp?index=152955 "152955" : "Q52380417"
+name: NILE
+wikidata: https://wikidata.org/wiki/Q7036947
+http://www.aberdeenships.com/single.asp?index=152171 "152171" : "Q7036947"
+name: NOOGANA
+wikidata: https://wikidata.org/wiki/Q84711058
+http://www.aberdeenships.com/single.asp?index=101276 "101276" : "Q84711058"
+name: NORTHERNER
+wikidata: https://wikidata.org/wiki/Q7059336
+http://www.aberdeenships.com/single.asp?index=119328 "119328" : "Q7059336"
+name: NORTH SEA
+wikidata: https://wikidata.org/wiki/Q86084948
+http://www.aberdeenships.com/single.asp?index=100923 "100923" : "Q86084948"
+name: NORTH STAR
+wikidata: https://wikidata.org/wiki/Q7056836
+http://www.aberdeenships.com/single.asp?index=99612 "99612" : "Q7056836"
+http://www.aberdeenships.com/single.asp?index=100080 "100080" : "Q7056836"
+http://www.aberdeenships.com/single.asp?index=100804 "100804" : "Q7056836"
+http://www.aberdeenships.com/single.asp?index=101154 "101154" : "Q7056836"
+name: NORTH STAR
+wikidata: https://wikidata.org/wiki/Q7056837
+http://www.aberdeenships.com/single.asp?index=99612 "99612" : "Q7056837"
+http://www.aberdeenships.com/single.asp?index=100080 "100080" : "Q7056837"
+http://www.aberdeenships.com/single.asp?index=100804 "100804" : "Q7056837"
+http://www.aberdeenships.com/single.asp?index=101154 "101154" : "Q7056837"
+name: NORTH STAR
+wikidata: https://wikidata.org/wiki/Q84254624
+http://www.aberdeenships.com/single.asp?index=99612 "99612" : "Q84254624"
+http://www.aberdeenships.com/single.asp?index=100080 "100080" : "Q84254624"
+http://www.aberdeenships.com/single.asp?index=100804 "100804" : "Q84254624"
+http://www.aberdeenships.com/single.asp?index=101154 "101154" : "Q84254624"
+name: NYMPH
+wikidata: https://wikidata.org/wiki/Q24026962
+http://www.aberdeenships.com/single.asp?index=140143 "140143" : "Q24026962"
+http://www.aberdeenships.com/single.asp?index=152189 "152189" : "Q24026962"
+http://www.aberdeenships.com/single.asp?index=182697 "182697" : "Q24026962"
+name: NYMPH
+wikidata: https://wikidata.org/wiki/Q24027150
+http://www.aberdeenships.com/single.asp?index=140143 "140143" : "Q24027150"
+http://www.aberdeenships.com/single.asp?index=152189 "152189" : "Q24027150"
+http://www.aberdeenships.com/single.asp?index=182697 "182697" : "Q24027150"
+name: NYMPH
+wikidata: https://wikidata.org/wiki/Q24027440
+http://www.aberdeenships.com/single.asp?index=140143 "140143" : "Q24027440"
+http://www.aberdeenships.com/single.asp?index=152189 "152189" : "Q24027440"
+http://www.aberdeenships.com/single.asp?index=182697 "182697" : "Q24027440"
+name: OCEANIC
+wikidata: https://wikidata.org/wiki/Q2065060
+http://www.aberdeenships.com/single.asp?index=101138 "101138" : "Q2065060"
+name: OCEANIC
+wikidata: https://wikidata.org/wiki/Q52380471
+http://www.aberdeenships.com/single.asp?index=101138 "101138" : "Q52380471"
+name: OCEAN
+wikidata: https://wikidata.org/wiki/Q30607532
+http://www.aberdeenships.com/single.asp?index=99725 "99725" : "Q30607532"
+http://www.aberdeenships.com/single.asp?index=133752 "133752" : "Q30607532"
+name: OCEAN
+wikidata: https://wikidata.org/wiki/Q4332490
+http://www.aberdeenships.com/single.asp?index=99725 "99725" : "Q4332490"
+http://www.aberdeenships.com/single.asp?index=133752 "133752" : "Q4332490"
+name: OCEAN
+wikidata: https://wikidata.org/wiki/Q7075913
+http://www.aberdeenships.com/single.asp?index=99725 "99725" : "Q7075913"
+http://www.aberdeenships.com/single.asp?index=133752 "133752" : "Q7075913"
+name: OCEAN
+wikidata: https://wikidata.org/wiki/Q7075914
+http://www.aberdeenships.com/single.asp?index=99725 "99725" : "Q7075914"
+http://www.aberdeenships.com/single.asp?index=133752 "133752" : "Q7075914"
+name: OCEAN
+wikidata: https://wikidata.org/wiki/Q7075915
+http://www.aberdeenships.com/single.asp?index=99725 "99725" : "Q7075915"
+http://www.aberdeenships.com/single.asp?index=133752 "133752" : "Q7075915"
+name: OCEAN
+wikidata: https://wikidata.org/wiki/Q7075917
+http://www.aberdeenships.com/single.asp?index=99725 "99725" : "Q7075917"
+http://www.aberdeenships.com/single.asp?index=133752 "133752" : "Q7075917"
+name: OCEAN QUEEN
+wikidata: https://wikidata.org/wiki/Q55756448
+http://www.aberdeenships.com/single.asp?index=99533 "99533" : "Q55756448"
+name: OLIVER CROMWELL
+wikidata: https://wikidata.org/wiki/Q45770935
+http://www.aberdeenships.com/single.asp?index=99352 "99352" : "Q45770935"
+name: ORCADIA
+wikidata: https://wikidata.org/wiki/Q24027186
+http://www.aberdeenships.com/single.asp?index=101616 "101616" : "Q24027186"
+name: ORIENT
+wikidata: https://wikidata.org/wiki/Q30602839
+http://www.aberdeenships.com/single.asp?index=99359 "99359" : "Q30602839"
+http://www.aberdeenships.com/single.asp?index=110173 "110173" : "Q30602839"
+name: ORIOLE
+wikidata: https://wikidata.org/wiki/Q52334870
+http://www.aberdeenships.com/single.asp?index=99054 "99054" : "Q52334870"
+http://www.aberdeenships.com/single.asp?index=99309 "99309" : "Q52334870"
+name: OTHELLO
+wikidata: https://wikidata.org/wiki/Q30601027
+http://www.aberdeenships.com/single.asp?index=101776 "101776" : "Q30601027"
+name: OTHELLO
+wikidata: https://wikidata.org/wiki/Q30601045
+http://www.aberdeenships.com/single.asp?index=101776 "101776" : "Q30601045"
+name: PACIFIC
+wikidata: https://wikidata.org/wiki/Q1814395
+http://www.aberdeenships.com/single.asp?index=99485 "99485" : "Q1814395"
+name: PACIFIC
+wikidata: https://wikidata.org/wiki/Q24027180
+http://www.aberdeenships.com/single.asp?index=99485 "99485" : "Q24027180"
+name: PALLADIUM
+wikidata: https://wikidata.org/wiki/Q1769972
+http://www.aberdeenships.com/single.asp?index=99951 "99951" : "Q1769972"
+name: PALLADIUM
+wikidata: https://wikidata.org/wiki/Q2047957
+http://www.aberdeenships.com/single.asp?index=99951 "99951" : "Q2047957"
+name: PALLAS
+wikidata: https://wikidata.org/wiki/Q2048005
+http://www.aberdeenships.com/single.asp?index=136699 "136699" : "Q2048005"
+http://www.aberdeenships.com/single.asp?index=152960 "152960" : "Q2048005"
+name: PANDORA
+wikidata: https://wikidata.org/wiki/Q24026923
+http://www.aberdeenships.com/single.asp?index=100696 "100696" : "Q24026923"
+name: PARAGON
+wikidata: https://wikidata.org/wiki/Q59211888
+http://www.aberdeenships.com/single.asp?index=99331 "99331" : "Q59211888"
+http://www.aberdeenships.com/single.asp?index=99525 "99525" : "Q59211888"
+http://www.aberdeenships.com/single.asp?index=100295 "100295" : "Q59211888"
+name: PATRIOT
+wikidata: https://wikidata.org/wiki/Q24027368
+http://www.aberdeenships.com/single.asp?index=99466 "99466" : "Q24027368"
+http://www.aberdeenships.com/single.asp?index=137754 "137754" : "Q24027368"
+name: PATRIOT
+wikidata: https://wikidata.org/wiki/Q60332077
+http://www.aberdeenships.com/single.asp?index=99466 "99466" : "Q60332077"
+http://www.aberdeenships.com/single.asp?index=137754 "137754" : "Q60332077"
+name: PAUL JONES
+wikidata: https://wikidata.org/wiki/Q7151622
+http://www.aberdeenships.com/single.asp?index=99971 "99971" : "Q7151622"
+name: PEACOCK
+wikidata: https://wikidata.org/wiki/Q17016244
+http://www.aberdeenships.com/single.asp?index=101699 "101699" : "Q17016244"
+name: PEARL
+wikidata: https://wikidata.org/wiki/Q24027475
+http://www.aberdeenships.com/single.asp?index=109250 "109250" : "Q24027475"
+name: PEARL
+wikidata: https://wikidata.org/wiki/Q84709444
+http://www.aberdeenships.com/single.asp?index=109250 "109250" : "Q84709444"
+name: PEGASUS
+wikidata: https://wikidata.org/wiki/Q52336507
+http://www.aberdeenships.com/single.asp?index=100142 "100142" : "Q52336507"
+name: PEGASUS
+wikidata: https://wikidata.org/wiki/Q83640329
+http://www.aberdeenships.com/single.asp?index=100142 "100142" : "Q83640329"
+name: PEGASUS
+wikidata: https://wikidata.org/wiki/Q84709598
+http://www.aberdeenships.com/single.asp?index=100142 "100142" : "Q84709598"
+name: PEGGY
+wikidata: https://wikidata.org/wiki/Q42886813
+http://www.aberdeenships.com/single.asp?index=99532 "99532" : "Q42886813"
+http://www.aberdeenships.com/single.asp?index=101131 "101131" : "Q42886813"
+http://www.aberdeenships.com/single.asp?index=152198 "152198" : "Q42886813"
+http://www.aberdeenships.com/single.asp?index=152214 "152214" : "Q42886813"
+http://www.aberdeenships.com/single.asp?index=182700 "182700" : "Q42886813"
+http://www.aberdeenships.com/single.asp?index=182701 "182701" : "Q42886813"
+name: PELICAN I
+wikidata: https://wikidata.org/wiki/Q84710860
+http://www.aberdeenships.com/single.asp?index=100366 "100366" : "Q84710860"
+name: PERA
+wikidata: https://wikidata.org/wiki/Q84258401
+http://www.aberdeenships.com/single.asp?index=100058 "100058" : "Q84258401"
+name: PERA
+wikidata: https://wikidata.org/wiki/Q84574749
+http://www.aberdeenships.com/single.asp?index=100058 "100058" : "Q84574749"
+name: PERA
+wikidata: https://wikidata.org/wiki/Q84710432
+http://www.aberdeenships.com/single.asp?index=100058 "100058" : "Q84710432"
+name: PERICLES
+wikidata: https://wikidata.org/wiki/Q7168402
+http://www.aberdeenships.com/single.asp?index=99418 "99418" : "Q7168402"
+name: PERSEVERANCE
+wikidata: https://wikidata.org/wiki/Q24026921
+http://www.aberdeenships.com/single.asp?index=100727 "100727" : "Q24026921"
+name: PERSEVERANCE
+wikidata: https://wikidata.org/wiki/Q42291506
+http://www.aberdeenships.com/single.asp?index=100727 "100727" : "Q42291506"
+name: PERSEVERANCE
+wikidata: https://wikidata.org/wiki/Q42886728
+http://www.aberdeenships.com/single.asp?index=100727 "100727" : "Q42886728"
+name: PERSEVERANCE
+wikidata: https://wikidata.org/wiki/Q42886730
+http://www.aberdeenships.com/single.asp?index=100727 "100727" : "Q42886730"
+name: PETREL
+wikidata: https://wikidata.org/wiki/Q33189335
+http://www.aberdeenships.com/single.asp?index=99689 "99689" : "Q33189335"
+http://www.aberdeenships.com/single.asp?index=99834 "99834" : "Q33189335"
+http://www.aberdeenships.com/single.asp?index=100247 "100247" : "Q33189335"
+http://www.aberdeenships.com/single.asp?index=100878 "100878" : "Q33189335"
+name: PETREL
+wikidata: https://wikidata.org/wiki/Q47012687
+http://www.aberdeenships.com/single.asp?index=99689 "99689" : "Q47012687"
+http://www.aberdeenships.com/single.asp?index=99834 "99834" : "Q47012687"
+http://www.aberdeenships.com/single.asp?index=100247 "100247" : "Q47012687"
+http://www.aberdeenships.com/single.asp?index=100878 "100878" : "Q47012687"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q18750411
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q18750411"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q18750411"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q21469561
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q21469561"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q21469561"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q3381371
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q3381371"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q3381371"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q52329433
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q52329433"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q52329433"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q52337689
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q52337689"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q52337689"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q7186752
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q7186752"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q7186752"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q7186773
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q7186773"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q7186773"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q7186778
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q7186778"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q7186778"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q7186780
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q7186780"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q7186780"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q83641036
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q83641036"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q83641036"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q84228839
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q84228839"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q84228839"
+name: PHOENIX
+wikidata: https://wikidata.org/wiki/Q86084710
+http://www.aberdeenships.com/single.asp?index=100823 "100823" : "Q86084710"
+http://www.aberdeenships.com/single.asp?index=152946 "152946" : "Q86084710"
+name: PILGRIM
+wikidata: https://wikidata.org/wiki/Q24027296
+http://www.aberdeenships.com/single.asp?index=100751 "100751" : "Q24027296"
+http://www.aberdeenships.com/single.asp?index=101623 "101623" : "Q24027296"
+name: PILGRIM
+wikidata: https://wikidata.org/wiki/Q7193920
+http://www.aberdeenships.com/single.asp?index=100751 "100751" : "Q7193920"
+http://www.aberdeenships.com/single.asp?index=101623 "101623" : "Q7193920"
+name: PIONEER
+wikidata: https://wikidata.org/wiki/Q3388911
+http://www.aberdeenships.com/single.asp?index=100256 "100256" : "Q3388911"
+name: PIONEER
+wikidata: https://wikidata.org/wiki/Q4181232
+http://www.aberdeenships.com/single.asp?index=100256 "100256" : "Q4181232"
+name: PIONEER
+wikidata: https://wikidata.org/wiki/Q7196627
+http://www.aberdeenships.com/single.asp?index=100256 "100256" : "Q7196627"
+name: PIONEER
+wikidata: https://wikidata.org/wiki/Q84256612
+http://www.aberdeenships.com/single.asp?index=100256 "100256" : "Q84256612"
+name: PIRATE
+wikidata: https://wikidata.org/wiki/Q7197780
+http://www.aberdeenships.com/single.asp?index=99450 "99450" : "Q7197780"
+name: PLANTER
+wikidata: https://wikidata.org/wiki/Q84712251
+http://www.aberdeenships.com/single.asp?index=100701 "100701" : "Q84712251"
+name: PLOVER
+wikidata: https://wikidata.org/wiki/Q24027438
+http://www.aberdeenships.com/single.asp?index=101700 "101700" : "Q24027438"
+name: PLOVER
+wikidata: https://wikidata.org/wiki/Q42896562
+http://www.aberdeenships.com/single.asp?index=101700 "101700" : "Q42896562"
+name: POSEIDON
+wikidata: https://wikidata.org/wiki/Q2105600
+http://www.aberdeenships.com/single.asp?index=100410 "100410" : "Q2105600"
+name: POSEIDON
+wikidata: https://wikidata.org/wiki/Q2879020
+http://www.aberdeenships.com/single.asp?index=100410 "100410" : "Q2879020"
+name: POSEIDON
+wikidata: https://wikidata.org/wiki/Q84257874
+http://www.aberdeenships.com/single.asp?index=100410 "100410" : "Q84257874"
+name: POSEIDON
+wikidata: https://wikidata.org/wiki/Q85985175
+http://www.aberdeenships.com/single.asp?index=100410 "100410" : "Q85985175"
+name: PRETORIA
+wikidata: https://wikidata.org/wiki/Q7242166
+http://www.aberdeenships.com/single.asp?index=101038 "101038" : "Q7242166"
+name: PRINCE OF WALES
+wikidata: https://wikidata.org/wiki/Q20746285
+http://www.aberdeenships.com/single.asp?index=99339 "99339" : "Q20746285"
+http://www.aberdeenships.com/single.asp?index=100070 "100070" : "Q20746285"
+name: PRINCE OF WALES
+wikidata: https://wikidata.org/wiki/Q22294424
+http://www.aberdeenships.com/single.asp?index=99339 "99339" : "Q22294424"
+http://www.aberdeenships.com/single.asp?index=100070 "100070" : "Q22294424"
+name: PRINCE OF WALES
+wikidata: https://wikidata.org/wiki/Q24027301
+http://www.aberdeenships.com/single.asp?index=99339 "99339" : "Q24027301"
+http://www.aberdeenships.com/single.asp?index=100070 "100070" : "Q24027301"
+name: PRINCE OF WALES
+wikidata: https://wikidata.org/wiki/Q7244375
+http://www.aberdeenships.com/single.asp?index=99339 "99339" : "Q7244375"
+http://www.aberdeenships.com/single.asp?index=100070 "100070" : "Q7244375"
+name: PRINCESS ALICE
+wikidata: https://wikidata.org/wiki/Q84711273
+http://www.aberdeenships.com/single.asp?index=100416 "100416" : "Q84711273"
+name: PRINCESS LOUISE
+wikidata: https://wikidata.org/wiki/Q7244678
+http://www.aberdeenships.com/single.asp?index=100200 "100200" : "Q7244678"
+http://www.aberdeenships.com/single.asp?index=100335 "100335" : "Q7244678"
+name: PRINCESS LOUISE
+wikidata: https://wikidata.org/wiki/Q84727605
+http://www.aberdeenships.com/single.asp?index=100200 "100200" : "Q84727605"
+http://www.aberdeenships.com/single.asp?index=100335 "100335" : "Q84727605"
+name: PRINCESS ROYAL
+wikidata: https://wikidata.org/wiki/Q18750439
+http://www.aberdeenships.com/single.asp?index=99207 "99207" : "Q18750439"
+http://www.aberdeenships.com/single.asp?index=99515 "99515" : "Q18750439"
+http://www.aberdeenships.com/single.asp?index=100095 "100095" : "Q18750439"
+http://www.aberdeenships.com/single.asp?index=100344 "100344" : "Q18750439"
+http://www.aberdeenships.com/single.asp?index=100404 "100404" : "Q18750439"
+http://www.aberdeenships.com/single.asp?index=101599 "101599" : "Q18750439"
+name: PRINCESS ROYAL
+wikidata: https://wikidata.org/wiki/Q22294432
+http://www.aberdeenships.com/single.asp?index=99207 "99207" : "Q22294432"
+http://www.aberdeenships.com/single.asp?index=99515 "99515" : "Q22294432"
+http://www.aberdeenships.com/single.asp?index=100095 "100095" : "Q22294432"
+http://www.aberdeenships.com/single.asp?index=100344 "100344" : "Q22294432"
+http://www.aberdeenships.com/single.asp?index=100404 "100404" : "Q22294432"
+http://www.aberdeenships.com/single.asp?index=101599 "101599" : "Q22294432"
+name: PRINCESS ROYAL
+wikidata: https://wikidata.org/wiki/Q30600925
+http://www.aberdeenships.com/single.asp?index=99207 "99207" : "Q30600925"
+http://www.aberdeenships.com/single.asp?index=99515 "99515" : "Q30600925"
+http://www.aberdeenships.com/single.asp?index=100095 "100095" : "Q30600925"
+http://www.aberdeenships.com/single.asp?index=100344 "100344" : "Q30600925"
+http://www.aberdeenships.com/single.asp?index=100404 "100404" : "Q30600925"
+http://www.aberdeenships.com/single.asp?index=101599 "101599" : "Q30600925"
+name: PRINCESS ROYAL
+wikidata: https://wikidata.org/wiki/Q3921963
+http://www.aberdeenships.com/single.asp?index=99207 "99207" : "Q3921963"
+http://www.aberdeenships.com/single.asp?index=99515 "99515" : "Q3921963"
+http://www.aberdeenships.com/single.asp?index=100095 "100095" : "Q3921963"
+http://www.aberdeenships.com/single.asp?index=100344 "100344" : "Q3921963"
+http://www.aberdeenships.com/single.asp?index=100404 "100404" : "Q3921963"
+http://www.aberdeenships.com/single.asp?index=101599 "101599" : "Q3921963"
+name: PRINCESS ROYAL
+wikidata: https://wikidata.org/wiki/Q42896519
+http://www.aberdeenships.com/single.asp?index=99207 "99207" : "Q42896519"
+http://www.aberdeenships.com/single.asp?index=99515 "99515" : "Q42896519"
+http://www.aberdeenships.com/single.asp?index=100095 "100095" : "Q42896519"
+http://www.aberdeenships.com/single.asp?index=100344 "100344" : "Q42896519"
+http://www.aberdeenships.com/single.asp?index=100404 "100404" : "Q42896519"
+http://www.aberdeenships.com/single.asp?index=101599 "101599" : "Q42896519"
+name: PRINCESS ROYAL
+wikidata: https://wikidata.org/wiki/Q7244798
+http://www.aberdeenships.com/single.asp?index=99207 "99207" : "Q7244798"
+http://www.aberdeenships.com/single.asp?index=99515 "99515" : "Q7244798"
+http://www.aberdeenships.com/single.asp?index=100095 "100095" : "Q7244798"
+http://www.aberdeenships.com/single.asp?index=100344 "100344" : "Q7244798"
+http://www.aberdeenships.com/single.asp?index=100404 "100404" : "Q7244798"
+http://www.aberdeenships.com/single.asp?index=101599 "101599" : "Q7244798"
+name: PROSPERITY
+wikidata: https://wikidata.org/wiki/Q86084887
+http://www.aberdeenships.com/single.asp?index=101809 "101809" : "Q86084887"
+name: PROVIDENCE
+wikidata: https://wikidata.org/wiki/Q23936293
+http://www.aberdeenships.com/single.asp?index=182702 "182702" : "Q23936293"
+name: PROVIDENCE
+wikidata: https://wikidata.org/wiki/Q7252374
+http://www.aberdeenships.com/single.asp?index=182702 "182702" : "Q7252374"
+name: PROVIDENCE
+wikidata: https://wikidata.org/wiki/Q7252375
+http://www.aberdeenships.com/single.asp?index=182702 "182702" : "Q7252375"
+name: PROVIDENCE
+wikidata: https://wikidata.org/wiki/Q7252376
+http://www.aberdeenships.com/single.asp?index=182702 "182702" : "Q7252376"
+name: PURSUIT
+wikidata: https://wikidata.org/wiki/Q42886807
+http://www.aberdeenships.com/single.asp?index=99447 "99447" : "Q42886807"
+http://www.aberdeenships.com/single.asp?index=99458 "99458" : "Q42886807"
+http://www.aberdeenships.com/single.asp?index=99484 "99484" : "Q42886807"
+name: QUEEN
+wikidata: https://wikidata.org/wiki/Q42886810
+http://www.aberdeenships.com/single.asp?index=99755 "99755" : "Q42886810"
+name: QUEEN
+wikidata: https://wikidata.org/wiki/Q7270160
+http://www.aberdeenships.com/single.asp?index=99755 "99755" : "Q7270160"
+name: QUEEN
+wikidata: https://wikidata.org/wiki/Q7270163
+http://www.aberdeenships.com/single.asp?index=99755 "99755" : "Q7270163"
+name: QUEEN
+wikidata: https://wikidata.org/wiki/Q84710294
+http://www.aberdeenships.com/single.asp?index=99755 "99755" : "Q84710294"
+name: QUEEN
+wikidata: https://wikidata.org/wiki/Q85989082
+http://www.aberdeenships.com/single.asp?index=99755 "99755" : "Q85989082"
+name: QUEEN OF NATIONS
+wikidata: https://wikidata.org/wiki/Q7270620
+http://www.aberdeenships.com/single.asp?index=101777 "101777" : "Q7270620"
+name: QUEEN OF THE ISLES
+wikidata: https://wikidata.org/wiki/Q24027170
+http://www.aberdeenships.com/single.asp?index=100043 "100043" : "Q24027170"
+name: RADIANT
+wikidata: https://wikidata.org/wiki/Q52380235
+http://www.aberdeenships.com/single.asp?index=99960 "99960" : "Q52380235"
+name: RADIANT
+wikidata: https://wikidata.org/wiki/Q84710425
+http://www.aberdeenships.com/single.asp?index=99960 "99960" : "Q84710425"
+name: RAINBOW
+wikidata: https://wikidata.org/wiki/Q17515188
+http://www.aberdeenships.com/single.asp?index=101112 "101112" : "Q17515188"
+http://www.aberdeenships.com/single.asp?index=152168 "152168" : "Q17515188"
+name: RAINBOW
+wikidata: https://wikidata.org/wiki/Q18922894
+http://www.aberdeenships.com/single.asp?index=101112 "101112" : "Q18922894"
+http://www.aberdeenships.com/single.asp?index=152168 "152168" : "Q18922894"
+name: RAINBOW
+wikidata: https://wikidata.org/wiki/Q5378660
+http://www.aberdeenships.com/single.asp?index=101112 "101112" : "Q5378660"
+http://www.aberdeenships.com/single.asp?index=152168 "152168" : "Q5378660"
+name: RAINBOW
+wikidata: https://wikidata.org/wiki/Q7284566
+http://www.aberdeenships.com/single.asp?index=101112 "101112" : "Q7284566"
+http://www.aberdeenships.com/single.asp?index=152168 "152168" : "Q7284566"
+name: RANGER
+wikidata: https://wikidata.org/wiki/Q86722719
+http://www.aberdeenships.com/single.asp?index=100687 "100687" : "Q86722719"
+name: RAPID
+wikidata: https://wikidata.org/wiki/Q20642490
+http://www.aberdeenships.com/single.asp?index=99486 "99486" : "Q20642490"
+http://www.aberdeenships.com/single.asp?index=100049 "100049" : "Q20642490"
+name: RAPID
+wikidata: https://wikidata.org/wiki/Q55739396
+http://www.aberdeenships.com/single.asp?index=99486 "99486" : "Q55739396"
+http://www.aberdeenships.com/single.asp?index=100049 "100049" : "Q55739396"
+name: RECOVERY
+wikidata: https://wikidata.org/wiki/Q20870445
+http://www.aberdeenships.com/single.asp?index=152192 "152192" : "Q20870445"
+http://www.aberdeenships.com/single.asp?index=182703 "182703" : "Q20870445"
+name: RECOVERY
+wikidata: https://wikidata.org/wiki/Q60762236
+http://www.aberdeenships.com/single.asp?index=152192 "152192" : "Q60762236"
+http://www.aberdeenships.com/single.asp?index=182703 "182703" : "Q60762236"
+name: RED
+wikidata: https://wikidata.org/wiki/Q84253449
+http://www.aberdeenships.com/single.asp?index=99706 "99706" : "Q84253449"
+name: RELIANCE
+wikidata: https://wikidata.org/wiki/Q20870449
+http://www.aberdeenships.com/single.asp?index=99937 "99937" : "Q20870449"
+name: RENOWN
+wikidata: https://wikidata.org/wiki/Q59211872
+http://www.aberdeenships.com/single.asp?index=99524 "99524" : "Q59211872"
+http://www.aberdeenships.com/single.asp?index=99621 "99621" : "Q59211872"
+http://www.aberdeenships.com/single.asp?index=99738 "99738" : "Q59211872"
+name: RESEARCH
+wikidata: https://wikidata.org/wiki/Q52512250
+http://www.aberdeenships.com/single.asp?index=99734 "99734" : "Q52512250"
+name: RESOLUTE
+wikidata: https://wikidata.org/wiki/Q24027035
+http://www.aberdeenships.com/single.asp?index=99594 "99594" : "Q24027035"
+http://www.aberdeenships.com/single.asp?index=101734 "101734" : "Q24027035"
+name: RESOLUTE
+wikidata: https://wikidata.org/wiki/Q52351438
+http://www.aberdeenships.com/single.asp?index=99594 "99594" : "Q52351438"
+http://www.aberdeenships.com/single.asp?index=101734 "101734" : "Q52351438"
+name: RESOLUTION
+wikidata: https://wikidata.org/wiki/Q28457817
+http://www.aberdeenships.com/single.asp?index=99943 "99943" : "Q28457817"
+http://www.aberdeenships.com/single.asp?index=152167 "152167" : "Q28457817"
+http://www.aberdeenships.com/single.asp?index=182704 "182704" : "Q28457817"
+http://www.aberdeenships.com/single.asp?index=182705 "182705" : "Q28457817"
+name: RESOLUTION
+wikidata: https://wikidata.org/wiki/Q7315682
+http://www.aberdeenships.com/single.asp?index=99943 "99943" : "Q7315682"
+http://www.aberdeenships.com/single.asp?index=152167 "152167" : "Q7315682"
+http://www.aberdeenships.com/single.asp?index=182704 "182704" : "Q7315682"
+http://www.aberdeenships.com/single.asp?index=182705 "182705" : "Q7315682"
+name: RETRIEVER
+wikidata: https://wikidata.org/wiki/Q24027358
+http://www.aberdeenships.com/single.asp?index=100944 "100944" : "Q24027358"
+name: RICHMOND
+wikidata: https://wikidata.org/wiki/Q42886742
+http://www.aberdeenships.com/single.asp?index=100188 "100188" : "Q42886742"
+name: RIVAL
+wikidata: https://wikidata.org/wiki/Q7336957
+http://www.aberdeenships.com/single.asp?index=100789 "100789" : "Q7336957"
+name: RIVER DEE
+wikidata: https://wikidata.org/wiki/Q84711635
+http://www.aberdeenships.com/single.asp?index=99052 "99052" : "Q84711635"
+name: ROBERT
+wikidata: https://wikidata.org/wiki/Q21012606
+http://www.aberdeenships.com/single.asp?index=152917 "152917" : "Q21012606"
+name: ROBIN HOOD
+wikidata: https://wikidata.org/wiki/Q7352496
+http://www.aberdeenships.com/single.asp?index=100126 "100126" : "Q7352496"
+name: ROVER
+wikidata: https://wikidata.org/wiki/Q3445534
+http://www.aberdeenships.com/single.asp?index=99561 "99561" : "Q3445534"
+http://www.aberdeenships.com/single.asp?index=100027 "100027" : "Q3445534"
+http://www.aberdeenships.com/single.asp?index=100832 "100832" : "Q3445534"
+name: ROVER
+wikidata: https://wikidata.org/wiki/Q84265691
+http://www.aberdeenships.com/single.asp?index=99561 "99561" : "Q84265691"
+http://www.aberdeenships.com/single.asp?index=100027 "100027" : "Q84265691"
+http://www.aberdeenships.com/single.asp?index=100832 "100832" : "Q84265691"
+name: RUBISLAW
+wikidata: https://wikidata.org/wiki/Q84710482
+http://www.aberdeenships.com/single.asp?index=101085 "101085" : "Q84710482"
+http://www.aberdeenships.com/single.asp?index=101092 "101092" : "Q84710482"
+name: RUBISLAW
+wikidata: https://wikidata.org/wiki/Q84727610
+http://www.aberdeenships.com/single.asp?index=101085 "101085" : "Q84727610"
+http://www.aberdeenships.com/single.asp?index=101092 "101092" : "Q84727610"
+name: RUBY
+wikidata: https://wikidata.org/wiki/Q24027055
+http://www.aberdeenships.com/single.asp?index=100834 "100834" : "Q24027055"
+http://www.aberdeenships.com/single.asp?index=135827 "135827" : "Q24027055"
+name: RUBY
+wikidata: https://wikidata.org/wiki/Q42886744
+http://www.aberdeenships.com/single.asp?index=100834 "100834" : "Q42886744"
+http://www.aberdeenships.com/single.asp?index=135827 "135827" : "Q42886744"
+name: SALAMANDER
+wikidata: https://wikidata.org/wiki/Q7403548
+http://www.aberdeenships.com/single.asp?index=100127 "100127" : "Q7403548"
+name: SAMSON
+wikidata: https://wikidata.org/wiki/Q4407024
+http://www.aberdeenships.com/single.asp?index=99995 "99995" : "Q4407024"
+http://www.aberdeenships.com/single.asp?index=100659 "100659" : "Q4407024"
+name: SAMSON
+wikidata: https://wikidata.org/wiki/Q7410353
+http://www.aberdeenships.com/single.asp?index=99995 "99995" : "Q7410353"
+http://www.aberdeenships.com/single.asp?index=100659 "100659" : "Q7410353"
+name: SAMSON
+wikidata: https://wikidata.org/wiki/Q84727200
+http://www.aberdeenships.com/single.asp?index=99995 "99995" : "Q84727200"
+http://www.aberdeenships.com/single.asp?index=100659 "100659" : "Q84727200"
+name: SAMUEL PLIMSOLL
+wikidata: https://wikidata.org/wiki/Q56816041
+http://www.aberdeenships.com/single.asp?index=99411 "99411" : "Q56816041"
+name: SANSERIT
+wikidata: https://wikidata.org/wiki/Q84727930
+http://www.aberdeenships.com/single.asp?index=100443 "100443" : "Q84727930"
+name: SARAH
+wikidata: https://wikidata.org/wiki/Q24027112
+http://www.aberdeenships.com/single.asp?index=100012 "100012" : "Q24027112"
+http://www.aberdeenships.com/single.asp?index=100246 "100246" : "Q24027112"
+http://www.aberdeenships.com/single.asp?index=100775 "100775" : "Q24027112"
+http://www.aberdeenships.com/single.asp?index=110889 "110889" : "Q24027112"
+name: SARAH
+wikidata: https://wikidata.org/wiki/Q52507917
+http://www.aberdeenships.com/single.asp?index=100012 "100012" : "Q52507917"
+http://www.aberdeenships.com/single.asp?index=100246 "100246" : "Q52507917"
+http://www.aberdeenships.com/single.asp?index=100775 "100775" : "Q52507917"
+http://www.aberdeenships.com/single.asp?index=110889 "110889" : "Q52507917"
+name: SARAH
+wikidata: https://wikidata.org/wiki/Q59211887
+http://www.aberdeenships.com/single.asp?index=100012 "100012" : "Q59211887"
+http://www.aberdeenships.com/single.asp?index=100246 "100246" : "Q59211887"
+http://www.aberdeenships.com/single.asp?index=100775 "100775" : "Q59211887"
+http://www.aberdeenships.com/single.asp?index=110889 "110889" : "Q59211887"
+name: SARAH
+wikidata: https://wikidata.org/wiki/Q84257754
+http://www.aberdeenships.com/single.asp?index=100012 "100012" : "Q84257754"
+http://www.aberdeenships.com/single.asp?index=100246 "100246" : "Q84257754"
+http://www.aberdeenships.com/single.asp?index=100775 "100775" : "Q84257754"
+http://www.aberdeenships.com/single.asp?index=110889 "110889" : "Q84257754"
+name: SARAH
+wikidata: https://wikidata.org/wiki/Q84709696
+http://www.aberdeenships.com/single.asp?index=100012 "100012" : "Q84709696"
+http://www.aberdeenships.com/single.asp?index=100246 "100246" : "Q84709696"
+http://www.aberdeenships.com/single.asp?index=100775 "100775" : "Q84709696"
+http://www.aberdeenships.com/single.asp?index=110889 "110889" : "Q84709696"
+name: SCHIEHALLION
+wikidata: https://wikidata.org/wiki/Q52346850
+http://www.aberdeenships.com/single.asp?index=99702 "99702" : "Q52346850"
+http://www.aberdeenships.com/single.asp?index=99879 "99879" : "Q52346850"
+name: SEA EAGLE
+wikidata: https://wikidata.org/wiki/Q84727164
+http://www.aberdeenships.com/single.asp?index=99636 "99636" : "Q84727164"
+name: SEA EAGLE
+wikidata: https://wikidata.org/wiki/Q85987169
+http://www.aberdeenships.com/single.asp?index=99636 "99636" : "Q85987169"
+name: SEA HORSE
+wikidata: https://wikidata.org/wiki/Q52296562
+http://www.aberdeenships.com/single.asp?index=99688 "99688" : "Q52296562"
+http://www.aberdeenships.com/single.asp?index=100807 "100807" : "Q52296562"
+name: SEA STAR
+wikidata: https://wikidata.org/wiki/Q84254346
+http://www.aberdeenships.com/single.asp?index=100117 "100117" : "Q84254346"
+name: SEATON
+wikidata: https://wikidata.org/wiki/Q83650160
+http://www.aberdeenships.com/single.asp?index=99337 "99337" : "Q83650160"
+http://www.aberdeenships.com/single.asp?index=99355 "99355" : "Q83650160"
+http://www.aberdeenships.com/single.asp?index=131967 "131967" : "Q83650160"
+name: SHEARWATER
+wikidata: https://wikidata.org/wiki/Q52311625
+http://www.aberdeenships.com/single.asp?index=101653 "101653" : "Q52311625"
+name: SHEARWATER
+wikidata: https://wikidata.org/wiki/Q7492220
+http://www.aberdeenships.com/single.asp?index=101653 "101653" : "Q7492220"
+name: SINGAPORE
+wikidata: https://wikidata.org/wiki/Q84264331
+http://www.aberdeenships.com/single.asp?index=99483 "99483" : "Q84264331"
+name: SIR LANCELOT
+wikidata: https://wikidata.org/wiki/Q7528235
+http://www.aberdeenships.com/single.asp?index=99139 "99139" : "Q7528235"
+name: SIROCCO
+wikidata: https://wikidata.org/wiki/Q20894608
+http://www.aberdeenships.com/single.asp?index=99591 "99591" : "Q20894608"
+name: SIROCCO
+wikidata: https://wikidata.org/wiki/Q84257243
+http://www.aberdeenships.com/single.asp?index=99591 "99591" : "Q84257243"
+name: SIROCCO
+wikidata: https://wikidata.org/wiki/Q85980429
+http://www.aberdeenships.com/single.asp?index=99591 "99591" : "Q85980429"
+name: SISTERS
+wikidata: https://wikidata.org/wiki/Q24027139
+http://www.aberdeenships.com/single.asp?index=99981 "99981" : "Q24027139"
+http://www.aberdeenships.com/single.asp?index=152175 "152175" : "Q24027139"
+http://www.aberdeenships.com/single.asp?index=152977 "152977" : "Q24027139"
+name: SMYRNA
+wikidata: https://wikidata.org/wiki/Q52325527
+http://www.aberdeenships.com/single.asp?index=99417 "99417" : "Q52325527"
+name: SMYRNA
+wikidata: https://wikidata.org/wiki/Q85986029
+http://www.aberdeenships.com/single.asp?index=99417 "99417" : "Q85986029"
+name: SOLA
+wikidata: https://wikidata.org/wiki/Q84711716
+http://www.aberdeenships.com/single.asp?index=99907 "99907" : "Q84711716"
+name: SOPHIA
+wikidata: https://wikidata.org/wiki/Q84255493
+http://www.aberdeenships.com/single.asp?index=99364 "99364" : "Q84255493"
+http://www.aberdeenships.com/single.asp?index=99478 "99478" : "Q84255493"
+http://www.aberdeenships.com/single.asp?index=99950 "99950" : "Q84255493"
+http://www.aberdeenships.com/single.asp?index=135729 "135729" : "Q84255493"
+name: SOPHIA
+wikidata: https://wikidata.org/wiki/Q84262471
+http://www.aberdeenships.com/single.asp?index=99364 "99364" : "Q84262471"
+http://www.aberdeenships.com/single.asp?index=99478 "99478" : "Q84262471"
+http://www.aberdeenships.com/single.asp?index=99950 "99950" : "Q84262471"
+http://www.aberdeenships.com/single.asp?index=135729 "135729" : "Q84262471"
+name: SPARTA
+wikidata: https://wikidata.org/wiki/Q4430688
+http://www.aberdeenships.com/single.asp?index=101255 "101255" : "Q4430688"
+name: SPRAY
+wikidata: https://wikidata.org/wiki/Q2573752
+http://www.aberdeenships.com/single.asp?index=100858 "100858" : "Q2573752"
+http://www.aberdeenships.com/single.asp?index=101461 "101461" : "Q2573752"
+http://www.aberdeenships.com/single.asp?index=101619 "101619" : "Q2573752"
+name: SPRING
+wikidata: https://wikidata.org/wiki/Q52326922
+http://www.aberdeenships.com/single.asp?index=152193 "152193" : "Q52326922"
+name: SPRING
+wikidata: https://wikidata.org/wiki/Q85985990
+http://www.aberdeenships.com/single.asp?index=152193 "152193" : "Q85985990"
+name: STAR
+wikidata: https://wikidata.org/wiki/Q52322847
+http://www.aberdeenships.com/single.asp?index=99330 "99330" : "Q52322847"
+http://www.aberdeenships.com/single.asp?index=99476 "99476" : "Q52322847"
+http://www.aberdeenships.com/single.asp?index=100781 "100781" : "Q52322847"
+http://www.aberdeenships.com/single.asp?index=182707 "182707" : "Q52322847"
+http://www.aberdeenships.com/single.asp?index=182708 "182708" : "Q52322847"
+name: STAR
+wikidata: https://wikidata.org/wiki/Q55847106
+http://www.aberdeenships.com/single.asp?index=99330 "99330" : "Q55847106"
+http://www.aberdeenships.com/single.asp?index=99476 "99476" : "Q55847106"
+http://www.aberdeenships.com/single.asp?index=100781 "100781" : "Q55847106"
+http://www.aberdeenships.com/single.asp?index=182707 "182707" : "Q55847106"
+http://www.aberdeenships.com/single.asp?index=182708 "182708" : "Q55847106"
+name: STAR OF THE WEST
+wikidata: https://wikidata.org/wiki/Q7601279
+http://www.aberdeenships.com/single.asp?index=100315 "100315" : "Q7601279"
+name: STEPHEN BROWN
+wikidata: https://wikidata.org/wiki/Q52296650
+http://www.aberdeenships.com/single.asp?index=101564 "101564" : "Q52296650"
+name: STORNOWAY
+wikidata: https://wikidata.org/wiki/Q7620312
+http://www.aberdeenships.com/single.asp?index=100096 "100096" : "Q7620312"
+name: STRATHATHOLL
+wikidata: https://wikidata.org/wiki/Q84727811
+http://www.aberdeenships.com/single.asp?index=101236 "101236" : "Q84727811"
+name: STRATHBEG
+wikidata: https://wikidata.org/wiki/Q84727735
+http://www.aberdeenships.com/single.asp?index=101115 "101115" : "Q84727735"
+name: STRATHCLOVA
+wikidata: https://wikidata.org/wiki/Q84711304
+http://www.aberdeenships.com/single.asp?index=101258 "101258" : "Q84711304"
+http://www.aberdeenships.com/single.asp?index=102126 "102126" : "Q84711304"
+name: STRATHCONA
+wikidata: https://wikidata.org/wiki/Q7622066
+http://www.aberdeenships.com/single.asp?index=101032 "101032" : "Q7622066"
+name: STRATHGARRY
+wikidata: https://wikidata.org/wiki/Q84710843
+http://www.aberdeenships.com/single.asp?index=101121 "101121" : "Q84710843"
+http://www.aberdeenships.com/single.asp?index=101422 "101422" : "Q84710843"
+name: STRATHRYE
+wikidata: https://wikidata.org/wiki/Q84727881
+http://www.aberdeenships.com/single.asp?index=101304 "101304" : "Q84727881"
+name: STRONSA FIRTH
+wikidata: https://wikidata.org/wiki/Q84728074
+http://www.aberdeenships.com/single.asp?index=99063 "99063" : "Q84728074"
+name: SUCCESS
+wikidata: https://wikidata.org/wiki/Q7632554
+http://www.aberdeenships.com/single.asp?index=99429 "99429" : "Q7632554"
+http://www.aberdeenships.com/single.asp?index=99710 "99710" : "Q7632554"
+name: SUNRISE
+wikidata: https://wikidata.org/wiki/Q52341345
+http://www.aberdeenships.com/single.asp?index=99625 "99625" : "Q52341345"
+name: SUNRISE
+wikidata: https://wikidata.org/wiki/Q84260255
+http://www.aberdeenships.com/single.asp?index=99625 "99625" : "Q84260255"
+name: SUNRISE
+wikidata: https://wikidata.org/wiki/Q84709530
+http://www.aberdeenships.com/single.asp?index=99625 "99625" : "Q84709530"
+name: SUPERMAN
+wikidata: https://wikidata.org/wiki/Q84712025
+http://www.aberdeenships.com/single.asp?index=100660 "100660" : "Q84712025"
+name: SURPRISE
+wikidata: https://wikidata.org/wiki/Q25248342
+http://www.aberdeenships.com/single.asp?index=99182 "99182" : "Q25248342"
+name: SURPRISE
+wikidata: https://wikidata.org/wiki/Q28457563
+http://www.aberdeenships.com/single.asp?index=99182 "99182" : "Q28457563"
+name: SURPRISE
+wikidata: https://wikidata.org/wiki/Q7646566
+http://www.aberdeenships.com/single.asp?index=99182 "99182" : "Q7646566"
+name: SURPRISE
+wikidata: https://wikidata.org/wiki/Q7646575
+http://www.aberdeenships.com/single.asp?index=99182 "99182" : "Q7646575"
+name: SURPRISE
+wikidata: https://wikidata.org/wiki/Q7646578
+http://www.aberdeenships.com/single.asp?index=99182 "99182" : "Q7646578"
+name: SWALLOW
+wikidata: https://wikidata.org/wiki/Q20714214
+http://www.aberdeenships.com/single.asp?index=101110 "101110" : "Q20714214"
+http://www.aberdeenships.com/single.asp?index=101702 "101702" : "Q20714214"
+name: SWALLOW
+wikidata: https://wikidata.org/wiki/Q24027428
+http://www.aberdeenships.com/single.asp?index=101110 "101110" : "Q24027428"
+http://www.aberdeenships.com/single.asp?index=101702 "101702" : "Q24027428"
+name: SWALLOW
+wikidata: https://wikidata.org/wiki/Q52344384
+http://www.aberdeenships.com/single.asp?index=101110 "101110" : "Q52344384"
+http://www.aberdeenships.com/single.asp?index=101702 "101702" : "Q52344384"
+name: SWAN
+wikidata: https://wikidata.org/wiki/Q5378663
+http://www.aberdeenships.com/single.asp?index=152159 "152159" : "Q5378663"
+http://www.aberdeenships.com/single.asp?index=152181 "152181" : "Q5378663"
+name: SWIFT
+wikidata: https://wikidata.org/wiki/Q52335019
+http://www.aberdeenships.com/single.asp?index=99448 "99448" : "Q52335019"
+http://www.aberdeenships.com/single.asp?index=100060 "100060" : "Q52335019"
+http://www.aberdeenships.com/single.asp?index=101144 "101144" : "Q52335019"
+http://www.aberdeenships.com/single.asp?index=101703 "101703" : "Q52335019"
+http://www.aberdeenships.com/single.asp?index=101812 "101812" : "Q52335019"
+name: TARANSAY
+wikidata: https://wikidata.org/wiki/Q22570269
+http://www.aberdeenships.com/single.asp?index=101442 "101442" : "Q22570269"
+name: TARTAR
+wikidata: https://wikidata.org/wiki/Q28457568
+http://www.aberdeenships.com/single.asp?index=100026 "100026" : "Q28457568"
+http://www.aberdeenships.com/single.asp?index=100327 "100327" : "Q28457568"
+name: TAURUS
+wikidata: https://wikidata.org/wiki/Q52351473
+http://www.aberdeenships.com/single.asp?index=99334 "99334" : "Q52351473"
+name: TAURUS
+wikidata: https://wikidata.org/wiki/Q52376193
+http://www.aberdeenships.com/single.asp?index=99334 "99334" : "Q52376193"
+name: TAURUS
+wikidata: https://wikidata.org/wiki/Q83649413
+http://www.aberdeenships.com/single.asp?index=99334 "99334" : "Q83649413"
+name: TAURUS
+wikidata: https://wikidata.org/wiki/Q85982076
+http://www.aberdeenships.com/single.asp?index=99334 "99334" : "Q85982076"
+name: TETTENHALL
+wikidata: https://wikidata.org/wiki/Q84727662
+http://www.aberdeenships.com/single.asp?index=99715 "99715" : "Q84727662"
+name: THAMES
+wikidata: https://wikidata.org/wiki/Q84710704
+http://www.aberdeenships.com/single.asp?index=99538 "99538" : "Q84710704"
+name: THERMOPYLAE
+wikidata: https://wikidata.org/wiki/Q1432113
+http://www.aberdeenships.com/single.asp?index=99403 "99403" : "Q1432113"
+http://www.aberdeenships.com/single.asp?index=100939 "100939" : "Q1432113"
+name: THETIS
+wikidata: https://wikidata.org/wiki/Q84256910
+http://www.aberdeenships.com/single.asp?index=100749 "100749" : "Q84256910"
+http://www.aberdeenships.com/single.asp?index=182710 "182710" : "Q84256910"
+name: THOMAS SUTTON
+wikidata: https://wikidata.org/wiki/Q84711492
+http://www.aberdeenships.com/single.asp?index=100438 "100438" : "Q84711492"
+name: TIMANDRA
+wikidata: https://wikidata.org/wiki/Q42886800
+http://www.aberdeenships.com/single.asp?index=135916 "135916" : "Q42886800"
+name: TIMANDRA
+wikidata: https://wikidata.org/wiki/Q42896533
+http://www.aberdeenships.com/single.asp?index=135916 "135916" : "Q42896533"
+name: TORNADO
+wikidata: https://wikidata.org/wiki/Q52314737
+http://www.aberdeenships.com/single.asp?index=101690 "101690" : "Q52314737"
+name: TORNADO
+wikidata: https://wikidata.org/wiki/Q6149242
+http://www.aberdeenships.com/single.asp?index=101690 "101690" : "Q6149242"
+name: TORNADO
+wikidata: https://wikidata.org/wiki/Q84259921
+http://www.aberdeenships.com/single.asp?index=101690 "101690" : "Q84259921"
+name: TRAVELLER
+wikidata: https://wikidata.org/wiki/Q52325379
+http://www.aberdeenships.com/single.asp?index=99509 "99509" : "Q52325379"
+http://www.aberdeenships.com/single.asp?index=100700 "100700" : "Q52325379"
+http://www.aberdeenships.com/single.asp?index=100819 "100819" : "Q52325379"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q21012608
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q21012608"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q24027389
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q24027389"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q2454311
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q2454311"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q52320779
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q52320779"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q52379256
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q52379256"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q52380920
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q52380920"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q56274257
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q56274257"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q7844312
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q7844312"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q83648399
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q83648399"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q85992141
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q85992141"
+name: TRITON
+wikidata: https://wikidata.org/wiki/Q86084638
+http://www.aberdeenships.com/single.asp?index=100709 "100709" : "Q86084638"
+name: TRIUMPH
+wikidata: https://wikidata.org/wiki/Q5378665
+http://www.aberdeenships.com/single.asp?index=99435 "99435" : "Q5378665"
+http://www.aberdeenships.com/single.asp?index=100755 "100755" : "Q5378665"
+http://www.aberdeenships.com/single.asp?index=152965 "152965" : "Q5378665"
+name: TRIUMPH
+wikidata: https://wikidata.org/wiki/Q7844488
+http://www.aberdeenships.com/single.asp?index=99435 "99435" : "Q7844488"
+http://www.aberdeenships.com/single.asp?index=100755 "100755" : "Q7844488"
+http://www.aberdeenships.com/single.asp?index=152965 "152965" : "Q7844488"
+name: TRIUMPH
+wikidata: https://wikidata.org/wiki/Q86060835
+http://www.aberdeenships.com/single.asp?index=99435 "99435" : "Q86060835"
+http://www.aberdeenships.com/single.asp?index=100755 "100755" : "Q86060835"
+http://www.aberdeenships.com/single.asp?index=152965 "152965" : "Q86060835"
+name: TUSKER
+wikidata: https://wikidata.org/wiki/Q84256799
+http://www.aberdeenships.com/single.asp?index=100664 "100664" : "Q84256799"
+name: TYNE
+wikidata: https://wikidata.org/wiki/Q29625322
+http://www.aberdeenships.com/single.asp?index=107621 "107621" : "Q29625322"
+name: TYPHOON
+wikidata: https://wikidata.org/wiki/Q52378160
+http://www.aberdeenships.com/single.asp?index=100483 "100483" : "Q52378160"
+name: UGIEBANK
+wikidata: https://wikidata.org/wiki/Q84711140
+http://www.aberdeenships.com/single.asp?index=101248 "101248" : "Q84711140"
+name: ULYSSES
+wikidata: https://wikidata.org/wiki/Q84255057
+http://www.aberdeenships.com/single.asp?index=108495 "108495" : "Q84255057"
+name: UMGENI
+wikidata: https://wikidata.org/wiki/Q84252354
+http://www.aberdeenships.com/single.asp?index=111113 "111113" : "Q84252354"
+name: UNICORN
+wikidata: https://wikidata.org/wiki/Q84710190
+http://www.aberdeenships.com/single.asp?index=100787 "100787" : "Q84710190"
+name: UNION
+wikidata: https://wikidata.org/wiki/Q7885339
+http://www.aberdeenships.com/single.asp?index=99436 "99436" : "Q7885339"
+http://www.aberdeenships.com/single.asp?index=99967 "99967" : "Q7885339"
+http://www.aberdeenships.com/single.asp?index=100045 "100045" : "Q7885339"
+http://www.aberdeenships.com/single.asp?index=152170 "152170" : "Q7885339"
+name: UNITY
+wikidata: https://wikidata.org/wiki/Q52512510
+http://www.aberdeenships.com/single.asp?index=99736 "99736" : "Q52512510"
+name: UNITY
+wikidata: https://wikidata.org/wiki/Q84555176
+http://www.aberdeenships.com/single.asp?index=99736 "99736" : "Q84555176"
+name: URANUS
+wikidata: https://wikidata.org/wiki/Q52340408
+http://www.aberdeenships.com/single.asp?index=100643 "100643" : "Q52340408"
+name: VANGUARD
+wikidata: https://wikidata.org/wiki/Q5378667
+http://www.aberdeenships.com/single.asp?index=100197 "100197" : "Q5378667"
+name: VANGUARD
+wikidata: https://wikidata.org/wiki/Q61711996
+http://www.aberdeenships.com/single.asp?index=100197 "100197" : "Q61711996"
+name: VASCO DA GAMA
+wikidata: https://wikidata.org/wiki/Q84711097
+http://www.aberdeenships.com/single.asp?index=100381 "100381" : "Q84711097"
+name: VENUS
+wikidata: https://wikidata.org/wiki/Q24027517
+http://www.aberdeenships.com/single.asp?index=99745 "99745" : "Q24027517"
+http://www.aberdeenships.com/single.asp?index=99778 "99778" : "Q24027517"
+http://www.aberdeenships.com/single.asp?index=107410 "107410" : "Q24027517"
+http://www.aberdeenships.com/single.asp?index=111040 "111040" : "Q24027517"
+name: VENUS
+wikidata: https://wikidata.org/wiki/Q24870300
+http://www.aberdeenships.com/single.asp?index=99745 "99745" : "Q24870300"
+http://www.aberdeenships.com/single.asp?index=99778 "99778" : "Q24870300"
+http://www.aberdeenships.com/single.asp?index=107410 "107410" : "Q24870300"
+http://www.aberdeenships.com/single.asp?index=111040 "111040" : "Q24870300"
+name: VENUS
+wikidata: https://wikidata.org/wiki/Q52314286
+http://www.aberdeenships.com/single.asp?index=99745 "99745" : "Q52314286"
+http://www.aberdeenships.com/single.asp?index=99778 "99778" : "Q52314286"
+http://www.aberdeenships.com/single.asp?index=107410 "107410" : "Q52314286"
+http://www.aberdeenships.com/single.asp?index=111040 "111040" : "Q52314286"
+name: VENUS
+wikidata: https://wikidata.org/wiki/Q52338878
+http://www.aberdeenships.com/single.asp?index=99745 "99745" : "Q52338878"
+http://www.aberdeenships.com/single.asp?index=99778 "99778" : "Q52338878"
+http://www.aberdeenships.com/single.asp?index=107410 "107410" : "Q52338878"
+http://www.aberdeenships.com/single.asp?index=111040 "111040" : "Q52338878"
+name: VENUS
+wikidata: https://wikidata.org/wiki/Q7920563
+http://www.aberdeenships.com/single.asp?index=99745 "99745" : "Q7920563"
+http://www.aberdeenships.com/single.asp?index=99778 "99778" : "Q7920563"
+http://www.aberdeenships.com/single.asp?index=107410 "107410" : "Q7920563"
+http://www.aberdeenships.com/single.asp?index=111040 "111040" : "Q7920563"
+name: VESPER
+wikidata: https://wikidata.org/wiki/Q84710765
+http://www.aberdeenships.com/single.asp?index=101762 "101762" : "Q84710765"
+name: VESTA
+wikidata: https://wikidata.org/wiki/Q52346927
+http://www.aberdeenships.com/single.asp?index=99456 "99456" : "Q52346927"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q11987619
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q11987619"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q11987619"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q11987619"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q24027016
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q24027016"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q24027016"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q24027016"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q25927672
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q25927672"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q25927672"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q25927672"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q27868079
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q27868079"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q27868079"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q27868079"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q33036228
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q33036228"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q33036228"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q33036228"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q52322740
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q52322740"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q52322740"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q52322740"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q52354584
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q52354584"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q52354584"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q52354584"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q84256927
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q84256927"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q84256927"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q84256927"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q84257651
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q84257651"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q84257651"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q84257651"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q84710213
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q84710213"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q84710213"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q84710213"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q84710784
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q84710784"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q84710784"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q84710784"
+name: VICTORIA
+wikidata: https://wikidata.org/wiki/Q899710
+http://www.aberdeenships.com/single.asp?index=99360 "99360" : "Q899710"
+http://www.aberdeenships.com/single.asp?index=100002 "100002" : "Q899710"
+http://www.aberdeenships.com/single.asp?index=100082 "100082" : "Q899710"
+name: VICTOR
+wikidata: https://wikidata.org/wiki/Q7925651
+http://www.aberdeenships.com/single.asp?index=99744 "99744" : "Q7925651"
+name: VICTOR
+wikidata: https://wikidata.org/wiki/Q84261945
+http://www.aberdeenships.com/single.asp?index=99744 "99744" : "Q84261945"
+name: VICTOR
+wikidata: https://wikidata.org/wiki/Q86084630
+http://www.aberdeenships.com/single.asp?index=99744 "99744" : "Q86084630"
+name: VICTORY
+wikidata: https://wikidata.org/wiki/Q18359013
+http://www.aberdeenships.com/single.asp?index=99313 "99313" : "Q18359013"
+http://www.aberdeenships.com/single.asp?index=99740 "99740" : "Q18359013"
+http://www.aberdeenships.com/single.asp?index=101801 "101801" : "Q18359013"
+name: VICTORY
+wikidata: https://wikidata.org/wiki/Q7927455
+http://www.aberdeenships.com/single.asp?index=99313 "99313" : "Q7927455"
+http://www.aberdeenships.com/single.asp?index=99740 "99740" : "Q7927455"
+http://www.aberdeenships.com/single.asp?index=101801 "101801" : "Q7927455"
+name: VIGILANT
+wikidata: https://wikidata.org/wiki/Q84710438
+http://www.aberdeenships.com/single.asp?index=99423 "99423" : "Q84710438"
+http://www.aberdeenships.com/single.asp?index=100316 "100316" : "Q84710438"
+name: VIKING
+wikidata: https://wikidata.org/wiki/Q1806327
+http://www.aberdeenships.com/single.asp?index=119840 "119840" : "Q1806327"
+name: VIKING
+wikidata: https://wikidata.org/wiki/Q540589
+http://www.aberdeenships.com/single.asp?index=119840 "119840" : "Q540589"
+name: VIKING
+wikidata: https://wikidata.org/wiki/Q7929446
+http://www.aberdeenships.com/single.asp?index=119840 "119840" : "Q7929446"
+name: VIKING
+wikidata: https://wikidata.org/wiki/Q84711989
+http://www.aberdeenships.com/single.asp?index=119840 "119840" : "Q84711989"
+name: VIKINGS
+wikidata: https://wikidata.org/wiki/Q3558274
+http://www.aberdeenships.com/single.asp?index=101466 "101466" : "Q3558274"
+http://www.aberdeenships.com/single.asp?index=101521 "101521" : "Q3558274"
+name: VIOLET
+wikidata: https://wikidata.org/wiki/Q52375470
+http://www.aberdeenships.com/single.asp?index=99711 "99711" : "Q52375470"
+http://www.aberdeenships.com/single.asp?index=99993 "99993" : "Q52375470"
+http://www.aberdeenships.com/single.asp?index=136378 "136378" : "Q52375470"
+name: VISITOR
+wikidata: https://wikidata.org/wiki/Q84260697
+http://www.aberdeenships.com/single.asp?index=99975 "99975" : "Q84260697"
+name: WATERLOO
+wikidata: https://wikidata.org/wiki/Q20870494
+http://www.aberdeenships.com/single.asp?index=107620 "107620" : "Q20870494"
+name: WATERLOO
+wikidata: https://wikidata.org/wiki/Q24026954
+http://www.aberdeenships.com/single.asp?index=107620 "107620" : "Q24026954"
+name: WATERLOO
+wikidata: https://wikidata.org/wiki/Q7974207
+http://www.aberdeenships.com/single.asp?index=107620 "107620" : "Q7974207"
+name: WAVE
+wikidata: https://wikidata.org/wiki/Q22570359
+http://www.aberdeenships.com/single.asp?index=100039 "100039" : "Q22570359"
+http://www.aberdeenships.com/single.asp?index=100707 "100707" : "Q22570359"
+name: WAVE
+wikidata: https://wikidata.org/wiki/Q27868049
+http://www.aberdeenships.com/single.asp?index=100039 "100039" : "Q27868049"
+http://www.aberdeenships.com/single.asp?index=100707 "100707" : "Q27868049"
+name: WAVE
+wikidata: https://wikidata.org/wiki/Q55759110
+http://www.aberdeenships.com/single.asp?index=100039 "100039" : "Q55759110"
+http://www.aberdeenships.com/single.asp?index=100707 "100707" : "Q55759110"
+name: WAVE
+wikidata: https://wikidata.org/wiki/Q83627932
+http://www.aberdeenships.com/single.asp?index=100039 "100039" : "Q83627932"
+http://www.aberdeenships.com/single.asp?index=100707 "100707" : "Q83627932"
+name: WELCOME
+wikidata: https://wikidata.org/wiki/Q18156864
+http://www.aberdeenships.com/single.asp?index=100688 "100688" : "Q18156864"
+name: WELLINGTON
+wikidata: https://wikidata.org/wiki/Q24027253
+http://www.aberdeenships.com/single.asp?index=137793 "137793" : "Q24027253"
+name: WILLIAM HANNAM
+wikidata: https://wikidata.org/wiki/Q84711835
+http://www.aberdeenships.com/single.asp?index=99901 "99901" : "Q84711835"
+name: WILLIAM HUMPHRIES
+wikidata: https://wikidata.org/wiki/Q84728066
+http://www.aberdeenships.com/single.asp?index=99898 "99898" : "Q84728066"
+name: WILLIAM
+wikidata: https://wikidata.org/wiki/Q8003877
+http://www.aberdeenships.com/single.asp?index=100759 "100759" : "Q8003877"
+http://www.aberdeenships.com/single.asp?index=152185 "152185" : "Q8003877"
+http://www.aberdeenships.com/single.asp?index=152222 "152222" : "Q8003877"
+name: WILLIAM
+wikidata: https://wikidata.org/wiki/Q84261680
+http://www.aberdeenships.com/single.asp?index=100759 "100759" : "Q84261680"
+http://www.aberdeenships.com/single.asp?index=152185 "152185" : "Q84261680"
+http://www.aberdeenships.com/single.asp?index=152222 "152222" : "Q84261680"
+name: WILLIAM STROUD
+wikidata: https://wikidata.org/wiki/Q84727874
+http://www.aberdeenships.com/single.asp?index=100421 "100421" : "Q84727874"
+name: WINDSOR CASTLE
+wikidata: https://wikidata.org/wiki/Q19563538
+http://www.aberdeenships.com/single.asp?index=99596 "99596" : "Q19563538"
+http://www.aberdeenships.com/single.asp?index=101060 "101060" : "Q19563538"
+name: WIZARD
+wikidata: https://wikidata.org/wiki/Q84709451
+http://www.aberdeenships.com/single.asp?index=100075 "100075" : "Q84709451"
