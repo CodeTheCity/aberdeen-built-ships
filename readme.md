@@ -29,18 +29,19 @@ To complete the project the following needs to be done
 
 # Wikidata Ship Properties
 
-The following have been identified as potential Wikidata statements that we need to consider using. Not all ships will have all data available. Core ones have _(c)_ after them.
+The following have been identified as potential Wikidata statements that we need to consider using. Not all ships will have all data available. Core ones have __(*)__ after them.
 
-1. Label (c)
-2. Description (c)
-3. Instance of (P31) (c)
+1. Label __(*)__
+2. Description __(*)__
+3. Instance of (P31) __(*)__
  - Ship or if available a subclass such as 
  - Schooner
  - Clipper
  - Whaler
- - Brig etc
-4. Name (P2561) - or official name (P1448)?? - (c) could have multiple values with dates for start + end
-5. Abedeen Built Ships ID (P8260) (c)
+ - Brig etc. 
+ Note - this can be multiples. 
+4. Name (P2561) - or official name (P1448)?? - __(*)__ could have multiple values with dates for start + end
+5. Abedeen Built Ships ID (P8260) __(*)__
 6. Significant event (P793)
 Include possible such as order (Q566889), keel laying (Q14592615), ceremonial ship launching (Q596643), ship decomissioning (Q7497952), shipwrecking (Q906512), but also sea voyage etc. each with point in time (P585). Voyages could have destination and start and end dates. Also destruction, breaking up etc.
 7. Cost (P2130)
@@ -52,8 +53,8 @@ Include possible such as order (Q566889), keel laying (Q14592615), ceremonial sh
 11. Number of masts (P1099)
 12. Speed (P2052)
 13. Manufacturer (P176) - take values from table of Ship builders
-14. location of creation (P1071) -  Aberdeen (Q36405)
-15 Country of origin (P495) - GB 1701-1801, UK GBNI 1801-1927, UK (1927-)
+14. location of creation (P1071) -  Aberdeen (Q36405) __(*)__
+15 Country of origin (P495) - GB 1701-1801, UK GBNI 1801-1927, UK (1927-) __(*)__
 16. Service entry (P729)
 17. Service Retirement (P730)
 18. Described at URL (P973) with a link to ABS (maybe not given we'll have specific ABS ID)
