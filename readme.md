@@ -53,8 +53,8 @@ Include possible such as order (Q566889), keel laying (Q14592615), ceremonial sh
 11. Number of masts (P1099)
 12. Speed (P2052)
 13. Manufacturer (P176) - take values from table of Ship builders
-14. location of creation (P1071) -  Aberdeen (Q36405) __(*)__
-15 Country of origin (P495) - GB 1701-1801, UK GBNI 1801-1927, UK (1927-) __(*)__
+14. location of creation (P1071) -  Aberdeen (Q36405) __(*)__ 
+15. Country of origin (P495) - GB 1701-1801, UK GBNI 1801-1927, UK (1927-) __(*)__
 16. Service entry (P729)
 17. Service Retirement (P730)
 18. Described at URL (P973) with a link to ABS (maybe not given we'll have specific ABS ID)
