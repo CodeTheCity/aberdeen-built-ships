@@ -16,7 +16,7 @@ So far the following has been accomplished.
 # Next Steps?
 To complete the project the following needs to be done
 
-- Isolate ships that have no WIkidata identifier
+- Isolate ships that have no WIkidata identifier - i.e. any one not in the [list of 59 positive matches](Matches_WD_ABS.csv).
 - Decide on best route to bulk upload - eg Quickstatements. This may be useful: [Wikidata Import Guide](https://www.wikidata.org/wiki/Wikidata:Data_Import_Guide)
 - Agree a core set of data for each ship that will parsed from [ships.json](ships.json) to be added to Wikidata - e.g. name, year, builder, tonnage, length etc
 - Create a script to output text that can be dropped into a CSV or other file to be used by QuickStatements (assuming that to be the right tool) for bulk input ensuring links for shipbuilder IDs and ABS identifiers are used. 
