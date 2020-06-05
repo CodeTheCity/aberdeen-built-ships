@@ -2,7 +2,10 @@ This project started at [Code the City 19 History and Data event](https://codeth
 
 It's purpose is to gather data on [Aberdeen-built ships](http://www.aberdeenships.com), with the permission of the site's owners, and to push that bulk of data onto [Wikidata](https://www.wikidata.org) as open data, with links back to the Aberdeen Ships site through using a new identifier. 
 
-# Progress to date (_updated 05 Jun 2020_)
+# Progress to date
+
+### updated 05 Jun 2020
+
 So far the following has been accomplished.
 
 - The script [get_ids.py](get_ids.py) gathers all the ship IDs from [Aberdeen-built ships](http://www.aberdeenships.com) and writes them to [ids.txt](ids.txt).
@@ -18,11 +21,43 @@ To complete the project the following needs to be done
 
 - Isolate ships that have no WIkidata identifier - i.e. any one not in the [list of 59 positive matches](Matches_WD_ABS.csv).
 - Decide on best route to bulk upload - eg Quickstatements. This may be useful: [Wikidata Import Guide](https://www.wikidata.org/wiki/Wikidata:Data_Import_Guide)
-- Agree a core set of data for each ship that will parsed from [ships.json](ships.json) to be added to Wikidata - e.g. name, year, builder, tonnage, length etc
+- Agree a core set of data for each ship that will parsed from [ships.json](ships.json) to be added to Wikidata. See Core Identifiers below. 
 - Create a script to output text that can be dropped into a CSV or other file to be used by QuickStatements (assuming that to be the right tool) for bulk input ensuring links for shipbuilder IDs and ABS identifiers are used. 
 - deal with adding data to existing 59 wikidata entries 
 - Develop a means of monitoring both the original ABS system (rescrape periodically and do a diff on the file in some way? ) and monitor Wikidata for changes to the ships records (Wikidata query, executed periodically, generating a CSV download and checked for differences from previous runs?) to feed back to ABS. 
 
 
-## Wikidata Identifier
-A request to [create an identifier](https://www.wikidata.org/wiki/Wikidata:Property_proposal/Aberdeen_Built_Ships_ID) for Aberdeen Ships is currently pending. 
+# Wikidata Ship Properties
+
+The following have been identified as potential Wikidata statements that we need to consider using. Not all ships will have all data available. Core ones have _(c)_ after them.
+
+1. Label (c)
+2. Description (c)
+3. Instance of (P31) (c)
+ - Ship or if available a subclass such as 
+ - Schooner
+ - Clipper
+ - Whaler
+ - Brig etc
+4. Name (P2561) - or official name (P1448)?? - (c) could have multiple values with dates for start + end
+5. Abedeen Built Ships ID (P8260) (c)
+6. Significant event (P793)
+Include possible such as order (Q566889), keel laying (Q14592615), ceremonial ship launching (Q596643), ship decomissioning (Q7497952), shipwrecking (Q906512), but also sea voyage etc. each with point in time (P585). Voyages could have destination and start and end dates. Also destruction, breaking up etc.
+7. Cost (P2130)
+8. Mass (P2067)
+9. Gross Tonnage (P1093)
+9. Length (P2043)
+9. Beam (P2261)
+10.Draft (P2262)
+11. Number of masts (P1099)
+12. Speed (P2052)
+13. Manufacturer (P176) - take values from table of Ship builders
+14. location of creation (P1071) -  Aberdeen (Q36405)
+15 Country of origin (P495) - GB 1701-1801, UK GBNI 1801-1927, UK (1927-)
+16. Service entry (P729)
+17. Service Retirement (P730)
+18. Described at URL (P973) with a link to ABS (maybe not given we'll have specific ABS ID)
+19. Country of Registry (P8047) - could have numerous values / dates
+20. Home port (P504)  - could have numerous values / dates
+
+
