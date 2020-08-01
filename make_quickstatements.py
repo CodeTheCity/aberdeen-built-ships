@@ -6,6 +6,8 @@ with open('ships.json') as f:
 
 def description(s):
     t = s['Type'].title() if 'Type' in s.keys() else 'Ship'
+    t = t.replace('\r', '')
+    t = t.replace('\n', '')
     if 'Date' in s.keys():
         d = ' in '+s['Date']
     else:
