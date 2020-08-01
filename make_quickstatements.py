@@ -25,15 +25,14 @@ for s in ships:
                 '"{}"'.format(s['Name']), #Len
                 description(s), # Den
                 'Q11446', # Instance of ship
-                '"{}"'.format(s['Name']), # Name
                 s['id'], # ABS ID
                 'Q36405', # Built in Aberdee
-                s['Date'],
+                "+"+s['Date']+"-01-01T00:00:00Z/9",
             ]))
 
 
 with open('qs.csv', 'w') as qs:
-    qs.write('qid, Len, Den, P31, P2561, P8260, P1071, P571\n')
+    qs.write('qid,Len,Den,P31,P8260,P1071,P571\n')
     for l in lines:
         qs.write(l)
         qs.write('\n')
