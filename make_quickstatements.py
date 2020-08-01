@@ -22,10 +22,10 @@ for s in ships:
         if s['Name'] not in ['', 'UNKNOWN', 'UNNAMED']:
             lines.append(','.join([
                 '', #qid
-                s['Name'], #Len
+                '"{}"'.format(s['Name']), #Len
                 description(s), # Den
                 'Q11446', # Instance of ship
-                s['Name'], # Name
+                '"{}"'.format(s['Name']), # Name
                 s['id'], # ABS ID
                 'Q36405', # Built in Aberdee
                 s['Date'],
