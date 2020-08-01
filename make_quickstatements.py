@@ -17,23 +17,15 @@ def description(s):
 already = [x[1] for x in wd_mappings.get_wd_abs_mappings()]
 
 lines = []
-for s in ships:
-    if s['id'] not in already:
-        if s['Name'] not in ['', 'UNKNOWN', 'UNNAMED']:
-            lines.append(','.join([
-                '', #qid
-                '"{}"'.format(s['Name']), #Len
-                description(s), # Den
-                'Q11446', # Instance of ship
-                s['id'], # ABS ID
-                'Q36405', # Built in Aberdee
-                "+"+s['Date']+"-01-01T00:00:00Z/9",
-            ]))
+with open('qs.tsv', 'w') as qs:
+    for s in ships:
+        if s['id'] not in already:
+            if s['Name'] not in ['', 'UNKNOWN', 'UNNAMED']:
+                qs.write('CREATE\n')
+                qs.write('LAST\tLen\t"{}"\n'.format(s['Name']))
+                qs.write('LAST\tDen\t{}\n'.format(description(s)))
+                qs.write('LAST\tP31\tQ11446\n')
+                qs.write('LAST\tP8260\t"{}"\n'.format(s['id']))
+                qs.write('LAST\tP1071\tQ36405\n')
+                qs.write('LAST\tP571\t+{}-01-01T00:00:00Z/9\n'.format(s['Date']))
 
-
-with open('qs.csv', 'w') as qs:
-    qs.write('qid,Len,Den,P31,P8260,P1071,P571\n')
-    for l in lines:
-        qs.write(l)
-        qs.write('\n')
-    
