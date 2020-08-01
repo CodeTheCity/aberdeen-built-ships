@@ -19,16 +19,17 @@ already = [x[1] for x in wd_mappings.get_wd_abs_mappings()]
 lines = []
 for s in ships:
     if s['id'] not in already:
-        lines.append(','.join([
-            '', #qid
-            s['Name'], #Len
-            description(s), # Den
-            'Q11446', # Instance of ship
-            s['Name'], # Name
-            s['id'], # ABS ID
-            'Q36405', # Built in Aberdee
-            s['Date'],
-        ]))
+        if s['Name'] not in ['', 'UNKNOWN', 'UNNAMED']:
+            lines.append(','.join([
+                '', #qid
+                s['Name'], #Len
+                description(s), # Den
+                'Q11446', # Instance of ship
+                s['Name'], # Name
+                s['id'], # ABS ID
+                'Q36405', # Built in Aberdee
+                s['Date'],
+            ]))
 
 
 with open('qs.csv', 'w') as qs:
