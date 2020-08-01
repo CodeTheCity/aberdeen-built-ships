@@ -33,7 +33,7 @@ for s in ships:
 
 
 with open('qs.csv', 'w') as qs:
-    qs.write('qid, Len, Den, P31, P2561, P8260, P1071, P729\n')
+    qs.write('qid, Len, Den, P31, P2561, P8260, P1071, P571\n')
     for l in lines:
         qs.write(l)
         qs.write('\n')
