@@ -17,11 +17,29 @@ So far the following has been accomplished.
 - The the [list of all 904 ships](possibly_already_exist_with_links.txt) that possibly existed in Wikidata has been manually checked. the resulting [list of 59 positive matches](Matches_WD_ABS.csv) has been created with a one-to-one mapping between Wikidata entry and ABS ids. 
 - The file [ship_types.py](ship_types.py) checks [ships.json](ships.json) and constructs a list of all ship types and a frequency count of their appearance, writing it out to [ship_types.csv](ship_types.csv). Currently there are 207 distinct types of ship!! 
 
+## CTC20 1-2 Aug 2020 
+
+Some core data was imported into wikidata for most of the ships, excluded some from the import as the name field was blank or UNKNOWN or UNNAMED. 
+
+Was initially trying to use the CSV format for wikidata quickstatements, but couldn't get this to work so switched to the TSV version. [A python script](make_quickstatements.py) was written to write the [quickstatements file](qs.tsv) that could then be copied into the [quickstatements batch import tool](https://quickstatements.toolforge.org/#/batch). The import had 2 errors for ships that had a range of years in the Date so generated invalid dates in the quickstatements. These (and 2 duplicates that I noticed after the import) are [noted](errors.txt) to correct later.
+
+The ABS ID property (P8260) was manually added to the ships that already existed in wikidata.
+
+The [mappings between QID and ABS ID](mapping.csv) was found from SPARQL query:
+```
+SELECT ?qid ?absid
+WHERE
+{
+  ?qid wdt:P8260 ?absid.
+}
+```
+
 # Next Steps?
 To complete the project the following needs to be done
 
 - Rationalise all ship builders that exist in [ship_builders.csv](ship_builders.csv) - deduplicating these and create Wikidata entries for each we will use. 
 - Rationalise all ship types that exist in [ship_types.csv](ship_types.csv) - deduplicating these and create Wikidata entries for each we will use. 
+- Extract/rationalise data from some of the fields, e.g. we have one dimensions field rather than separate fields for length/beam/draft/... and what's there is inconsistent
 - Isolate ships that have no Wikidata identifier - i.e. any one not in the [list of 59 positive matches](Matches_WD_ABS.csv). Set aside those which have entries for later processing. 
 - Decide on best route to bulk upload - eg Quickstatements. This may be useful: [Wikidata Import Guide](https://www.wikidata.org/wiki/Wikidata:Data_Import_Guide)
 - Agree a core set of data for each ship that will parsed from [ships.json](ships.json) to be added to Wikidata. See _Wikidata Ship Properties_ below. 
@@ -52,7 +70,7 @@ Include possible such as order (Q566889), keel laying (Q14592615), ceremonial sh
 9. Gross Tonnage (P1093)
 9. Length (P2043)
 9. Beam (P2261)
-10.Draft (P2262)
+10. Draft (P2262)
 11. Number of masts (P1099)
 12. Speed (P2052)
 13. Manufacturer (P176) - take values from table of Ship builders
