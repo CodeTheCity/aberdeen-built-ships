@@ -1,4 +1,4 @@
 GAZELLE 106351 Date is a range of years (1846-1860)
 ISABELLA 137033 Again date is a range (1814-1815)
-GLITTER  (Q97985392) needs merged with HMS Glitter (Q5632579)
-Scottish Maid (Q2261174) needs merged with SCOTTISH MAID  (Q97987521)
+DONE 07 Aug 2020 - GLITTER  (Q97985392) merged with HMS Glitter (Q5632579)
+DONE 07 Aug 2020 - Scottish Maid (Q2261174) merged with SCOTTISH MAID  (Q97987521)

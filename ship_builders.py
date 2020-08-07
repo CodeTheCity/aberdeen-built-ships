@@ -1,5 +1,3 @@
-from __future__ import print_function
-
 import json
 
 with open("ships.json") as f:
@@ -8,9 +6,9 @@ with open("ships.json") as f:
 ship_builders = {}
 for s in built_ships_tbl:
     builder = ""
-    if s.has_key('Shipbuilder'):
+    if 'Shipbuilder' in s:
         builder = s['Shipbuilder']
-    elif s.has_key('Builder'):
+    elif 'Builder' in s:
         builder = s['Builder']
     if builder:
         if builder in ship_builders:
