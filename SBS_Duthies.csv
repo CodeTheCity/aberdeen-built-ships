@@ -1,0 +1,509 @@
+Year,Order_Num,Yard_Num,Vessel_Type,Propulsion,Vessel_Name,Builder,SBS_link
+1857,20198,,Passenger / Cargo,Sailing Vessel,ROBERT HENDERSON,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56759&vessel=ROBERT+HENDERSON
+1860,27574,,Cargo,Sailing Vessel,RIFLEMAN,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56760&vessel=RIFLEMAN
+1861,43554,,Cargo,Sailing Vessel,BEAUTIFUL STAR,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56762&vessel=BEAUTIFUL+STAR
+1863,45214,,Cargo,Sailing Vessel,MARTHA BIRNIE,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56764&vessel=MARTHA+BIRNIE
+1864,48852,,Cargo,Sailing Vessel,SATZUMA,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56765&vessel=SATZUMA
+1865,48869,,Passenger / Cargo,Sailing Vessel,STRATHNAVER,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56767&vessel=STRATHNAVER
+1867,56600,,Passenger / Cargo,Sailing Vessel,ALEXANDER DUTHIE,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56769&vessel=ALEXANDER+DUTHIE
+1858,21467,,Cargo,Sailing Vessel,HUGUENOT,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=53021&vessel=HUGUENOT
+1860,27579,,Cargo,Sailing Vessel,WATER LILY,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56761&vessel=WATER+LILY
+1862,44431,,Cargo,Sailing Vessel,PRINCE ALFRED,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=53024&vessel=PRINCE+ALFRED
+1864,50108,,Passenger / Cargo,Sailing Vessel,GLENMARK,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56215&vessel=GLENMARK
+1865,,,Cargo,Sailing Vessel,SOVEREIGN,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56766&vessel=SOVEREIGN
+1866,53251,,Cargo,Sailing Vessel,COUNTESS OF KINTORE,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56768&vessel=COUNTESS+OF+KINTORE
+1870,64360,,Cargo,Sailing Vessel,MARY BLAIR,William Duthie Jnr. & Co.,view.php?a1Page=1&a1PageSize=210&builder=2040&ref=56771&vessel=MARY+BLAIR
+,,190,,,blank ?,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53704&vessel=blank+%3F
+,,222,,,blank ?,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53736&vessel=blank+%3F
+1862,44435,,Cargo,Sailing Vessel,PRINCE CONSORT,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53648&vessel=PRINCE+CONSORT
+1863,47305,,Cargo,Sailing Vessel,ASSHUR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53650&vessel=ASSHUR
+1864,48853,,Cargo,Sailing Vessel,SIR JOHN LAWRENCE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53652&vessel=SIR+JOHN+LAWRENCE
+1865,52594,,Passenger / Cargo,Sailing Vessel,PETER DENNY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53654&vessel=PETER+DENNY
+1866,53253,,Cargo,Sailing Vessel,CATTOFIELD,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53656&vessel=CATTOFIELD
+1867,56602,,Cargo,Sailing Vessel,AGNES ROSE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53658&vessel=AGNES+ROSE
+1868,60684,,Cargo,Sailing Vessel,CARLIN CRAIG,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53660&vessel=CARLIN+CRAIG
+1868,60783,,Cargo,Sailing Vessel,DEODARUS,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53662&vessel=DEODARUS
+1869,60693,,Cargo,Sailing Vessel,ABERGELDIE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53664&vessel=ABERGELDIE
+1871,65084,152,Cargo,Sailing Vessel,MERCURY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53666&vessel=MERCURY
+1872,64420,154,Cargo,Sailing Vessel,WILLIAM MANSON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53668&vessel=WILLIAM+MANSON
+1874,65107,156,Cargo,Sailing Vessel,CAIRNBULG,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53670&vessel=CAIRNBULG
+1876,70448,159,Cargo,Sailing Vessel,ALEXANDER NICOL,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53673&vessel=ALEXANDER+NICOL
+1877,77437,158,Passenger / Cargo,Sailing Vessel,BRILLIANT,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53672&vessel=BRILLIANT
+1881,82846,162,Passenger / Cargo,Screw Steamer,SEEWO,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53676&vessel=SEEWO
+1883,88851,164,Fishing,Screw Steamer,NORTH STAR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53678&vessel=NORTH+STAR
+1883,88854,166,Coaster,Screw Steamer,DON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53680&vessel=DON
+1889,94258,168,Coaster,Screw Steamer,CLUNIE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53682&vessel=CLUNIE
+1890,98543,170,Cargo,Screw Steamer,RENOWN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53684&vessel=RENOWN
+1891,97840,172,Fishing,Screw Steamer,CARIAMA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53686&vessel=CARIAMA
+1891,98997,174,Coaster,Screw Steamer,GOLFER,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53688&vessel=GOLFER
+1892,99632,176,Fishing,Screw Steamer,SUNRAY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53690&vessel=SUNRAY
+1894,104506,180,Fishing,Screw Steamer,SUNLIGHT,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53694&vessel=SUNLIGHT
+1896,105082,178,Coaster,Screw Steamer,HALLER,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53692&vessel=HALLER
+1896,105179,182,Fishing,Screw Steamer,SKOMER,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53696&vessel=SKOMER
+1896,106540,184,Fishing,Screw Steamer,DRUMBLADE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53698&vessel=DRUMBLADE
+1896,107046,186,Fishing,Screw Steamer,SEA SWALLOW,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53700&vessel=SEA+SWALLOW
+1897,108421,188,Fishing,Screw Steamer,SEA EAGLE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53702&vessel=SEA+EAGLE
+1897,108426,191,Fishing,Screw Steamer,DORIS,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53705&vessel=DORIS
+1898,,194,Fishing,Screw Steamer,HOLLAND II,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53708&vessel=HOLLAND+II
+1898,108430,196,Fishing,Screw Steamer,KALMIA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53710&vessel=KALMIA
+1898,108432,198,Fishing,Screw Steamer,MAGNOLIA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53712&vessel=MAGNOLIA
+1899,108436,199,Fishing,Screw Steamer,NEMOPHILA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53713&vessel=NEMOPHILA
+1899,108437,201,Fishing,Screw Steamer,PETUNIA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53715&vessel=PETUNIA
+1899,,203,Fishing,Screw Steamer,HOLLAND IV,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53717&vessel=HOLLAND+IV
+1899,110893,205,Fishing,Screw Steamer,ARABIAN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53719&vessel=ARABIAN
+1899,112452,207,Fishing,Screw Steamer,DOWLAIS,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53721&vessel=DOWLAIS
+1899,110929,213,Fishing,Screw Steamer,DOON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53727&vessel=DOON
+1900,112908,209,Fishing,Screw Steamer,DONSIDE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53723&vessel=DONSIDE
+1900,112906,211,Fishing,Screw Steamer,MAREC,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53725&vessel=MAREC
+1900,111270,215,Fishing,Screw Steamer,ARDGOWAN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53729&vessel=ARDGOWAN
+1900,105643,217,Fishing,Screw Steamer,MORNING STAR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53731&vessel=MORNING+STAR
+1900,112928,219,Fishing,Screw Steamer,BRAEMAR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53733&vessel=BRAEMAR
+1900,112940,223,Fishing,Screw Steamer,SUNSHINE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53737&vessel=SUNSHINE
+1901,114191,225,Fishing,Screw Steamer,SEA HORSE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53739&vessel=SEA+HORSE
+1901,114196,227,Fishing,Screw Steamer,ABOYNE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53741&vessel=ABOYNE
+1901,114188,229,Fishing,Screw Steamer,CHARITY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53743&vessel=CHARITY
+1901,115553,231,Fishing,Screw Steamer,ST NICHOLAS,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53745&vessel=ST+NICHOLAS
+1902,115561,233,Fishing,Screw Steamer,PETREL,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53747&vessel=PETREL
+1902,115565,235,Fishing,Screw Steamer,CAIRNGORM,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53749&vessel=CAIRNGORM
+1902,115573,238,Coaster,Screw Steamer,ALASTAIR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53752&vessel=ALASTAIR
+1902,115575,239,Fishing,Screw Steamer,MORVEN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53753&vessel=MORVEN
+1902,115585,241,Fishing,Screw Steamer,LOCH STENNESS,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53755&vessel=LOCH+STENNESS
+1903,118165,243,Fishing,Screw Steamer,LOCH LYDOCH,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53757&vessel=LOCH+LYDOCH
+1903,117509,246,Fishing,Screw Steamer,LIBERTY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53760&vessel=LIBERTY
+1903,118168,248,Fishing,Screw Steamer,LOCH CARRON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53762&vessel=LOCH+CARRON
+1903,118173,252,Fishing,Screw Steamer,EDINBURGH,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53766&vessel=EDINBURGH
+1903,118875,256,Fishing,Screw Steamer,SUBLIME,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53770&vessel=SUBLIME
+1904,114303,250,Fishing,Screw Steamer,PORT JACKSON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53764&vessel=PORT+JACKSON
+1904,118689,255,Fishing,Screw Steamer,SUCCESS,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53769&vessel=SUCCESS
+1905,114309,251,Fishing,Screw Steamer,NORBRECK,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53765&vessel=NORBRECK
+1905,122933,259,Fishing,Screw Steamer,THORNTON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53773&vessel=THORNTON
+1906,122935,261,Fishing,Screw Steamer,NEWBRIDGE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53775&vessel=NEWBRIDGE
+1906,122944,264,Fishing,Screw Steamer,WRENTHORPE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53778&vessel=WRENTHORPE
+1906,123366,265,Coaster,Screw Steamer,MARIEN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53779&vessel=MARIEN
+1906,122949,267,Fishing,Screw Steamer,FANNY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53781&vessel=FANNY
+1906,124683,270,Fishing,Screw Steamer,ROCKCLIFFE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53784&vessel=ROCKCLIFFE
+1907,124685,273,Fishing,Screw Steamer,ROSETTA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53785&vessel=ROSETTA
+1907,,275,Fishing,Screw Steamer,GUDRUN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53787&vessel=GUDRUN
+1907,125302,277,Fishing,Screw Steamer,PHILORTH,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53789&vessel=PHILORTH
+,,221,,,blank ?,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53735&vessel=blank+%3F
+1862,43558,,Cargo,Sailing Vessel,CITY OF ABERDEEN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53647&vessel=CITY+OF+ABERDEEN
+1862,44438,,Cargo,Sailing Vessel,WILLIAM DUTHIE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53649&vessel=WILLIAM+DUTHIE
+1863,47388,,Cargo,Sailing Vessel,DUNKELD,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53651&vessel=DUNKELD
+1864,48862,,Cargo,Sailing Vessel,JOHN DUTHIE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53653&vessel=JOHN+DUTHIE
+1866,53245,,Passenger / Cargo,Sailing Vessel,SIR WILLIAM WALLACE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53655&vessel=SIR+WILLIAM+WALLACE
+1866,53256,,Passenger / Cargo,Sailing Vessel,AUSTRALIAN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53657&vessel=AUSTRALIAN
+1867,56605,,Cargo,Sailing Vessel,SIROCCO,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53659&vessel=SIROCCO
+1868,60686,,Passenger / Cargo,Sailing Vessel,ANN DUTHIE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53661&vessel=ANN+DUTHIE
+1869,58881,,Cargo,Sailing Vessel,RESOLUTE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53663&vessel=RESOLUTE
+1870,60698,151,Cargo,Sailing Vessel,WINDSOR CASTLE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53665&vessel=WINDSOR+CASTLE
+1872,65089,153,Cargo,Screw Steamer,LOCH-NA-GAR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53667&vessel=LOCH-NA-GAR
+1873,67344,155,Cargo,Screw Steamer,OPAH,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53669&vessel=OPAH
+1875,70441,157,Cargo,Screw Steamer,ABOYNE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53671&vessel=ABOYNE
+1876,51643,160,Cargo,Sailing Vessel,STAR OF AFRICA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53674&vessel=STAR+OF+AFRICA
+1878,77450,161,Cargo,Screw Steamer,TELEPHONE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53675&vessel=TELEPHONE
+1883,84374,163,Cargo,Screw Steamer,GLASSALT,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53677&vessel=GLASSALT
+1883,84375,165,Fishing,Screw Steamer,GIPSY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53679&vessel=GIPSY
+1888,,167,Cargo,Screw Steamer,ADOLF DEPPE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53681&vessel=ADOLF+DEPPE
+1889,94544,169,Fishing,Screw Steamer,NORTH CITY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53683&vessel=NORTH+CITY
+1890,98546,171,Fishing,Screw Steamer,NORTH CAPE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53685&vessel=NORTH+CAPE
+1891,98562,173,Fishing,Screw Steamer,SUNRISE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53687&vessel=SUNRISE
+1891,99016,175,Coaster,Screw Steamer,CURLER,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53689&vessel=CURLER
+1892,99638,177,Fishing,Screw Steamer,SUNBEAM,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53691&vessel=SUNBEAM
+1895,,179,Cargo,Screw Steamer,ELLA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53693&vessel=ELLA
+1896,106531,181,Fishing,Screw Steamer,PETER JOHNSTONE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53695&vessel=PETER+JOHNSTONE
+1896,104118,183,Fishing,Screw Steamer,SEALARK,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53697&vessel=SEALARK
+1896,106539,185,Fishing,Screw Steamer,DRUMBLAIR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53699&vessel=DRUMBLAIR
+1897,106549,187,Yacht,Screw Steamer,WHITE QUEEN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53701&vessel=WHITE+QUEEN
+1897,108425,189,Fishing,Screw Steamer,WEASEL,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53703&vessel=WEASEL
+1898,108428,192,Fishing,Screw Steamer,SEA HAWK,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53706&vessel=SEA+HAWK
+1898,,195,Fishing,Screw Steamer,AUGUSTA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53709&vessel=AUGUSTA
+1898,108433,197,Fishing,Screw Steamer,LOBELIA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53711&vessel=LOBELIA
+1898,108429,193,Fishing,Screw Steamer,SEA FOAM,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53707&vessel=SEA+FOAM
+1899,108439,200,Fishing,Screw Steamer,OTHONNA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53714&vessel=OTHONNA
+1899,,202,Fishing,Screw Steamer,HOLLAND III,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53716&vessel=HOLLAND+III
+1899,110888,204,Fishing,Screw Steamer,INDIAN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53718&vessel=INDIAN
+1899,108672,206,Fishing,Screw Steamer,CITY OF ABERDEEN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53720&vessel=CITY+OF+ABERDEEN
+1899,108676,208,Fishing,Screw Steamer,CALEDONIA I,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53722&vessel=CALEDONIA+I
+1899,110930,214,Fishing,Screw Steamer,DALE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53728&vessel=DALE
+1900,108680,210,Fishing,Screw Steamer,ERN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53724&vessel=ERN
+1900,113168,212,Fishing,Screw Steamer,GOLDSEEKER,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53726&vessel=GOLDSEEKER
+1900,111286,216,Fishing,Screw Steamer,GLENCARSE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53730&vessel=GLENCARSE
+1900,105644,218,Fishing,Screw Steamer,EVENING STAR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53732&vessel=EVENING+STAR
+1900,112932,220,Fishing,Screw Steamer,LADYSMITH,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53734&vessel=LADYSMITH
+1900,110858,224,Fishing,Screw Steamer,BOYNDLIE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53738&vessel=BOYNDLIE
+1901,114192,226,Fishing,Screw Steamer,PRINCESS MELTON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53740&vessel=PRINCESS+MELTON
+1901,114197,228,Fishing,Screw Steamer,DEVANHA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53742&vessel=DEVANHA
+1901,112460,230,Fishing,Screw Steamer,CALYPSO,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53744&vessel=CALYPSO
+1901,115555,232,Fishing,Screw Steamer,ST MACHAR,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53746&vessel=ST+MACHAR
+1902,,234,Fishing,Screw Steamer,KER-BIHAN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53748&vessel=KER-BIHAN
+1902,115566,236,Fishing,Screw Steamer,CAIRNTOUL,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53750&vessel=CAIRNTOUL
+1902,115569,237,Fishing,Screw Steamer,GEORGE GRIMMER,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53751&vessel=GEORGE+GRIMMER
+1902,115580,240,Fishing,Screw Steamer,BRAERIACH,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53754&vessel=BRAERIACH
+1903,118162,242,Fishing,Screw Steamer,LOCH TAY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53756&vessel=LOCH+TAY
+1903,115590,244,Fishing,Screw Steamer,LOCH TORRIDON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53758&vessel=LOCH+TORRIDON
+1903,118874,247,Fishing,Screw Steamer,COMMODORE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53761&vessel=COMMODORE
+1903,118674,249,Fishing,Screw Steamer,ROBIN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53763&vessel=ROBIN
+1903,118178,253,Fishing,Screw Steamer,SCHIEHALLION,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53767&vessel=SCHIEHALLION
+1903,118163,245,Yacht,Sailing Vessel,MO-RUN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53759&vessel=MO-RUN
+1904,118687,254,Fishing,Screw Steamer,WHITE LILY,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53768&vessel=WHITE+LILY
+1904,118690,257,Fishing,Screw Steamer,VIOLET,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53771&vessel=VIOLET
+1905,114310,258,Fishing,Screw Steamer,MARTON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53772&vessel=MARTON
+1905,122934,260,Fishing,Screw Steamer,TETTENHALL,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53774&vessel=TETTENHALL
+1906,122942,263,Fishing,Screw Steamer,MERRYDALE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53777&vessel=MERRYDALE
+1906,122940,262,Fishing,Screw Steamer,BOSCOBEL,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53776&vessel=BOSCOBEL
+1906,123367,266,Fishing,Screw Steamer,LOCH AVON,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53780&vessel=LOCH+AVON
+1906,123602,268,Fishing,Screw Steamer,DILIGENCE,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53782&vessel=DILIGENCE
+1907,,269,Fishing,Screw Steamer,OCEAN,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53783&vessel=OCEAN
+1907,,274,Fishing,Screw Steamer,GERDA,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53786&vessel=GERDA
+1907,119622,276,Fishing,Screw Steamer,GRATEFUL,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53788&vessel=GRATEFUL
+1907,125309,278,Fishing,Screw Steamer,EXCEL,"John Duthie, Sons & Co.",view.php?a1Page=1&a1PageSize=210&builder=2042&ref=53790&vessel=EXCEL
+,,274,,,unknown,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54843&vessel=unknown
+,,333,,,unknown,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54902&vessel=unknown
+,,436,,,unknown,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55005&vessel=unknown
+,,462,,,unknown,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55031&vessel=unknown
+1904,119655,264,Fishing,Screw Steamer,CHOICE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55038&vessel=CHOICE
+1904,119661,266,Fishing,Screw Steamer,LADYSMITH,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55040&vessel=LADYSMITH
+1904,119670,270,Fishing,Screw Steamer,UNITY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55042&vessel=UNITY
+1904,,273,Fishing,Screw Steamer,MARS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=61216&vessel=MARS
+1905,,276,Fishing,Screw Steamer,ALEXANDRA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54845&vessel=ALEXANDRA
+1905,121605,279,Fishing,Screw Steamer,ALPHA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54848&vessel=ALPHA
+1906,123352,281,Fishing,Screw Steamer,BEN CRUACHAN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54850&vessel=BEN+CRUACHAN
+1906,,283,Fishing,Screw Steamer,VENUS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54852&vessel=VENUS
+1906,123369,285,Fishing,Screw Steamer,BEN ROY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54854&vessel=BEN+ROY
+1906,114285,287,Fishing,Screw Steamer,QUEEN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54856&vessel=QUEEN
+1906,119609,289,Fishing,Screw Steamer,SPARKLING STAR,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54858&vessel=SPARKLING+STAR
+1906,123368,291,Fishing,Screw Steamer,STAR OF LIBERTY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54860&vessel=STAR+OF+LIBERTY
+1906,,294,Fishing,Screw Steamer,BUNTE KUH,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54863&vessel=BUNTE+KUH
+1907,124697,272,Fishing,Screw Steamer,ELISE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54841&vessel=ELISE
+1907,127137,295,Fishing,Screw Steamer,BEN ROSSAL,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54864&vessel=BEN+ROSSAL
+1907,124637,297,Fishing,Screw Steamer,PROTECT,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54866&vessel=PROTECT
+1907,123380,300,Fishing,Screw Steamer,ABBEYDALE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54869&vessel=ABBEYDALE
+1907,123385,302,Fishing,Screw Steamer,RIVERDALE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54871&vessel=RIVERDALE
+1907,124657,304,Fishing,Screw Steamer,MIGNONETTE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54873&vessel=MIGNONETTE
+1907,119629,306,Fishing,Screw Steamer,MAGGIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54875&vessel=MAGGIE
+1907,125841,308,Fishing,Screw Steamer,TREASURE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54877&vessel=TREASURE
+1907,125830,310,Fishing,Screw Steamer,CAMPERDOWN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54879&vessel=CAMPERDOWN
+1907,127133,313,Fishing,Screw Steamer,ISCO,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54882&vessel=ISCO
+1908,,299,Fishing,Screw Steamer,VENUS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54868&vessel=VENUS
+1908,125318,314,Fishing,Screw Steamer,CLARION,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54883&vessel=CLARION
+1908,125321,316,Fishing,Screw Steamer,FAIR ISLE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54885&vessel=FAIR+ISLE
+1908,125946,318,Fishing,Screw Steamer,VERDURE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54887&vessel=VERDURE
+1908,128375,320,Fishing,Screw Steamer,MAGNET III,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54889&vessel=MAGNET+III
+1908,127156,324,Fishing,Screw Steamer,STAR OF BRITAIN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54893&vessel=STAR+OF+BRITAIN
+1908,125325,326,Fishing,Screw Steamer,JEANIE ROBERTSON,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54895&vessel=JEANIE+ROBERTSON
+1908,128743,331,Fishing,Screw Steamer,LYDIAN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54900&vessel=LYDIAN
+1909,125328,321,Fishing,Screw Steamer,ARDLAW,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54890&vessel=ARDLAW
+1909,128382,329,Fishing,Screw Steamer,CRAIG-BO,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54898&vessel=CRAIG-BO
+1909,,334,Fishing,Screw Steamer,ELSIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54903&vessel=ELSIE
+1910,144789,336,Fishing,Screw Steamer,DRIVER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54905&vessel=DRIVER
+1910,131243,338,Fishing,Screw Steamer,HEATHERY BRAE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54907&vessel=HEATHERY+BRAE
+1910,131246,340,Fishing,Screw Steamer,COULARDBANK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54909&vessel=COULARDBANK
+1910,127082,342,Fishing,Screw Steamer,CHARMOUTH,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54911&vessel=CHARMOUTH
+1910,131261,344,Fishing,Screw Steamer,WHINNIE KNOWE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54913&vessel=WHINNIE+KNOWE
+1910,129344,346,Fishing,Screw Steamer,LOCH LEE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54915&vessel=LOCH+LEE
+1911,129352,348,Fishing,Screw Steamer,CRATHIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54917&vessel=CRATHIE
+1911,,350,Fishing,Screw Steamer,REPUBLICA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54919&vessel=REPUBLICA
+1911,,352,Fishing,Screw Steamer,VOADOR,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54921&vessel=VOADOR
+1911,127329,354,Fishing,Screw Steamer,SPEEDWELL V,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54923&vessel=SPEEDWELL+V
+1911,132771,356,Fishing,Screw Steamer,MAID O'MORAY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54925&vessel=MAID+O%27MORAY
+1911,127336,357,Fishing,Screw Steamer,BETSY SLATER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54926&vessel=BETSY+SLATER
+1911,132776,360,Fishing,Screw Steamer,NORTHERN SCOT,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54929&vessel=NORTHERN+SCOT
+1911,129369,362,Fishing,Screw Steamer,COPIA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54931&vessel=COPIA
+1912,,364,Naval,Screw Steamer,ESTHER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54933&vessel=ESTHER
+1912,129376,366,Fishing,Screw Steamer,TARANAKI,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54935&vessel=TARANAKI
+1912,132956,368,Fishing,Screw Steamer,YOUNG SID,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54937&vessel=YOUNG+SID
+1912,,370,Fishing,Screw Steamer,PETREL,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54939&vessel=PETREL
+1912,127356,372,Fishing,Screw Steamer,UBERTY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54941&vessel=UBERTY
+1912,132371,374,Fishing,Screw Steamer,JOHN ROBERT,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54943&vessel=JOHN+ROBERT
+1912,132971,376,Fishing,Screw Steamer,S. D. J.,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54945&vessel=S.+D.+J.
+1912,127358,378,Fishing,Screw Steamer,SWIFTWING,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54947&vessel=SWIFTWING
+1912,133615,381,Fishing,Screw Steamer,VALE OF ENDRICK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54950&vessel=VALE+OF+ENDRICK
+1912,133614,380,Fishing,Screw Steamer,LOCH MORAR,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54949&vessel=LOCH+MORAR
+1913,132414,384,Fishing,Screw Steamer,MANOR,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54953&vessel=MANOR
+1913,132416,386,Fishing,Screw Steamer,KUMU,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54955&vessel=KUMU
+1913,133628,388,Cargo,Screw Steamer,TILLYCORTHIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54957&vessel=TILLYCORTHIE
+1913,135767,390,Fishing,Screw Steamer,MICHAELMAS DAISY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54959&vessel=MICHAELMAS+DAISY
+1913,,392,Fishing,Screw Steamer,JUPITER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54961&vessel=JUPITER
+1913,133636,394,Fishing,Screw Steamer,ORTHOS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54963&vessel=ORTHOS
+1914,133644,396,Fishing,Screw Steamer,SEMNOS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54965&vessel=SEMNOS
+1914,132419,398,Fishing,Screw Steamer,BEGA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54967&vessel=BEGA
+1914,132420,400,Fishing,Screw Steamer,ASHLYN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54969&vessel=ASHLYN
+1914,136891,402,Fishing,Screw Steamer,WHOOPER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54971&vessel=WHOOPER
+1914,132168,404,Fishing,Screw Steamer,PRIME,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54973&vessel=PRIME
+1914,137157,406,Fishing,Screw Steamer,LOTOS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54975&vessel=LOTOS
+1914,136899,408,Fishing,Screw Steamer,MERSE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54977&vessel=MERSE
+1915,136901,409,Fishing,Screw Steamer,NORSE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54978&vessel=NORSE
+1915,139201,412,Fishing,Screw Steamer,OSTA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54981&vessel=OSTA
+1915,136606,414,Fishing,Screw Steamer,D.H.S.,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54983&vessel=D.H.S.
+1915,137176,416,Fishing,Screw Steamer,DRUMTOCHTY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54985&vessel=DRUMTOCHTY
+1916,137186,418,Fishing,Screw Steamer,LOCH BUIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54987&vessel=LOCH+BUIE
+1916,137194,422,Fishing,Screw Steamer,PELAGOS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54991&vessel=PELAGOS
+1916,139778,424,Fishing,Screw Steamer,LOCH EYE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54993&vessel=LOCH+EYE
+1916,139784,425,Fishing,Screw Steamer,CRATHIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54994&vessel=CRATHIE
+1917,139794,427,Fishing,Screw Steamer,GRACE WETHERLY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54996&vessel=GRACE+WETHERLY
+1917,144325,429,Fishing,Screw Steamer,JAMES ALDRIDGE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54998&vessel=JAMES+ALDRIDGE
+1917,145055,431,Naval,Screw Steamer,THOMAS ANSELL,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55000&vessel=THOMAS+ANSELL
+1917,145087,433,Naval,Screw Steamer,JOHN ABBOTT,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55002&vessel=JOHN+ABBOTT
+1918,144372,435,Naval,Screw Steamer,WILLIAM ASHTON,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55004&vessel=WILLIAM+ASHTON
+1918,145056,438,Naval,Screw Steamer,WILLIAM FERRINS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55007&vessel=WILLIAM+FERRINS
+1918,125372,441,Naval Auxiliary,Screw Steamer,CLOUD,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55010&vessel=CLOUD
+1918,,443,Fishing,Screw Steamer,CRESCENT MOON,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55012&vessel=CRESCENT+MOON
+1918,118610,445,Fishing,Screw Steamer,DAYBREAK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55014&vessel=DAYBREAK
+1918,144592,447,Naval,Screw Steamer,WILLIAM HUMPHRIES,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55016&vessel=WILLIAM+HUMPHRIES
+1919,139806,449,Naval,Screw Steamer,PETER KILLEN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55018&vessel=PETER+KILLEN
+1919,143264,451,Naval,Screw Steamer,WILLIAM LAMBKIN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55020&vessel=WILLIAM+LAMBKIN
+1920,144387,453,Cargo,Screw Steamer,STRIVER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55022&vessel=STRIVER
+1920,141955,455,Fishing,Screw Steamer,MEROA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55024&vessel=MEROA
+1920,140021,458,Fishing,Screw Steamer,MARGARET HIDE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55027&vessel=MARGARET+HIDE
+1922,146434,459,Cargo,Screw Steamer,TRURO,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55028&vessel=TRURO
+1923,147108,461,Cargo,Screw Steamer,ERATO,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55030&vessel=ERATO
+1925,147311,464,Coaster,Screw Steamer,PORTIA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55033&vessel=PORTIA
+1925,139835,466,Pilot,Screw Steamer,T H TILLY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55035&vessel=T+H+TILLY
+,,280,,,unknown,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54849&vessel=unknown
+,,420,,,unknown,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54989&vessel=unknown
+,,439,,,unknown,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55008&vessel=unknown
+,,467,,,unknown,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55036&vessel=unknown
+1904,119657,265,Fishing,Screw Steamer,FRUITFUL,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55039&vessel=FRUITFUL
+1904,119664,267,Fishing,Screw Steamer,LIVONIA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55041&vessel=LIVONIA
+1904,119663,268,Fishing,Screw Steamer,RESEARCH,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55043&vessel=RESEARCH
+1905,118192,275,Cargo,Screw Steamer,BALLOCHBUIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54844&vessel=BALLOCHBUIE
+1905,,277,Fishing,Screw Steamer,LE CORSAIRE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54846&vessel=LE+CORSAIRE
+1905,119676,271,Fishing,Screw Steamer,VICTORY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=59233&vessel=VICTORY
+1906,119606,282,Fishing,Screw Steamer,VICTOR,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54851&vessel=VICTOR
+1906,123362,284,Fishing,Screw Steamer,BEN ALLIGIN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54853&vessel=BEN+ALLIGIN
+1906,119611,286,Fishing,Screw Steamer,GUIDING STAR,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54855&vessel=GUIDING+STAR
+1906,119608,288,Fishing,Screw Steamer,MARY STEPHEN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54857&vessel=MARY+STEPHEN
+1906,122946,290,Fishing,Screw Steamer,GRETA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54859&vessel=GRETA
+1906,123371,292,Fishing,Screw Steamer,LOCH TORRIDON,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54861&vessel=LOCH+TORRIDON
+1907,124695,271,Fishing,Screw Steamer,DORIS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54840&vessel=DORIS
+1907,123379,293,Fishing,Screw Steamer,BEN BHEULA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54862&vessel=BEN+BHEULA
+1907,123377,296,Fishing,Screw Steamer,CAIRNGORM,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54865&vessel=CAIRNGORM
+1907,114287,298,Fishing,Screw Steamer,CHILDREN'S TRUST,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54867&vessel=CHILDREN%27S+TRUST
+1907,123383,301,Fishing,Screw Steamer,BANNERDALE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54870&vessel=BANNERDALE
+1907,,303,Fishing,Screw Steamer,AIGLON,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54872&vessel=AIGLON
+1907,123390,305,Fishing,Screw Steamer,STAR OF FREEDOM,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54874&vessel=STAR+OF+FREEDOM
+1907,125410,307,Fishing,Screw Steamer,GLENGYNACK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54876&vessel=GLENGYNACK
+1907,125307,309,Fishing,Screw Steamer,MORNING STAR,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54878&vessel=MORNING+STAR
+1907,127286,311,Fishing,Screw Steamer,SUPPORT,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54880&vessel=SUPPORT
+1907,127139,323,Fishing,Screw Steamer,CLYDESDALE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54892&vessel=CLYDESDALE
+1908,127144,312,Fishing,Screw Steamer,ABOYNE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54881&vessel=ABOYNE
+1908,125317,315,Fishing,Screw Steamer,ERASTUS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54884&vessel=ERASTUS
+1908,125941,317,Fishing,Screw Steamer,KATE BAIRD,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54886&vessel=KATE+BAIRD
+1908,125314,319,Fishing,Screw Steamer,DAISY II,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54888&vessel=DAISY+II
+1908,125323,322,Fishing,Screw Steamer,PHINGASK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54891&vessel=PHINGASK
+1908,125324,325,Fishing,Screw Steamer,ST COMBS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54894&vessel=ST+COMBS
+1908,125327,328,Fishing,Screw Steamer,BROCH,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54897&vessel=BROCH
+1908,127569,330,Fishing,Screw Steamer,HEBDEN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54899&vessel=HEBDEN
+1909,127515,327,Fishing,Screw Steamer,G M B,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54896&vessel=G+M+B
+1909,127165,332,Fishing,Screw Steamer,KINCORTH,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54901&vessel=KINCORTH
+1909,127070,335,Fishing,Screw Steamer,FALMOUTH,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54904&vessel=FALMOUTH
+1910,,337,Fishing,Screw Steamer,ALCATRAZ,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54906&vessel=ALCATRAZ
+1910,131241,339,Fishing,Screw Steamer,MAGGIE GAULT,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54908&vessel=MAGGIE+GAULT
+1910,131250,341,Fishing,Screw Steamer,ORD HILL,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54910&vessel=ORD+HILL
+1910,128393,343,Fishing,Screw Steamer,BRAES O' BUCKIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54912&vessel=BRAES+O%27+BUCKIE
+1910,129343,345,Fishing,Screw Steamer,LOCH ASSATER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54914&vessel=LOCH+ASSATER
+1911,129351,347,Fishing,Screw Steamer,CULBLEAN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54916&vessel=CULBLEAN
+1911,129355,349,Fishing,Screw Steamer,ALLAN RAMSAY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54918&vessel=ALLAN+RAMSAY
+1911,,351,Fishing,Screw Steamer,THAIS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54920&vessel=THAIS
+1911,130031,353,Fishing,Screw Steamer,IMPREGNABLE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54922&vessel=IMPREGNABLE
+1911,118667,355,Fishing,Screw Steamer,MARE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54924&vessel=MARE
+1911,127340,358,Fishing,Screw Steamer,FANNY MAIR,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54927&vessel=FANNY+MAIR
+1911,131863,359,Fishing,Screw Steamer,ANDRINA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54928&vessel=ANDRINA
+1911,132782,361,Fishing,Screw Steamer,BELLE O' MORAY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54930&vessel=BELLE+O%27+MORAY
+1912,142982,363,Naval,Screw Steamer,DAISY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54932&vessel=DAISY
+1912,,365,Fishing,Screw Steamer,DAMIER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54934&vessel=DAMIER
+1912,129379,367,Fishing,Screw Steamer,RATAPIKO,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54936&vessel=RATAPIKO
+1912,127349,369,Fishing,Screw Steamer,ADORATION,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54938&vessel=ADORATION
+1912,132951,371,Fishing,Screw Steamer,LANNER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54940&vessel=LANNER
+1912,132963,373,Fishing,Screw Steamer,FEASIBLE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54942&vessel=FEASIBLE
+1912,118669,375,Fishing,Screw Steamer,SOUTHESK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54944&vessel=SOUTHESK
+1912,127357,377,Fishing,Screw Steamer,THREE KINGS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54946&vessel=THREE+KINGS
+1912,133612,379,Fishing,Screw Steamer,LOCH TUMMEL,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54948&vessel=LOCH+TUMMEL
+1912,133618,382,Fishing,Screw Steamer,LOCH ARD,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54951&vessel=LOCH+ARD
+1913,,383,Fishing,Screw Steamer,GINETTE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54952&vessel=GINETTE
+1913,132415,385,Fishing,Screw Steamer,NELLIE BRADDOCK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54954&vessel=NELLIE+BRADDOCK
+1913,132417,387,Fishing,Screw Steamer,SARBA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54956&vessel=SARBA
+1913,,389,Fishing,Screw Steamer,HARLE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54958&vessel=HARLE
+1913,135786,391,Fishing,Screw Steamer,NORTHESK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54960&vessel=NORTHESK
+1913,135784,393,Fishing,Screw Steamer,WIVENHOE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54962&vessel=WIVENHOE
+1913,133639,395,Fishing,Screw Steamer,ONETOS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54964&vessel=ONETOS
+1914,133645,397,Fishing,Screw Steamer,SOPHOS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54966&vessel=SOPHOS
+1914,132163,399,Fishing,Screw Steamer,QUARRY KNOWE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54968&vessel=QUARRY+KNOWE
+1914,136888,401,Fishing,Screw Steamer,BRACKLYN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54970&vessel=BRACKLYN
+1914,132166,403,Fishing,Screw Steamer,MILL O'BUCKIE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54972&vessel=MILL+O%27BUCKIE
+1914,137154,405,Fishing,Screw Steamer,LEUKOS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54974&vessel=LEUKOS
+1914,136596,407,Fishing,Screw Steamer,HOLLYDALE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54976&vessel=HOLLYDALE
+1914,136601,411,Fishing,Screw Steamer,PRIMEVERE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54980&vessel=PRIMEVERE
+1915,137161,410,Fishing,Screw Steamer,DANESTON,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54979&vessel=DANESTON
+1915,139202,413,Fishing,Screw Steamer,VALPA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54982&vessel=VALPA
+1915,136905,415,Fishing,Screw Steamer,ERNA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54984&vessel=ERNA
+1915,137179,417,Fishing,Screw Steamer,LOCH WASDALE,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54986&vessel=LOCH+WASDALE
+1916,137190,419,Fishing,Screw Steamer,VALE OF FORTH,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54988&vessel=VALE+OF+FORTH
+1916,137195,423,Fishing,Screw Steamer,LOCH LYON,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54992&vessel=LOCH+LYON
+1916,137192,421,Fishing,Screw Steamer,KOSMOS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54990&vessel=KOSMOS
+1916,139786,426,Fishing,Screw Steamer,SCHIEHALLION,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54995&vessel=SCHIEHALLION
+1917,139795,428,Fishing,Screw Steamer,AGNES H.WETHERLY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54997&vessel=AGNES+H.WETHERLY
+1917,144306,430,Naval,Screw Steamer,JAMES ARCHIBALD,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=54999&vessel=JAMES+ARCHIBALD
+1917,144370,432,Fishing,Screw Steamer,ISRAEL ALDCROFT,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55001&vessel=ISRAEL+ALDCROFT
+1917,145022,434,Naval,Screw Steamer,JOSEPH ANNISON,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55003&vessel=JOSEPH+ANNISON
+1918,145185,437,Fishing,Screw Steamer,JOHN FITZGERALD,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55006&vessel=JOHN+FITZGERALD
+1918,181007,440,Fishing,Screw Steamer,COLD SNAP,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55009&vessel=COLD+SNAP
+1918,139890,442,Fishing,Screw Steamer,CALM,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55011&vessel=CALM
+1918,146041,444,Fishing,Screw Steamer,DAWN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55013&vessel=DAWN
+1918,134954,446,Fishing,Screw Steamer,DUSK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55015&vessel=DUSK
+1919,143940,448,Naval,Screw Steamer,WILLIAM HANNAM,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55017&vessel=WILLIAM+HANNAM
+1919,137614,450,Naval,Screw Steamer,WILLIAM KNIGHT,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55019&vessel=WILLIAM+KNIGHT
+1919,139815,452,Naval,Screw Steamer,THOMAS LEEDS,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55021&vessel=THOMAS+LEEDS
+1920,141954,454,Fishing,Screw Steamer,SOLA,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55023&vessel=SOLA
+1920,,456,Fishing,Screw Steamer,TRAWLFISK,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55025&vessel=TRAWLFISK
+1921,140025,457,Fishing,Screw Steamer,ARTHUR GOULDBY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55026&vessel=ARTHUR+GOULDBY
+1922,146505,460,Cargo,Screw Steamer,SELBY,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55029&vessel=SELBY
+1924,144818,463,Fishing,Screw Steamer,KINCLAVEN,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55032&vessel=KINCLAVEN
+1925,152012,465,Coaster,Screw Steamer,CHRISTINA FRASER,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55034&vessel=CHRISTINA+FRASER
+1925,147346,468,Coaster,Screw Steamer,FIRE KING,"John Duthie, Torry Shipbuilding Co.",view.php?a1Page=1&a1PageSize=210&builder=2090&ref=55037&vessel=FIRE+KING
+1838,,,Cargo,Sailing Vessel,DUKE OF RICHMOND,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56684&vessel=DUKE+OF+RICHMOND
+1838,,,Cargo,Sailing Vessel,CONCORD,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56686&vessel=CONCORD
+1838,6860,,Cargo,Sailing Vessel,HARVEST HOME,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56688&vessel=HARVEST+HOME
+1839,,,Cargo,Sailing Vessel,MUNGO PARK,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56690&vessel=MUNGO+PARK
+1839,,,Cargo,Sailing Vessel,ISABELLA,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56692&vessel=ISABELLA
+1839,,,Cargo,Sailing Vessel,UNION GROVE,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56694&vessel=UNION+GROVE
+1839,24726,,Cargo,Sailing Vessel,MESSENGER,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56696&vessel=MESSENGER
+1840,,,Cargo,Sailing Vessel,TRAVELLER,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56698&vessel=TRAVELLER
+1840,,,Cargo,Sailing Vessel,JOHN INNES,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56700&vessel=JOHN+INNES
+1840,,,Cargo,Sailing Vessel,CHRISTINA,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56702&vessel=CHRISTINA
+1840,,,Cargo,Sailing Vessel,ISABELLA BROWN,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56704&vessel=ISABELLA+BROWN
+1841,,,Cargo,Sailing Vessel,EXPRESS,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56706&vessel=EXPRESS
+1841,6833,,Cargo,Sailing Vessel,UNDAUNTED,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56708&vessel=UNDAUNTED
+1841,17641,,Coaster,Sailing Vessel,CERES,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56710&vessel=CERES
+1842,,,Cargo,Sailing Vessel,CELESTIAL,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56712&vessel=CELESTIAL
+1842,6852,,Cargo,Sailing Vessel,SMITHFIELD,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56714&vessel=SMITHFIELD
+1842,32864,,Cargo,Sailing Vessel,RENOWN,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56716&vessel=RENOWN
+1843,17801,,Cargo,Sailing Vessel,CITIZEN,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56718&vessel=CITIZEN
+1843,18117,,Coaster,Sailing Vessel,BURGHEAD PACKET,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56720&vessel=BURGHEAD+PACKET
+1845,23150,,Cargo,Sailing Vessel,HERO,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56722&vessel=HERO
+1846,6890,,Cargo,Sailing Vessel,PEGGY,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56724&vessel=PEGGY
+1846,,,Cargo,Sailing Vessel,MURMIS,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56726&vessel=MURMIS
+1847,10566,,Cargo,Sailing Vessel,JANE PIRIE,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56728&vessel=JANE+PIRIE
+1847,15401,,Coaster,Sailing Vessel,THAMES,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56730&vessel=THAMES
+1848,764,,Cargo,Sailing Vessel,ARIEL,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56732&vessel=ARIEL
+1849,773,,Cargo,Sailing Vessel,VALLISNERIA,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56734&vessel=VALLISNERIA
+1850,4593,,Cargo,Sailing Vessel,SHEPHERDESS,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56736&vessel=SHEPHERDESS
+1851,30722,,Passenger / Cargo,Paddle Steamer,MANCHESTER,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=57065&vessel=MANCHESTER
+1851,24971,,Passenger / Cargo,Sailing Vessel,JAMES BOOTH,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56739&vessel=JAMES+BOOTH
+1852,169,,Cargo,Sailing Vessel,PLANET,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=62403&vessel=PLANET
+1853,26671,,Cargo,Sailing Vessel,RUBENS,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56742&vessel=RUBENS
+1854,13757,,Passenger / Cargo,Sailing Vessel,BEN AVON,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56744&vessel=BEN+AVON
+1855,32005,,Cargo,Sailing Vessel,HEATHER BELL,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56746&vessel=HEATHER+BELL
+1856,14758,,Cargo,Sailing Vessel,AUSTRAL,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56748&vessel=AUSTRAL
+1857,19863,,Cargo,Sailing Vessel,BRITISH MERCHANT,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56750&vessel=BRITISH+MERCHANT
+1858,21466,,Cargo,Sailing Vessel,BOLIVAR,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56752&vessel=BOLIVAR
+1859,27911,,Passenger / Cargo,Sailing Vessel,CISSY,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56754&vessel=CISSY
+1860,27580,,Passenger / Cargo,Sailing Vessel,LIBERATOR,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56756&vessel=LIBERATOR
+1838,,,Cargo,Sailing Vessel,ELIZA,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56685&vessel=ELIZA
+1838,,,Cargo,Sailing Vessel,GEORGINA,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56687&vessel=GEORGINA
+1838,,,Cargo,Sailing Vessel,MERCURY,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56689&vessel=MERCURY
+1839,,,Cargo,Sailing Vessel,AGNES,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56691&vessel=AGNES
+1839,,,Cargo,Sailing Vessel,CATHERINE,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56693&vessel=CATHERINE
+1839,,,Cargo,Sailing Vessel,SWEET HOME,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56695&vessel=SWEET+HOME
+1839,,,Cargo,Sailing Vessel,ALICE BROWN,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56697&vessel=ALICE+BROWN
+1840,,,Cargo,Sailing Vessel,JANES,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56699&vessel=JANES+
+1840,,,Cargo,Sailing Vessel,JOHN HECTOR,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56701&vessel=JOHN+HECTOR
+1840,24468,,Cargo,Sailing Vessel,WILLIAMS,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56703&vessel=WILLIAMS
+1841,,,Cargo,Sailing Vessel,PRINCESS ROYAL,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56705&vessel=PRINCESS+ROYAL
+1841,,,Cargo,Sailing Vessel,CATHERINE,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56707&vessel=CATHERINE
+1841,,,Coaster,Sailing Vessel,ELIZABETH,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56709&vessel=ELIZABETH
+1841,,,Coaster,Sailing Vessel,MARY,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56711&vessel=MARY
+1842,,,Cargo,Sailing Vessel,NEWCASTLE,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56713&vessel=NEWCASTLE
+1842,,,Cargo,Sailing Vessel,FORTUNA,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56715&vessel=FORTUNA
+1842,812,,Cargo,Sailing Vessel,PARAGON,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56717&vessel=PARAGON
+1843,,,Cargo,Sailing Vessel,GIPSY,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56719&vessel=GIPSY
+1844,6820,,Cargo,Sailing Vessel,FAVOURITE,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56721&vessel=FAVOURITE
+1845,31996,,Cargo,Sailing Vessel,DROVER,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56723&vessel=DROVER
+1846,,,Cargo,Sailing Vessel,OCEAN QUEEN,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56725&vessel=OCEAN+QUEEN
+1846,2821,,Coaster,Sailing Vessel,JESSIE,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56727&vessel=JESSIE
+1847,25354,,Coaster,Sailing Vessel,JAMES CHADWICK,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56729&vessel=JAMES+CHADWICK
+1848,,,Cargo,Sailing Vessel,COUNTESS OF SEAFIELD,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56731&vessel=COUNTESS+OF+SEAFIELD
+1849,4267,,Cargo,Sailing Vessel,ALEXANDRINA,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56733&vessel=ALEXANDRINA
+1850,4190,,Passenger / Cargo,Sailing Vessel,BRILLIANT,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56735&vessel=BRILLIANT
+1850,30715,,Passenger / Cargo,Sailing Vessel,RIENZI,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56737&vessel=RIENZI
+1851,,,Cargo,Sailing Vessel,unknown,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56738&vessel=unknown
+1852,31778,,Passenger / Cargo,Sailing Vessel,BALLARAT,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56740&vessel=BALLARAT
+1853,17909,,Coaster,Sailing Vessel,SNOWFLECK,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56741&vessel=SNOWFLECK
+1854,25435,,Passenger / Cargo,Sailing Vessel,RAPHAEL,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56743&vessel=RAPHAEL
+1854,24920,,Cargo,Sailing Vessel,IMOGEN,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56745&vessel=IMOGEN
+1855,6900,,Passenger / Cargo,Sailing Vessel,CATHERINE ADAMSON,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56747&vessel=CATHERINE+ADAMSON
+1856,14759,,Cargo,Sailing Vessel,AGNES,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56749&vessel=AGNES
+1858,20344,,Cargo,Sailing Vessel,BRITISH QUEEN,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56751&vessel=BRITISH+QUEEN
+1859,22530,,Cargo,Sailing Vessel,ROVER,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56753&vessel=ROVER
+1860,28858,,Cargo,Sailing Vessel,TA'WERA,Alexander Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2093&ref=56755&vessel=TA%27WERA
+1817,,,Cargo,Sailing Vessel,STRANGER,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56614&vessel=STRANGER
+1817,,,Cargo,Sailing Vessel,HIGHLANDER,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56616&vessel=HIGHLANDER
+1817,,,Cargo,Sailing Vessel,MARQUIS OF HUNTLY,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56618&vessel=MARQUIS+OF+HUNTLY
+1818,,,Cargo,Sailing Vessel,NORVAL,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56620&vessel=NORVAL
+1818,,,Cargo,Sailing Vessel,ALEXANDER,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56622&vessel=ALEXANDER
+1818,,,Cargo,Sailing Vessel,JULIA,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56624&vessel=JULIA
+1819,,,Cargo,Sailing Vessel,HAZARD,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56626&vessel=HAZARD
+1819,,,Cargo,Sailing Vessel,UNION,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56628&vessel=UNION
+1819,,,Cargo,Sailing Vessel,MONARCH,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56630&vessel=MONARCH
+1820,,,Cargo,Sailing Vessel,OSSIAN,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56632&vessel=OSSIAN
+1820,,,Cargo,Sailing Vessel,REWARD,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56634&vessel=REWARD
+1821,,,Cargo,Sailing Vessel,ISABELLA,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56636&vessel=ISABELLA
+1821,,,Cargo,Sailing Vessel,HELEN,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56638&vessel=HELEN
+1822,,,Cargo,Sailing Vessel,SWIFT,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56640&vessel=SWIFT
+1823,,,Cargo,Sailing Vessel,PIRATE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56642&vessel=PIRATE
+1824,,,Passenger / Cargo,Sailing Vessel,DIADEM,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56644&vessel=DIADEM
+1824,,,Cargo,Sailing Vessel,PROSPECT,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56646&vessel=PROSPECT
+1825,,,Cargo,Sailing Vessel,VESTA,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56648&vessel=VESTA
+1825,,,Cargo,Sailing Vessel,PURSUIT,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56650&vessel=PURSUIT
+1826,,,Passenger / Cargo,Sailing Vessel,UNIVERSE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56652&vessel=UNIVERSE
+1826,,,Cargo,Sailing Vessel,JOSEPHINE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56654&vessel=JOSEPHINE
+1827,,,Cargo,Sailing Vessel,WILLIAM SIMPSON,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56655&vessel=WILLIAM+SIMPSON
+1827,,,Cargo,Sailing Vessel,STRUGGLER,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56657&vessel=STRUGGLER
+1827,,,Cargo,Sailing Vessel,EARL OF CAITHNESS,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56659&vessel=EARL+OF+CAITHNESS
+1828,,,Cargo,Sailing Vessel,NAVARIN,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56661&vessel=NAVARIN
+1828,,,Cargo,Sailing Vessel,MANFRED,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56663&vessel=MANFRED
+1829,,,Cargo,Sailing Vessel,URY,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56665&vessel=URY
+1831,,,Cargo,Sailing Vessel,STAR,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56667&vessel=STAR
+1831,,,Cargo,Sailing Vessel,SOPHIA,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56669&vessel=SOPHIA
+1831,,,Cargo,Sailing Vessel,MORVEN,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56671&vessel=MORVEN
+1833,,,Cargo,Sailing Vessel,DUNNOTTAR CASTLE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56673&vessel=DUNNOTTAR+CASTLE
+1833,,,Cargo,Sailing Vessel,PURSUIT,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56675&vessel=PURSUIT
+1834,,,Cargo,Sailing Vessel,RAPID,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56677&vessel=RAPID
+1835,,,Passenger / Cargo,Sailing Vessel,CIRCASSIAN,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56679&vessel=CIRCASSIAN
+1837,6816,,Cargo,Sailing Vessel,MARYS,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56681&vessel=MARYS
+1837,,,Cargo,Sailing Vessel,ALEXANDER,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56683&vessel=ALEXANDER
+1817,,,Cargo,Sailing Vessel,VIGILANT,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56615&vessel=VIGILANT
+1817,,,Cargo,Sailing Vessel,VINE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56617&vessel=VINE
+1817,,,Cargo,Sailing Vessel,MARCHIONESS OF HUNTLY,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56619&vessel=MARCHIONESS+OF+HUNTLY
+1818,,,Cargo,Sailing Vessel,SUCCESS,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56621&vessel=SUCCESS
+1818,,,Cargo,Sailing Vessel,CHAMPION,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56623&vessel=CHAMPION
+1819,,,Cargo,Sailing Vessel,THISTLE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56625&vessel=THISTLE
+1819,,,Cargo,Sailing Vessel,TRIUMPH,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56627&vessel=TRIUMPH
+1819,,,Cargo,Sailing Vessel,MERCURY,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56629&vessel=MERCURY
+1819,,,Cargo,Sailing Vessel,SUPERB,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56631&vessel=SUPERB
+1820,,,Cargo,Sailing Vessel,DEVERON,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56633&vessel=DEVERON
+1820,,,Cargo,Sailing Vessel,ARIEL,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56635&vessel=ARIEL
+1821,,,Cargo,Sailing Vessel,SIR WILLIAM WALLACE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56637&vessel=SIR+WILLIAM+WALLACE
+1822,,,Cargo,Sailing Vessel,PURSUIT,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56639&vessel=PURSUIT
+1823,,,Cargo,Sailing Vessel,HERO,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56641&vessel=HERO
+1824,,,Cargo,Sailing Vessel,WANDERER,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56643&vessel=WANDERER
+1824,,,Cargo,Sailing Vessel,GEORGE CANNING,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56645&vessel=GEORGE+CANNING
+1825,,,Cargo,Sailing Vessel,COLUMBIA,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56647&vessel=COLUMBIA
+1825,,,Cargo,Sailing Vessel,CONFIDENCE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56649&vessel=CONFIDENCE
+1826,,,Cargo,Sailing Vessel,CITY OF ABERDEEN,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56651&vessel=CITY+OF+ABERDEEN
+1826,,,Cargo,Sailing Vessel,JANET,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56653&vessel=JANET
+1827,8143,,Coaster,Sailing Vessel,EARL OF ERROL,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=55050&vessel=EARL+OF+ERROL
+1827,,,Cargo,Sailing Vessel,CORSAIR,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56656&vessel=CORSAIR
+1827,,,Cargo,Sailing Vessel,PATRIOT,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56658&vessel=PATRIOT
+1827,,,Cargo,Sailing Vessel,MEDORA,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56660&vessel=MEDORA
+1828,,,Cargo,Sailing Vessel,EARL OF ERROL,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56662&vessel=EARL+OF+ERROL
+1828,,,Cargo,Sailing Vessel,JAMES LUMSDEN,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56664&vessel=JAMES+LUMSDEN
+1830,,,Cargo,Sailing Vessel,SYLVANUS,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56666&vessel=SYLVANUS
+1831,,,Cargo,Sailing Vessel,ROSE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56668&vessel=ROSE
+1831,,,Cargo,Sailing Vessel,CATHERINES,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56670&vessel=CATHERINES
+1831,,,Cargo,Sailing Vessel,JOHN LEES,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56672&vessel=JOHN+LEES
+1833,,,Cargo,Sailing Vessel,SINGAPORE,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56674&vessel=SINGAPORE
+1834,,,Cargo,Sailing Vessel,PACIFIC,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56676&vessel=PACIFIC
+1835,,,Cargo,Sailing Vessel,ANN,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56678&vessel=ANN
+1836,,,Cargo,Sailing Vessel,FALCON,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56680&vessel=FALCON
+1837,,,Cargo,Sailing Vessel,FLAMINGO,William Duthie & Co,view.php?a1Page=1&a1PageSize=210&builder=2127&ref=56682&vessel=FLAMINGO
